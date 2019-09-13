@@ -1,0 +1,183 @@
+.JourneyPlannerRowSecond {
+    padding-top: 15px;
+}
+
+.JoureyPlaner form {
+
+    padding-bottom: 15px;
+
+}
+
+.JoureyPlanerTimeLabel {
+    margin-top: 10px;
+    padding-left: 15px;
+    margin-bottom: -10px;
+}
+
+.JourneyPlanerInput {
+    margin-left: 15px;
+}
+
+.JourneyPlanerAddressLabel {
+    padding-left: 30px;
+    margin-bottom: -10px;
+}
+
+.listDestination {
+    height: 42px;
+    width: 90%;
+    border: #3577CE;
+    margin: auto;
+    margin-top: 20px;
+    background: lightgreen;
+    border-width: 3px !important;
+    position: relative;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+.listDestination_label {
+    margin-top: 10px;
+    margin-bottom: -30px;
+}
+
+.listDestination a {
+    margin: auto;
+    height: 30px;
+    width: 18%;
+
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+
+}
+
+.close {
+    margin: auto;
+    margin-top: 0;
+    color: white;
+    opacity: 1 !important;
+    font-size: 22px;
+
+
+}
+
+.listDestination p {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+
+}
+
+.modal-header {
+    height: 50px;
+    background: #32CD32;
+}
+
+.modal-header h4 {
+    color: white;
+    margin: auto;
+    margin-top: 0;
+}
+
+.card-text {
+    color: black !important;
+    font-size: 16px !important;
+}
+
+.Delete_bottom {
+    margin: auto;
+}
+
+.multi-collapse {
+    position: absolute;
+    left: -5%;
+    top: 45px;
+    width: 110%;
+    height: auto;
+    margin: auto;
+    z-index: 1;
+
+}
+
+.JourneyPannerListButton {
+    left: -10%;
+}
+
+#SubmitButton {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 991px) {
+    .JoureyPlaner form {
+        height: 260px;
+        padding-bottom: 10px;
+
+    }
+}
+
+/*remove background color for slide shown*/
+.slide-pane__overlay.ReactModal__Overlay--after-open {
+    background-color: transparent;
+}
+
+
+.ListofAllAttractions {
+    height: 95%;
+    width: 340px;
+    position: fixed;
+    z-index: 1;
+    top: 16%;
+    right: 1%;
+    height: 80vh;
+    /*background-color: white;*/
+    overflow-y: scroll;
+    background-color: transparent;
+
+
+}
+
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+
+/*This is for JourneyPlanner_slideShow*/
+
+
+.JourneyPannerListButton {
+
+    color: white;
+    margin: auto;
+    /*padding-left: 15% !important;*/
+
+
+}
+
+
+@media only screen and (max-width: 420px) {
+    .modal {
+        width: 90%;
+    }
+
+    .JoureyPlaner form {
+        padding-bottom: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 380px) {
+
+
+    .JourneyPannerListButton {
+        /*padding-left: 10% !important;*/
+        margin: auto;
+
+    }
+}

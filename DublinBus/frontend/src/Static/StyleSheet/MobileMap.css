@@ -1,0 +1,28 @@
+.slideShowMapFooter {
+background-color:  #8B9DC3 ;
+    height: 12%;
+    font-size: 100px;
+     position: fixed;
+   left: 0;
+   bottom: 0;
+    width: 100%;
+    border-top:grey ;
+}
+.icon_map{
+    color: gray;
+
+margin-left:5px;
+    margin-top: 5px;
+
+}
+.currentLocationIcon a{
+margin-left: auto;
+    margin-right: auto;
+}
+.currentLocationIcon{
+    top: 80px;
+    right: 30px;
+      width: 45px;
+    height: 45px;
+    background-color: white;
+}

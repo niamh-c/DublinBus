@@ -1,0 +1,487 @@
+{
+   "1":[
+      "Shanard Road",
+      "O'Connell Street",
+      "Sandymount"
+   ],
+   "11":[
+      "Parnell Square",
+      "Sandyford B.D.",
+      "O'Connell Street",
+      "St Pappin's Rd"
+   ],
+   "116":[
+      "Parnell Sq",
+      "Whitechurch"
+   ],
+   "118":[
+      "Eden Quay"
+   ],
+   "120":[
+      "Parnell St",
+      "Ballsbridge",
+      "Ashtown Stn"
+   ],
+   "122":[
+      "O'Connell Street",
+      "Drimnagh Road",
+      "Parnell Square",
+      "Ashington"
+   ],
+   "123":[
+      "O'Connell Street",
+      "Kilnamanagh Rd",
+      "Marino"
+   ],
+   "13":[
+      "Harristown",
+      "O'Connell St",
+      "Grange Castle",
+      "O'Connell Street",
+      "Grange Castle IAWS"
+   ],
+   "130":[
+      "Castle Ave",
+      "Abbey Street"
+   ],
+   "14":[
+      "Beaumont",
+      "Dundrum Luas"
+   ],
+   "140":[
+      "O'Connell St",
+      "Rathmines",
+      "IKEA"
+   ],
+   "142":[
+      "Portobello",
+      "Coast Road",
+      "UCD"
+   ],
+   "145":[
+      "Aston Quay",
+      "Heuston Station",
+      "Ballywaltrim",
+      "Belfield Flyover"
+   ],
+   "14c":[
+      "D'Olier Street",
+      "Eden Quay"
+   ],
+   "15":[
+      "Ballycullen Road",
+      "Eden Quay",
+      "Hawkins St",
+      "Clongriffin"
+   ],
+   "150":[
+      "Hawkins Street",
+      "Rossmore"
+   ],
+   "151":[
+      "Foxborough",
+      "Eden Quay",
+      "Docklands"
+   ],
+   "155":[
+      "O'Connell St",
+      "IKEA",
+      "Bray"
+   ],
+   "15a":[
+      "Limekiln Ave",
+      "Ringsend Road"
+   ],
+   "15b":[
+      "Ringsend Road",
+      "Stocking Ave"
+   ],
+   "15d":[
+      "Ringsend Road",
+      "Whitechurch"
+   ],
+   "16":[
+      "Ballinteer",
+      "Dublin Airport"
+   ],
+   "16c":[
+      "O'Connell Street"
+   ],
+   "16d":[
+      "Ballinteer"
+   ],
+   "25":[
+      "Dodsboro",
+      "Merrion Sq"
+   ],
+   "25a":[
+      "Merrion Sq",
+      "Lucan S.C."
+   ],
+   "25b":[
+      "Merrion Sq",
+      "Adamstown"
+   ],
+   "25d":[
+      "Adamstown",
+      "Merrion Square"
+   ],
+   "25x":[
+      "UCD",
+      "Dodsboro"
+   ],
+   "26":[
+      "Merrion Square",
+      "Liffey Valley",
+      "Bachelors Walk"
+   ],
+   "27":[
+      "Clare Hall",
+      "Jobstown",
+      "Eden Quay"
+   ],
+   "27a":[
+      "Eden Quay",
+      "Blunden Drive"
+   ],
+   "27b":[
+      "Coolock Lane",
+      "Eden Quay",
+      "Castletimon",
+      "Harristown"
+   ],
+   "27x":[
+      "Clare Hall",
+      "UCD"
+   ],
+   "29a":[
+      "Abbey Street",
+      "Baldoyle"
+   ],
+   "31":[
+      "Howth DART",
+      "Talbot Street",
+      "Sutton X",
+      "Howth Summit"
+   ],
+   "31a":[
+      "Talbot Street",
+      "Sheilmartin Rd"
+   ],
+   "31b":[
+      "Howth Summit",
+      "Talbot Street"
+   ],
+   "32":[
+      "Talbot Street",
+      "Malahide"
+   ],
+   "32x":[
+      "UCD",
+      "Malahide"
+   ],
+   "33":[
+      "Abbey St",
+      "Balbriggan",
+      "Skerries"
+   ],
+   "33d":[
+      "St Stephen's Green",
+      "Portrane"
+   ],
+   "33e":[
+      "Skerries"
+   ],
+   "33x":[
+      "Stephen's Gn",
+      "Balbriggan"
+   ],
+   "37":[
+      "Blanchardstown SC",
+      "Bachelor's Walk",
+      "Wilton Terrace"
+   ],
+   "38":[
+      "Damastown",
+      "Parnell Sq",
+      "Burlington Road"
+   ],
+   "38a":[
+      "Burlington Road",
+      "Damastown",
+      "Parnell Sq"
+   ],
+   "38b":[
+      "Burlington Road",
+      "Damastown",
+      "O'Connell Street"
+   ],
+   "38d":[
+      "Burlington Road",
+      "Damastown"
+   ],
+   "39":[
+      "Burlington Road",
+      "Ongar",
+      "Bachelors Walk"
+   ],
+   "39a":[
+      "Ongar",
+      "Bachelor's Walk",
+      "UCD",
+      "Aston Quay"
+   ],
+   "39x":[
+      "Ongar",
+      "Burlington Road"
+   ],
+   "4":[
+      "Monkstown Ave",
+      "O'Connell St",
+      "Harristown"
+   ],
+   "40":[
+      "O'Connell Street",
+      "Charlestown",
+      "Liffey Valley",
+      "O'Connell St"
+   ],
+   "40b":[
+      "O'Connell St",
+      "Toberburr"
+   ],
+   "40d":[
+      "Tyrrelstown",
+      "Parnell St",
+      "Hollystown"
+   ],
+   "40e":[
+      "Broombridge Luas",
+      "Tyrrelstown"
+   ],
+   "41":[
+      "Abbey St",
+      "Swords Manor"
+   ],
+   "41b":[
+      "Abbey St",
+      "Rolestown"
+   ],
+   "41c":[
+      "Swords Manor",
+      "Abbey St"
+   ],
+   "41d":[
+      "Swords Bus.Pk",
+      "Abbey St"
+   ],
+   "41x":[
+      "Swords Manor",
+      "Knocksedan",
+      "UCD"
+   ],
+   "42":[
+      "Talbot Street",
+      "Portmarnock"
+   ],
+   "43":[
+      "Talbot Street",
+      "Swords Bus.Pk"
+   ],
+   "44":[
+      "DCU",
+      "Dundrum Road",
+      "Enniskerry"
+   ],
+   "44b":[
+      "Glencullen",
+      "Dundrum Luas"
+   ],
+   "46a":[
+      "Dun Laoghaire",
+      "Parnell Square",
+      "D'Olier St",
+      "Phoenix Pk",
+      "UCD",
+      "Phoenix Park",
+      "Mountjoy Sq",
+      "Westmoreland St"
+   ],
+   "46e":[
+      "Mountjoy Sq"
+   ],
+   "47":[
+      "Belarmine",
+      "Poolbeg St"
+   ],
+   "49":[
+      "The Square",
+      "Pearse St"
+   ],
+   "51d":[
+      "Waterloo Rd",
+      "Woodford Hill"
+   ],
+   "51x":[
+      "UCD"
+   ],
+   "53":[
+      "Dublin Ferryport",
+      "Talbot Street"
+   ],
+   "54a":[
+      "Kiltipper",
+      "Pearse St"
+   ],
+   "56a":[
+      "Ringsend Road",
+      "The Square"
+   ],
+   "61":[
+      "Whitechurch",
+      "Rockbrook",
+      "Eden Quay"
+   ],
+   "65":[
+      "Poolbeg St",
+      "Ballymore",
+      "Blessington",
+      "Ballyknockan"
+   ],
+   "65b":[
+      "Citywest",
+      "Poolbeg St"
+   ],
+   "66":[
+      "Maynooth",
+      "Merrion Sq"
+   ],
+   "66a":[
+      "Merrion Sq",
+      "River Forest"
+   ],
+   "66b":[
+      "Leixlip",
+      "Merrion Sq"
+   ],
+   "66e":[
+      "Merrion Sq",
+      "Maynooth"
+   ],
+   "66x":[
+      "Maynooth",
+      "UCD",
+      "River Forest",
+      "Castletown"
+   ],
+   "67":[
+      "Maynooth",
+      "Merrion Sq"
+   ],
+   "67x":[
+      "Maynooth",
+      "UCD"
+   ],
+   "68":[
+      "Poolbeg St",
+      "Conyngham Rd",
+      "Newcastle",
+      "Greenogue"
+   ],
+   "68a":[
+      "Poolbeg St",
+      "Bulfin Road"
+   ],
+   "68x":[
+      "Poolbeg St"
+   ],
+   "69":[
+      "Poolbeg St",
+      "Rathcoole",
+      "Conyngham Rd"
+   ],
+   "69x":[
+      "Poolbeg St",
+      "Rathcoole"
+   ],
+   "7":[
+      "Parnell Square",
+      "Mountjoy Square",
+      "Brides Glen"
+   ],
+   "70":[
+      "Bachelors Walk",
+      "Burlington Road",
+      "Dunboyne"
+   ],
+   "747":[
+      "City Centre",
+      "Heuston Stn",
+      "Airport Express"
+   ],
+   "757":[
+      "Charlotte Way",
+      "Airport Express"
+   ],
+   "77a":[
+      "Citywest",
+      "Ringsend Road"
+   ],
+   "77x":[
+      "UCD"
+   ],
+   "79":[
+      "Aston Quay",
+      "Spiddal Pk"
+   ],
+   "79a":[
+      "Parkwest",
+      "Aston Quay"
+   ],
+   "7a":[
+      "Loughlinstown Pk",
+      "Mountjoy Square",
+      "Parnell Square"
+   ],
+   "7b":[
+      "Shankill",
+      "Mountjoy Square"
+   ],
+   "7d":[
+      "Mountjoy Square",
+      "Dalkey"
+   ],
+   "83":[
+      "Westmoreland St",
+      "Charlestown",
+      "Harristown",
+      "Bachelors Walk",
+      "Kimmage"
+   ],
+   "83a":[
+      "Harristown",
+      "Charlestown",
+      "Kimmage"
+   ],
+   "84":[
+      "Newcastle",
+      "Bray Station",
+      "Blackrock"
+   ],
+   "84a":[
+      "Blackrock",
+      "Bray Station",
+      "St Vincents Hosp"
+   ],
+   "84x":[
+      "Kilcoole",
+      "Eden Quay",
+      "Newcastle"
+   ],
+   "9":[
+      "Charlestown",
+      "O'Connell St",
+      "Limekiln Avenue",
+      "Parnell Sq"
+   ]
+}

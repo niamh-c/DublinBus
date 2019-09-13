@@ -1,0 +1,39 @@
+.Card_allAttraction {
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 0 0;
+
+}
+
+.Card_allAttraction p {
+    margin: auto;
+    color: white;
+
+}
+
+.Card_allAttraction a {
+    width: 35%;
+    height: 30% !important;
+    font-size: 20px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Card_allAttraction h5 {
+    text-align: center;
+    margin: auto;
+}
+
+.card-text {
+    margin: auto;
+    text-align: justify;
+    padding: 2px;
+}
+.cardBody{
+     margin: auto;
+    /*text-align: justify;!**!*/
+    padding-bottom: 10px;
+}

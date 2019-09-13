@@ -1,0 +1,35 @@
+
+.AutoComplete_suggestion {
+    position: absolute;
+    background-color: white;
+    font-size: 18px;
+    z-index: 99;
+    width: 100%;
+    margin-left: 2px;
+height: 120px;
+  overflow: auto;
+
+
+    /*position the autocomplete items to be the same width as the container:*/
+
+}
+
+.show_suggestion {
+    /*padding: 10px;*/
+    cursor: pointer;
+    background-color: #fff;
+    margin: 0;
+    /*position: relative;*/
+
+    width: 100%;
+    padding: 2px;
+    border-bottom: 1px solid #d4d4d4;
+
+
+
+}
+
+.show_suggestion:hover {
+    background-color: #e9e9e9;
+
+}

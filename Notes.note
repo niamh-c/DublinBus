@@ -1,0 +1,7 @@
+In views.py, the query for get direction can sometimes return empty for a particular combination of route and stop resulting in an out of index error, I've included an if statement to guard against this but we should investigate further since the Dublin Bus website says that the buses in these combinations actively serve these routes,
+
+Example SQL to replicate:
+
+select s.stop_id, t.direction_id from stops s, stop_times st, trips t where s.stop_id = st.stop_id and st.trip_id = t.trip_id and s.stop_id like "%0426" and t.route_id = "60-84A-d12-1"
+
+Updated get_routes to get_bus_info, now returns all bus info just in case we need something like its name in the future although it is possible that this may be done on the front end instead

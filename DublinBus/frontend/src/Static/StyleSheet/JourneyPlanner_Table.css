@@ -1,0 +1,118 @@
+/*.JourneyPlanner_Table {*/
+/*    !*border-top: 5px solid #3577CE;*!*/
+/*    !*border-top: 5px !important;*!*/
+/*    height: 70px;*/
+/*    background-color: white;*/
+/*    margin: auto;*/
+/*    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+/*margin-bottom: 20px;*/
+/*    ;*/
+/*}*/
+
+/*.ShowOrders {*/
+/*font-weight: bold;*/
+/*    font-size: 25px;*/
+/*    color: white;*/
+/*    left: 10px;*/
+/*    top: 7px;*/
+/*    height: 50px;*/
+/*    width: 50px;*/
+
+/*    border-radius: 50%;*/
+/*    !*display: inline-block;*!*/
+/*}*/
+/*.NumberingOrders{*/
+/*    top:10%;*/
+/*    left: 35%;*/
+
+/*}*/
+/*.AttractionName{*/
+/*    margin: auto;*/
+/*    margin-left: 50px;*/
+/*    text-align: center;*/
+/*}*/
+/*.TableCardBody{*/
+
+/*margin: auto;*/
+/* margin-bottom:15px ;*/
+/*}*/
+
+/*.JourneyPlannerResultDisplay{*/
+/*    width: 100%;*/
+/*}*/
+/*.instruction{*/
+/*    padding:5px ;*/
+/*}*/
+
+/*New Version Starts Here*/
+.JourneyPlannerResultDisplay {
+  border: 2px solid #32CD32;
+}
+.tab-content{
+    padding: 20px;
+}
+
+.JourneyPlanner_Table {
+
+    min-height: 70px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.resultDisplay {
+    margin: auto !important;
+}
+
+.NumberContainer {
+    margin: auto;
+    width: 20%;
+}
+
+.ShowOrders {
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    height: 50px;
+    width: 50px;
+
+    margin: auto;
+    /*margin-left: 10px;*/
+
+    border-radius: 50%;
+}
+
+.NumberingOrders {
+
+    top: 10%;
+    left: 35%;
+
+}
+
+.AttractionName {
+    margin: auto;
+    /*margin-left: 50px;*/
+    text-align: center;
+    display: inline-block;
+    display: inline-block;
+    padding: 5px;
+
+    width: 80%;
+}
+
+.TableCardBody {
+
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.JourneyPlannerResultDisplay {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.instruction {
+    padding: 5px;
+}

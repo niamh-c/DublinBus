@@ -1,0 +1,237 @@
+.resultPageStop_Route {
+    max-width: 100%;
+
+}
+#EntireBox_ResultPageStopRoute{
+      top: 30px;
+    left: 20px;
+    border: black;
+    height: auto ;
+}
+
+.resultLabel {
+    margin: auto;
+    background-color: #3577CE;
+
+    border-radius: 10px 10px 0px 0px;
+}
+
+.resultLabel {
+    color: white;
+    margin-left: 8%;
+}
+
+.busLabels {
+    background-color: #FFCC00;
+    height: 40px;
+    max-width: 98%;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.busLabels p {
+    color: white;
+     font-weight: bold;
+    font-size: 20px;
+  padding-left:20%;
+}
+
+#ArrivalLabel {
+    float: right;
+
+}
+
+.resultPageStop_Route form {
+    padding-bottom: 10px;
+    max-width: 100%;
+
+}
+
+.resultRows {
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.resultRows p {
+    background-color: #32CD32;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    height: 35px;
+    margin: auto;
+    border-radius: 6px
+}
+
+.busArrivalTime {
+    margin: auto;
+    margin-left: 16%;
+}
+
+.busArrivalTime p {
+    margin-left: 5%;
+
+}
+
+#resultRowsLastRaw{
+    margin-bottom: 10px;
+}
+/*This this changing the css for slideShow on react-slidig-panes*/
+
+
+.slide-pane__header {
+
+ display: flex;
+ flex: 0 0 64px;
+ align-items: center;
+ background: #32CD32;
+ height: 64px;
+ border-bottom: 5px solid rgba(0,0,0,0.1);
+ color: white;
+    padding-right: 0!important;
+       padding-left: 0!important;
+
+}
+.slide-pane__overlay{
+    z-index: 99 !important;
+}
+.slide-pane .slide-pane__title {
+     width: 100%!important;
+ font-size: 23px;
+ font-weight: bold;
+ max-width: 85%;
+ white-space: nowrap;
+ overflow: hidden;
+ text-overflow: ellipsis;
+ margin: 0;
+ padding: 0;
+}
+.slide-pane__close {
+ margin-left: 10px;
+ padding: 16px;
+opacity: 1;
+ cursor: pointer;
+ color:white ;
+
+ font-size: 28px;
+}
+.slide-pane__close svg {
+ width: 12px;
+ padding: 0;
+}
+.slide-pane__content {
+ position: relative;
+ /*overflow :hidden!important;*/
+ padding: 0;
+ flex: 1 1 auto;
+ margin-bottom:5px ;
+}
+
+
+
+/*End here */
+
+.MobileMap{
+    padding-right: 0!important;
+     padding-left: 0!important;
+
+}
+
+
+.ShowMapAndFare {
+    margin: auto;
+    /*padding:auto;*/
+
+    margin-top: 0px;
+    height: 35px;
+     margin-bottom: 0px;
+
+}
+.showMapButton{
+    margin: auto;
+
+
+}
+.ShowMapAndFare button {
+    height: 40px;
+    padding: auto;
+    width: 100%;
+
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+
+}
+.ResultPageButton {
+  margin: auto;
+     align-items: center;
+  margin-left:-35px !important;
+    padding-right:0 !important;
+
+}
+.JourneyPannerListButton_{
+    margin: auto;
+    padding-top:10px;
+
+}
+
+.JourneyPannerListButton_ a{
+    height: 40px;
+    width: 220px !important;
+    color: white !important;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 420px) {
+  .ResultPageButton button {
+      font-size: 15px;
+  }
+
+      .ShowMapAndFare {
+    margin: auto;
+    /*padding:auto;*/
+
+    margin-top: 15px;
+    height: 35px;
+     margin-bottom: 25px;
+
+}
+}
+
+
+@media only screen and (max-width: 380px) {
+.resultLabel h4 {
+    color: white;
+    margin-left: 8%;
+    font-size: 20px;
+       position: absolute;
+    left: 0;
+    bottom: 0;
+}
+    .busLabels p{
+        font-size:  15px;
+
+
+    }
+
+
+#ArrivalLabel {
+    font-size: 15px;
+
+}
+}
+
+.MobileShowAllAttraction{
+    overflow-y:scroll !important;
+    height: 100%;
+}

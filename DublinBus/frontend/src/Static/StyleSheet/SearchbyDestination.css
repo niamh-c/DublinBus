@@ -1,0 +1,158 @@
+.SearchByDestinationBox {
+    top: 30px;
+    left: 20px;
+    border: black;
+    height: auto;
+}
+
+.SearchByDestinationBox form {
+    height: auto;
+    padding-bottom: 10px;
+
+}
+
+.SearchByDestinationBox h5 {
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#whereLabel {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.SearchByDestinationBox p {
+    color: white;
+
+}
+
+.SearchByDestinationBox h6 {
+    margin-top: 5px;
+    margin-left: 30px;
+    color: dimgrey;
+}
+
+.RouteNumber {
+    margin: auto;
+}
+
+.NotificationButton p {
+    color: black;
+}
+
+.SearchByDestinationForm input[type=text], input[type=time], input[type=date], select, textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    height: 35px;
+}
+
+.SearchByDestinationBox label {
+    width: 100%;
+    width: 100%;
+    font-size: 20px;
+    /*text-align: center;*/
+    color: white;
+
+}
+
+.NotificationButton {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#SubmitButton {
+    margin-bottom: 25px;
+        color: white;
+
+}
+
+.row_sixth input {
+    width: 100%;
+}
+
+.row_fifth {
+    width: 100%;
+    margin: auto;
+}
+
+.SearchByDestinationBox input[type=time] {
+    width: 120px;
+    height: 30px;
+    border: #3577CE;
+    font-size: 20px;
+
+}
+.row_second{
+    margin-bottom: 10px;
+}
+.row_input {
+    margin: auto;
+}
+.row_fourth{
+    margin-top: 10px;
+}
+.row_fourth p {
+
+    margin: auto;
+    font-size: 20px
+}
+
+#destination_Input {
+    margin-left: 30px;
+    padding-right: 5px!important;
+
+}
+
+#icon_destination{
+    margin-left: -20px;
+}
+
+.DestinationAddressLabel {
+    padding-left: 48px;
+    margin-bottom: -10px;
+
+
+
+}
+
+@media only screen and (max-width: 420px) {
+   #icon_destination{
+       margin-left: -17px;
+
+   }
+    .SearchByDestinationBox {
+    top: 30px;
+    left: 0px;
+    border: black;
+    height: auto;
+}
+
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+   #icon_destination{
+       margin-left: -17px;
+
+   }
+
+}
+
+@media only screen and (max-width: 370px) {
+  .row_fourth p{
+      font-size: 19px;
+  }
+    .row_fourth label{
+         font-size: 19px;
+    }
+
+
+
+}

@@ -1,0 +1,4728 @@
+2<br>Rotunda, Parnell Square West
+3<br>Rotunda, Granby Place
+4<br>Rotunda, Rotunda Hospital
+6<br>Rotunda, Saint Martin's Chapel
+7<br>Rotunda, Rotunda Hospital
+8<br>Rotunda, Parnell Square West
+10<br>Rotunda, Parnell Square West
+11<br>Phibsborough, Upper Dorset St (St.Joseph's Parade)
+12<br>Phibsborough, Upper Dorset St (St.Joseph's Parade)
+14<br>Phibsborough, Lower Dorset Street
+15<br>Ballybough, Lower Dorset Street
+16<br>Cabra, John Paul Park
+17<br>Drumcondra, Outside Train Station
+18<br>Drumcondra (Dublin), Drumcondra Road
+19<br>Drumcondra, Lower Drumcondra Road
+21<br>Drumcondra (Dublin), Saint Patrick's College
+22<br>Drumcondra (Dublin), Home Farm Road (Achill Road)
+23<br>Drumcondra (Dublin), Ferguson Road
+24<br>Drumcondra (Dublin), Home Farm Road
+25<br>Glasnevin, Rathlin Road
+27<br>Glasnevin, Ballymun Road (Griffith Avenue)
+28<br>Wadelai, Glasnevin Tennis Club
+29<br>Whitehall (Dublin City), Ballymun Road
+30<br>Cabra, Pope John Paul II Park
+31<br>Wadelai, Maolbuille Road
+32<br>Wadelai, Saint Pappin's Road
+33<br>Wadelai, Glasnevin Drive
+35<br>Wadelai, Dean Swift Road
+36<br>Wadelai, Saint Pappin's Road
+37<br>Whitehall (Dublin City), DCU Ballymun Road
+38<br>Whitehall (Dublin City), Ballymun Road
+39<br>Glasnevin, Ballymun Road (Griffith Avenue)
+40<br>Glasnevin, Mobhi Road
+41<br>Drumcondra (Dublin), Home Farm Road
+42<br>Drumcondra (Dublin), Ferguson Road
+43<br>Drumcondra (Dublin), Home Farm Road (Achill Road)
+44<br>Drumcondra (Dublin), Homefarm Road
+45<br>Drumcondra, Upper Drumcondra Road
+46<br>Drumcondra (Dublin), Botanic Avenue
+47<br>Drumcondra, Near Train Station
+48<br>Summerhill (Dublin City), Lower Drumcondra Road
+49<br>Ballybough, Lower Dorset Street
+51<br>Upper Dorset St (Temple Street)
+52<br>Phibsborough, Upper Dorset St (St.Joseph's Parade)
+53<br>Phibsborough, North Circular Road (Lower Dorset Street)
+54<br>Phibsborough, North Circular Road (Mater Hospital)
+55<br>Phibsborough, Mater Hospital Mortuary
+56<br>Phibsborough, Cabra Road (North Circular Road)
+57<br>Phibsborough, Cabra Road (North Circular Road)
+58<br>Cabra East, Cabra Road (Charleville Road)
+59<br>Cabra East, Cabra Road (near Annamoe Terrace)
+60<br>Cabra East, Cabra Road (Quarry Road)
+63<br>Cabra East, Faussagh Avenue
+64<br>Cabra, Faussagh Avenue (Church)
+65<br>Cabra, Dingle Road
+66<br>Cabra, Faussagh Avenue (Dingle Road)
+68<br>Cabra, Ventry Drive
+69<br>Cabra, Ventry Park Estate
+71<br>Cabra, Pope John Paul II Park
+72<br>Cabra, Ventry Drive
+73<br>Cabra, Faussagh Avenue (Dingle Road)
+74<br>Cabra, Faussagh Avenue (Church)
+75<br>Cabra East, Faussagh Avenue
+77<br>Cabra East, Cabra Road (Quarry Road)
+78<br>Cabra East, Cabra Road (near Annamoe Terrace)
+79<br>Cabra East, Cabra Road (Charleville Road)
+80<br>Phibsborough, Cabra Road (North Circular Road)
+81<br>Phibsborough, North Circular Road (Phibsborough Road)
+82<br>Phibsborough, Royal Canal Bank
+83<br>Phibsborough, North Circular Road (Mater Hospital)
+84<br>Phibsborough, North Circular Road (Leo Street)
+85<br>Drumcondra (Dublin), Homefarm Road
+86<br>Whitehall (Dublin City), Garda Station
+87<br>Whitehall (Dublin City), Sherkin Gardens
+88<br>Whitehall (Dublin City), Walnut Rise
+89<br>Whitehall (Dublin City), Griffith Avenue (Lambay Road)
+90<br>Ballymun Road (St.Pappin's Road)
+91<br>Ballymun Road (Glasnevin Avenue)
+92<br>Wadelai, Ballymun Library
+93<br>Wadelai, Ballymun Road (Opp Shanlis Road)
+94<br>Ballymun, Civic Centre
+100<br>Wellington Lane (Wellington Green
+102<br>Ballymun, Balbutcher Lane (Ãrd Na Meala)
+104<br>Poppintree, Balbutcher Lane (Carrig Road)
+105<br>Ballymun, Balbutcher Lane (Cranogue Road)
+107<br>Ballymun, Balbutcher Lane (Cranogue Road)
+110<br>Ballymun, Balbutcher Lane (Ãrd Na Meala)
+112<br>Ballymun, Civic Centre
+113<br>Ballymun, Comprehensive School
+114<br>Wadelai, Ballymun Road (Shanliss Road)
+115<br>Whitehall (Dublin City), Ballymun Road (Albert College Drive)
+116<br>Whitehall (Dublin City), Griffith Lawns
+117<br>Whitehall (Dublin City), Walnut Rise
+118<br>Whitehall (Dublin City), Sherkin Gardens
+119<br>Drumcondra, Upper Drumcondra Road (Griffith Avenue)
+124<br>Virgin Mary Church
+126<br>Ballymun, Nursing Home
+127<br>Ballymun, Silver Swan Nursing Home
+128<br>Glasnevin Avenue
+129<br>Wadelai, Glasnevin Ave (Glasnevin Dr)
+130<br>Glasnevin North, Glasnevin Park
+131<br>Glasnevin North, Glasnevin Avenue (Beneavin Drive)
+132<br>Beneavin Park
+133<br>Glasnevin North, Grove Park Road
+134<br>Glasnevin North, Sycamore Road (Willow Park Crescent)
+136<br>Finglas, McKee Road
+137<br>Finglas, Clancy Avenue
+138<br>Finglas, Saint Canice's School
+139<br>Grove Park Road
+140<br>Beneavin Park
+141<br>Glasnevin North, Glasnevin Avenue (Beneavin Drive)
+142<br>Glasnevin North, Glasnevin Park
+143<br>Wadelai, Glasnevin Ave (Glasnevin Dr)
+146<br>Glasnevin, Na Fianna Football Ground
+147<br>Glasnevin, Dean Swift Bridge
+148<br>Glasnevin, Mobhi Road (Botanic Road)
+149<br>Glasnevin, Mobhi Road (MobhÃ­ Drive)
+150<br>Glasnevin, Na Fianna Football Ground
+151<br>Glasnevin, Botanic Gardens
+153<br>Glasnevin, Meteorological Office
+154<br>Glasnevin, Saint Brigid's School
+155<br>Glasnevin, Old Finglas Road
+156<br>Glasnevin, Tolka Road Estate #1
+157<br>Addison Park, Glasilawn Road
+158<br>Glasnevin, Griffith Road
+159<br>Glasnevin, Griffith Parade
+164<br>Glasnevin North, Beneavin Road
+165<br>Beneavin Road, Junction Beneavin Park
+166<br>Glasnevin North, Beneavin School
+167<br>Glasnevin North, Beneavin Road (Ballygall Road East)
+168<br>Beneavin Road, Junction Beneavin Park
+169<br>Glasnevin North, Beneavin Road
+173<br>Glasnevin, Glasnamana Place
+174<br>Glasnevin, Tolka Road Estate
+175<br>Glasnevin, Tolka Road Estate #1
+176<br>Glasnevin, Old Finglas Road
+177<br>Glasnevin, Ballygall Road East
+178<br>Glasnevin, West Park Drive
+179<br>Glasnevin, Ballygall Road East
+181<br>Glasnevin, Old Finglas Road (Cremore Ave)
+182<br>Glasnevin, Meteorological Office
+183<br>Glasnevin, Botanic Gardens
+184<br>Glasnevin, Botanic Road,Cliftonville
+185<br>Glasnevin, Botanic Road
+186<br>Glasnevin, Prospect Road
+187<br>Phibsborough, Phibsboro Road
+188<br>Phibsborough, Phibsboro Road (NCR)
+189<br>Phibsborough, Broadstone
+190<br>Phibsborough, Broadstone Depot
+191<br>Phibsborough, Youth Club
+192<br>Phibsborough, Mountjoy Street
+193<br>Finglas, McKee Road
+194<br>Phibsborough, Saint Dominic's Youth Club
+195<br>Phibsborough, Constitution Hill
+196<br>Phibsborough, Broadstone Depot
+197<br>Phibsboro Road (Monck Place)
+198<br>Phibsborough, Phibsboro Shopping Centre
+199<br>Phibsborough, Phibsboro Road
+200<br>Glasnevin, Prospect Way
+201<br>Glasnevin, Botanic Road
+202<br>Glasnevin, Fairfield Road
+203<br>Drumcondra, Whitehall Garda Station
+204<br>Whitehall, Highfield Hospital
+205<br>Whitehall (Dublin City), Swords Road
+206<br>Whitehall, Collins Avenue West ( Larkhill Road)
+207<br>Whitehall, Larkhill Road
+208<br>Whitehall, Glendun Road
+209<br>Whitehall, Glentow Estate
+210<br>Whitehall, Crestfield Road
+211<br>Whitehall (Dublin City), Saint Aidan's School
+212<br>Whitehall, Collins Avenue West ( Larkhill Road)
+213<br>Whitehall, Iveragh Road
+214<br>Whitehall, Highfield Hospital
+215<br>Whitehall, Collins Avenue West
+216<br>Beaumont (Dublin City), Yellow Road
+217<br>Whitehall, Beaumont Road
+218<br>Beaumont, Shantalla Road (Beaumont Road)
+219<br>Santry, Shantalla Road (Shantalla Avenue)
+220<br>Whitehall, Swords Road
+221<br>Santry, Shanowen Road
+222<br>Santry, Shanliss Road
+223<br>Santry, Shanliss Avenue
+224<br>Santry, Shanard Road
+225<br>Santry, The Thatch Road
+226<br>Santry, Shanard Road (Shanard Avenue)
+227<br>Santry, Shanliss Road
+228<br>Wadelai, Shanliss Road
+229<br>Santry, Shanliss Road
+230<br>Santry, Shanliss Road
+231<br>Santry, Swords Road #1
+232<br>Santry, Shantalla Road (Shantalla Avenue)
+233<br>Beaumont, Shantalla Road (Beaumont Road)
+234<br>Beaumont, Beaumont Grove
+235<br>Whitehall, Beaumont Road Collinswood Estate
+236<br>Beaumont (Dublin City), Yellow Road
+237<br>Whitehall, Collins Avenue
+242<br>Beaumont, Coolgreena Road
+243<br>Beaumont, Beaumont Road
+244<br>Beaumont, Elmount Rise
+245<br>Beaumont, Whitethorn Crescent
+246<br>Artane, Beaumont Recreational Centre
+247<br>Artane, Maryfield Drive
+248<br>Artane, Maryfield Drive
+249<br>Artane, Beaumont Recreational Centre
+250<br>Beaumont, Whitethorn Crescent
+251<br>Beaumont, Skelly's Lane (Elmount Rise)
+252<br>Beaumont, Skelly's Lane (Opp Beaumont Crescent)
+253<br>Kilmore, Beaumont Hospital
+254<br>Kilmore, Beaumont Hospital
+255<br>Beaumont, Coolgreena Road
+261<br>Dublin, Parnell Square North
+262<br>Dublin, Garden of Remembrance
+263<br>Dublin, Garden of Remembrance
+264<br>Dublin, Gaelscoil Cholaiste Mhuire
+265<br>Dublin, Gate Theatre
+270<br>Dublin, Upper O'Connell Street
+271<br>Dublin, Lower O'Connell Street
+272<br>Dublin, Upper O'Connell Street
+273<br>Dublin City South, O'Connell Bridge
+274<br>Dublin, Millennium Spire
+276<br>Ashtown, River Road
+277<br>Dublin, Citizens Information Service
+278<br>Dublin, Cathal Brugha Street
+279<br>Dublin, Millennium Spire
+281<br>Rotunda, Dublin Bus Head Office
+284<br>Ashtown, Rathbourne Avenue
+286<br>Dublin, Cathal Brugha Street
+288<br>Dublin City, Marlborough Street
+289<br>Dublin, Irish Life Mall
+291<br>Dublin, National Lottery Head Quarters
+292<br>Dublin, Irish Life Mall
+293<br>Dublin, National Lottery Head Quarters
+297<br>Dublin, Eden Quay
+298<br>Dublin, Liberty Hall
+299<br>Dublin, Liberty Hall
+300<br>Dublin, Liberty Hall
+301<br>Dublin, Marlborough Street
+302<br>Dublin, Eden Quay
+303<br>Dublin, Eden Quay
+307<br>Warrenmount, O'Donovan Road
+308<br>Warrenmount, Oscar Square
+309<br>Warrenmount, Ardee Street
+312<br>Temple Bar, Wellington Quay
+315<br>Dublin, Bachelors Walk
+317<br>Dublin City South, Westmoreland Street
+318<br>Westmoreland Street (O'Connell Bridge)
+319<br>Dublin City South, Westmoreland Street
+320<br>Dublin City South, Westmoreland Street
+322<br>Ballymun, Gulliver's Retail Park
+323<br>Dublin Airport, Silloge Golf Club
+324<br>St. Margaret's, Harristown Bus Garage
+325<br>Temple Bar, Aston Quay
+326<br>Temple Bar, Aston Quay
+327<br>Dublin Airport, Silloge Golf Club
+328<br>Temple Bar, Aston Quay
+329<br>Temple Bar, Aston Quay
+332<br>St. Margaret's, Harristown Bus Garage
+333<br>Dublin City South, O'Connell Bridge House
+334<br>Dublin City South, D'Olier Street
+335<br>Dublin City South, D'Olier House
+336<br>Dublin City South, Ashfield House
+340<br>Dublin City South, Pearse Street Garda Station
+342<br>Trinity College
+345<br>Trinity College, Garda Station
+346<br>Trinity College, Garda Station
+350<br>Dublin City South, Lower Sandwith Street
+351<br>Pearse Station, Pearse Street
+352<br>Grand Canal Dock, Pearse Square
+353<br>Grand Canal Dock, Pearse Street
+354<br>Grand Canal Dock, Barrow Street
+355<br>Grand Canal Dock, Ringsend Bus Depot
+356<br>Ringsend, Bridge Street
+357<br>Irishtown, Irishtown Road
+371<br>Irishtown (Dublin City), Irishtown Gospel Hall
+372<br>Sandymount, Star Of The Sea Church
+373<br>Sandymount, Farney Park
+374<br>Sandymount, Sandymount Road
+375<br>Sandymount, Seafort Avenue
+376<br>Sandymount, Strand Road (Lea Road)
+377<br>Sandymount, Strand Road (Gilford Road)
+378<br>Sandymount, Sandymount Tower
+380<br>Sandymount, Saint John's Road East
+381<br>Sandymount, Saint John's Church
+382<br>Sandymount, Seamount House
+383<br>Sandymount, Strand Road (Gilford Road)
+384<br>Sandymount, Strand Road (Lea Road)
+385<br>Sandymount, Newgrove Avenue
+387<br>Sandymount, Sandymount Road
+388<br>Irishtown, Sandymount Road
+389<br>Irishtown (Dublin City), Sandymount Road
+390<br>Sandymount, Tritonville Road
+391<br>Ringsend, Irishtown Road
+392<br>Ringsend, Saint Patrick's Church
+393<br>Sandymount, Cranfield Place
+395<br>Ringsend, Ringsend Road
+396<br>Grand Canal Dock, Pearse Street
+397<br>Grand Canal Dock, Saint Andrew's Resource Centre
+398<br>Pearse Station, Pearse Street
+399<br>Pearse Station, Pearse Street
+400<br>Trinity College, Shaw Street
+404<br>Trinity College, Nassau St. (Opp. Frederick St)
+405<br>Trinity College, South Frederick's Street
+406<br>Trinity College, Northern Ireland Tourist Board
+407<br>Custom House Quay
+408<br>Merrion Square North
+409<br>Merrion Square, Holles Street
+410<br>Pembroke West, Lower Mount Street
+411<br>Dublin City South, Lower Mount Street
+412<br>Dublin City South, Northumberland Road
+413<br>Dublin City South, Northumberland Road
+414<br>Ballsbridge, Northumberland Road
+415<br>Ballsbridge, Elgin Road
+416<br>Ballsbridge, Merrion Road RDS
+417<br>Ballsbridge, Merrion Road (Sydenham Road)
+418<br>Ballsbridge, British Embassy
+419<br>Ballsbridge, Merrion Road
+420<br>Ballsbridge, Merrion Road
+421<br>Merrion, Merrion Road (Ailesbury Road)
+422<br>Merrion, Saint Vincent's Hospital
+423<br>Merrion, Herbert Avenue
+424<br>Merrion, Merrion Gates
+425<br>Booterstown, Rock Road (Bellevue Avenue)
+426<br>Booterstown, Rock Road (Saint Helen's Road)
+427<br>Blackrock (DunLaoghaire-Rathdown), Rock Road (Booterstown Hall)
+428<br>Booterstown, Blackrock College
+429<br>Booterstown, Blackrock Clinic
+430<br>Sydney Avenue
+431<br>Cross Avenue
+432<br>Hyde Park Avenue
+433<br>Grove Avenue
+434<br>Woodlands Park
+435<br>Mount Merrion, Stillorgan Road (Mount Merrion Ave)
+437<br>Mount Merrion, Lower Trees Road (The Rise)
+441<br>Mount Merrion, Lower Kilmacud Road (Redesdale Road)
+442<br>Mount Merrion, Dale Drive
+443<br>Kilmacud, South Avenue
+444<br>Stillorgan, Kilmacud Park
+445<br>Stillorgan, Kilmacud House
+447<br>Kilmacud, Upp KilmacudRoadExt
+448<br>Sandyford, Burton Hall Road
+449<br>Sandyford, Blackthorn Road
+450<br>Sandyford, Heather Road
+451<br>Sandyford, Blackthorn Drive, Arkle Road
+453<br>Kilmacud, Upper Kilmacud Road #1
+454<br>Kilmacud, South Avenue
+459<br>Mount Merrion, South Avenue
+460<br>Mount Merrion, Lower Trees Road (The Rise)
+461<br>Stillorgan Road (Trees Road)
+462<br>Mount Merrion Avenue
+464<br>Southhill Avenue
+465<br>Clanfadda Wood
+466<br>Glenvar Park
+467<br>Cross Avenue
+468<br>Sydney Avenue
+469<br>Blackrock (Dun), Rock Road
+470<br>Booterstown, Blackrock Clinic
+471<br>Booterstown, Blackrock College
+472<br>Booterstown, Rock Road (Booterstown Avenue)
+473<br>Blackrock (DunLaoghaire-Rathdown), Rock Road (Grotto Avenue)
+475<br>Booterstown, Rock Road (Bellevue Avenue)
+476<br>Merrion, Merrion Gates
+477<br>Merrion, Merrion Road (Estate Ave)
+478<br>Merrion, Saint Vincent's Hospital
+479<br>Merrion, Merrion Shopping Centre
+480<br>Merrion, Merrion Road (Ailesbury Road)
+481<br>Ballsbridge, Merlyn Road
+482<br>Ballsbridge, Merrion Road
+483<br>Ballsbridge, Merrion Road
+485<br>Ballsbridge, Merrion Road RDS
+486<br>RDS Ballsbridge
+487<br>Ballsbridge, American Embassy
+488<br>Dublin City South, Lansdowne Park
+489<br>Dublin City South, Northumberland Road
+490<br>Beggar'S Bush, Northumberland Road
+491<br>Dublin City South, Lower Mount Street
+492<br>Pembroke West, Lower Mount Street
+493<br>Merrion Square, Holles Street
+494<br>Clare Street
+495<br>Pearse Station, Outside Train Station
+496<br>BusÃ¡ras
+497<br>Outside Connolly Station
+499<br>Ballybough, Summerhill Parade
+500<br>North Strand, Ballybough Road (Foster Terrace)
+501<br>North Strand, Ballybough Road (Clonliffe Road)
+509<br>North Strand, Ballybough Road (Clonliffe Road)
+510<br>North Strand, Ballybough Road (Foster Terrace)
+511<br>Ballybough, Summerhill Parade
+513<br>Summerhill, Summerhill Road
+515<br>Connolly Station, Amiens Street
+516<br>North Strand, Marino College of Further Education
+518<br>North Strand, Northbrook Avenue Lower
+519<br>North Strand, Annesley Bridge
+521<br>Ballybough, Fairview Park
+522<br>Fairview, Fairview Footbridge
+523<br>Fairview, Marino College Fairview
+525<br>Clontarf, Howth Road
+526<br>Clontarf, Copeland Grove
+527<br>Clontarf, Howth Road (St.Lawrence Road)
+528<br>Clontarf, Castle Grove
+529<br>Killester, Howth Road (Collins Avenue)
+530<br>Killester, Howth Road (Castle Ave)
+531<br>Killester, Howth Road (Furry Park Road)
+532<br>Raheny, Howth Road (Brookwood Avenue)
+533<br>Raheny, Howth Road (Ennafort Park Estate)
+534<br>Raheny, Garda Retirement Home
+535<br>Raheny, Raheny Shopping Centre
+536<br>Raheny, Raheny Village
+537<br>Raheny, Avondale Park
+538<br>Raheny, Howth Road (Maywood Road)
+539<br>Raheny, Howth Road (The Old Sheiling)
+540<br>Raheny, Howth Road (Greendale Road)
+541<br>Howth Road (Blackbanks)
+542<br>Bayside, Dublin Road (Kilbarrack Road)
+543<br>Bayside, Dublin Road (Mariner's Court)
+544<br>Bayside, Bayside Estate
+545<br>Bayside, Kilbarrack Cemetery
+546<br>Bayside, Sutton Park
+547<br>Sutton, Dublin Road
+548<br>Sutton, Saint Fintan's School
+549<br>Sutton, Binn Eadair View
+550<br>Sutton, Sutton Cross
+551<br>Sutton, Methodist Church
+552<br>Sutton, Howth Road (Offington Park)
+553<br>Sutton, Howth Road
+554<br>Howth, Howth Lodge Hotel
+555<br>Howth, Laneway Howth Castle
+557<br>Howth, Outside Train Station
+558<br>Howth, Old Courthouse
+559<br>Howth, Howth Road
+560<br>Howth, Howth Abbey Street
+562<br>Howth, Bodeen House
+563<br>Howth, Thormanby Road
+564<br>Baily, Thormanby Road
+565<br>Howth, Nursing Home
+566<br>Howth, Kitestown Road
+567<br>Howth Summit
+568<br>Howth, Thormanby Road #1
+569<br>Howth, Nursing Home
+570<br>Howth, Thormanby Woods
+571<br>Baily, Thormanby Road
+572<br>Howth, Upper Cliff Road
+573<br>Howth, Asgard Road
+574<br>Howth, Asgard Park
+575<br>Howth, Saint Lawrence Road
+576<br>Howth, Harbour Road
+577<br>Howth, Old Courthouse
+579<br>Howth, Outside Train Station
+580<br>Howth, Transport Museum
+581<br>Howth, Howth Lodge Hotel
+582<br>Sutton, Howth Road
+583<br>Sutton, Burrow School
+584<br>Sutton, Methodist Church
+585<br>Sutton, Sutton Cross
+586<br>Sutton, Saint Fintan's School
+587<br>Sutton, Baldoyle Road
+588<br>Bayside, Sutton Park
+589<br>Bayside, Kilbarrack Cemetery
+590<br>Bayside, Bayside Estate
+591<br>Bayside, Dublin Road (Kilbarrack Road)
+592<br>Dublin Road (James Larkin Road)
+593<br>Howth Road (Blackbanks)
+594<br>Raheny, Howth Road (Greendale Road)
+595<br>Raheny, Berehaven Place
+596<br>Kilbarrack, Howth Road
+597<br>Raheny, Howth Road (Maywood Road)
+598<br>Raheny, Howth Road (Avondale Park)
+599<br>Raheny, Raheny Library
+600<br>Raheny, Howth Road
+601<br>Raheny, Howth Road (Cill Eanna Estate)
+602<br>Raheny, Cill Eanna Estate (Opposite Ennafort Park)
+603<br>Raheny, Ennafort Park Estate
+604<br>Raheny, All Saints Road
+605<br>Raheny, Howth Road (Brookwood Avenue)
+606<br>Killester, Saint Bridget's Church
+607<br>Killester, Howth Road (Furry Park Road)
+608<br>Killester, Howth Road (Castle Ave)
+609<br>Clontarf, Castle Grove
+610<br>Clontarf, Ashbrook Estate
+611<br>Clontarf, Howth Road (Hollybrook Park)
+612<br>Marino, Marino Road
+613<br>Clontarf, Howth Road
+614<br>Fairview, Pedestrian Footbridge
+615<br>Ballybough, Fairview Park
+616<br>North Strand, Annesley Bridge
+617<br>Ballybough, North Strand Road
+618<br>North Strand, Newcomen Bridge
+619<br>Connolly Station, Amiens Street
+620<br>Dublin, Talbot Street (opp Bank of Ireland)
+621<br>Dublin, Talbot Street
+624<br>Harmonstown, Harmonstown Road (Ribh Road)
+625<br>Harmonstown, Lein Park
+626<br>Harmonstown, Edenmore Green
+627<br>Edenmore, Edenmore Grove
+628<br>Edenmore, Edenmore Grove
+629<br>Edenmore, Edenmore Park
+630<br>Edenmore, Springdale Road
+633<br>Edenmore, Tonlegee Drive
+634<br>Edenmore, Tonlegee Avenue
+635<br>Edenmore, Glenwood Road (Tonlegee Rd)
+636<br>Edenmore, Tonlegee Drive
+637<br>Edenmore, Springdale Road
+638<br>Edenmore, Springdale Road
+639<br>Edenmore, Edenmore Park
+640<br>Edenmore, Edenmore Grove
+641<br>Edenmore, Edenmore Grove
+642<br>Harmonstown, Edenmore Green
+643<br>Edenmore, Saint Joseph's Hospital
+644<br>Harmonstown, Lein Park
+645<br>Harmonstown, Harmonstown Road (Ribh Road)
+649<br>Raheny, All Saints Road
+650<br>All Saints Road (Sybill Hill Ave)
+651<br>Raheny, All Saints Road (Near Tennis Courts Car Park)
+653<br>Raheny, Main Street Raheny
+654<br>Raheny, Watermill Road
+655<br>Raheny, Watermill Drive
+656<br>Raheny, All Saints Park
+657<br>Raheny, All Saints Park
+658<br>Raheny, All Saints Road (Waterfall Road)
+659<br>All Saints Road (Sybill Hill Ave)
+661<br>Westend Office Park
+662<br>Clanmoyle Road
+663<br>Saint Peters School
+664<br>Donnycarney, Donnycarney Church
+665<br>Donnycarney, Malahide Road Clontarf Golf Club
+666<br>Clontarf, Mount Temple School
+667<br>Marino, Malahide Road (Griffith Avenue)
+668<br>Marino, East South B. Sub Station
+669<br>Marino, Malahide Road (Crescent Place)
+670<br>Marino, Malahide Road (Griffith Avenue)
+671<br>Clontarf, Mount Temple School
+672<br>Donnycarney, junction Donnycarney Road
+674<br>Parnell Park
+675<br>Amiens Street Junction Upper Sheriff Str
+677<br>Sutton, Sutton Cross
+678<br>Sutton, Greenfield Road
+679<br>Sutton, Santa Sabina School
+680<br>Sutton, Strand Road
+681<br>Sutton, The Moorings
+682<br>Fingal, La Vista Road
+683<br>Sutton, Saint Fintan's House
+684<br>Sutton, Saint Fintan's Park
+685<br>Sutton, Sutton Park School
+686<br>Sutton, Sutton Castle
+688<br>Sutton, Martello Terrace
+689<br>Sutton, Slieverue Lodge
+690<br>Sutton, Saint Fintan's Road
+691<br>Sutton, The Moorings
+692<br>Sutton, Strand Road
+693<br>Sutton, Saint Fintan's Church
+694<br>Sutton, Greenfield Road
+695<br>Sutton, Carrickbrack Road (Offington Park)
+696<br>Sutton, Carrickbrack Road (St.Fintan's School)
+697<br>Sutton, Howth Cemetery
+698<br>Howth, Howth Golf Club
+699<br>Sutton, Dun An Oir House
+700<br>Howth, Sheerwater
+701<br>Howth, Sheilmartin Cottage
+702<br>Howth, Carrickbrack Road (Ceannchor Road)
+703<br>Howth, Davos House
+704<br>Howth, Stella Maris Convent
+705<br>Howth, Brackenhill House, Baily Lighthouse
+706<br>Howth, Thormanby Road, Bailey Lighthouse
+707<br>Howth, Howth Summit
+708<br>Howth, Thormanby Road, Bailey Lighthouse
+709<br>Killester, Saint Bridget's Church
+710<br>Howth, Stella Maris Convent
+711<br>Howth, Carrickbrack Road
+712<br>Howth, Old Carrickbrack Road
+713<br>Howth, Carrickbrack Road (Ceannchor Road)
+714<br>Howth, Sheilmartin Cottage
+715<br>Howth, Sheerwater
+716<br>Sutton, Dun An Oir House
+717<br>Howth, Howth Golf Club
+718<br>Sutton, Saint Fintan's Cemetery
+719<br>Sutton, Carrickbrack Road (St.Fintan's School)
+720<br>Sutton, Duncarraig
+721<br>Sutton, Carrickbrack Road (Offington Park)
+722<br>Raheny, Outside Train Station
+723<br>Edenmore, East South B. Sub Station
+724<br>Edenmore, Grange Woodbine Community Centre
+725<br>Edenmore, Raheny Road
+726<br>Donaghmede, Millbrook Avenue
+727<br>Donaghmede, Donaghies Estate
+728<br>Donaghmede, Church Of The Holy Trinity
+729<br>Donaghmede, Scoil Bride
+730<br>Donaghmede, Hole in the Wall Road
+731<br>Howth, Brackenhill House, Baily Lighthouse
+733<br>Rathingle, Rathingle Road
+738<br>Donaghmede, Grangemore Road
+739<br>Donaghmede, Donaghmede Shopping Centre
+740<br>Donaghmede, Donaghies Estate
+741<br>Donaghmede, Millbrook Avenue
+742<br>Raheny, De La Salle School
+743<br>Raheny, Woodbine Park
+744<br>Raheny, Raheny Road
+745<br>Raheny, Outside Train Station
+746<br>Kildare Street (Natural History Museum)
+747<br>Dublin City South, Archbishop Statue
+748<br>Stephen's Green, Huguenot Cemetery
+749<br>Dublin City South, Lower Pembroke Street
+750<br>Dublin City South, Lower Baggot Street
+751<br>Dublin City South, Baggot Street Lower
+752<br>Dublin City South, Upper Baggot Street
+753<br>Dublin City South, Saint Martins House
+754<br>Dublin City South, Waterloo Road (Burlington Road)
+755<br>Dublin City South, Waterloo Road (Wellington Lane)
+756<br>Donnybrook, Bloomfield Avenue
+757<br>Donnybrook, Morehampton Road
+758<br>Donnybrook, Donnybrook Fire Station
+759<br>Donnybrook, Old Wesley Rugby Football Club
+760<br>Donnybrook, Church of the Sacred Heart
+761<br>Donnybrook, R.T.E. Television Studios
+762<br>RTE
+763<br>Donnybrook, Belfield Court
+765<br>UCD
+767<br>Belfield, University College Dublin
+768<br>Dublin (UCD Stillorgan Rd Flyover)
+769<br>Donnybrook, Belfield Court
+770<br>N11 Opp. R.T.E.
+771<br>Donnybrook, Teresian School
+772<br>Donnybrook, Donnybrook Bus Garage
+773<br>Donnybrook, Donnybrook Road
+774<br>Donnybrook, Donnybrook Garda Station
+775<br>Donnybrook, Morehampton Road
+776<br>Donnybrook, Morehampton Road
+777<br>Donnybrook, Morehampton Road
+779<br>Dublin City South, Waterloo Road (Wellington Lane)
+780<br>Dublin City South, Waterloo Road (Burlington Road)
+781<br>Dublin City South, Saint Martins House
+782<br>Dublin City South, Upper Baggot Street
+783<br>Dublin City South, Baggot Street Lower
+784<br>Dublin City South, Lower Baggot Street
+785<br>Dublin City South, Lower Pembroke Street
+786<br>Dublin City South, Lower Leeson Street
+788<br>The Oaks
+790<br>St Stephens Green North
+791<br>Stephen's Green, Stephens Court
+792<br>Dublin City South, Dawson Street
+793<br>Dublin City South, Dawson Street
+795<br>Phibsborough, Eccles Street
+796<br>Phibsborough, Mater Hospital, Berkeley Road
+797<br>Phibsborough, Post Office
+798<br>Cabra East, North Circular Road (Rathdown Road)
+799<br>Cabra East, North Circular Road (Charleville Road)
+800<br>Cabra East, Grangegorman Hospital
+801<br>Cabra East, North Circular Road
+802<br>Arbour Hill, Drumalee Estate
+803<br>Cabra East, North Circular Road (Oxmanstown Road)
+804<br>Cabra East, North Circular Road (O'Devaney Gardens)
+807<br>Arbour Hill, Phoenix Park Gate
+808<br>Cabra East, North Circular Road (O'Devaney Gardens)
+809<br>Cabra East, North Circular Road (Oxmanstown Road)
+810<br>Arbour Hill, Ellesmare Avenue
+811<br>Cabra East, North Circular Road
+812<br>Cabra East, Grangegorman Hospital
+813<br>Cabra East, North Circular Road (Charleville Road)
+814<br>Phibsborough, North Circular Road (Cabra Road)
+815<br>Forrest Little Golf
+817<br>Phibsborough, Mater Hospital, Berkeley Road
+818<br>Phibsborough, O'Connell Avenue
+819<br>Phibsborough, Blessington Court
+820<br>Cabra East, Carnlough Road (Cabra Road)
+821<br>Cabra East, Drumcliffe Estate
+822<br>Cabra East, Carnlough Road
+823<br>Cabra East, Carnlough Road (Bannow Road)
+824<br>Cabra, Carnlough Road (Kilkieran Road)
+825<br>Cabra, Carnlough Road
+826<br>Cabra, Near Train Station
+827<br>Cabra, Ventry Park Estate
+828<br>Cabra, Near Train Station
+829<br>Cabra, Carnlough Road
+830<br>Cabra East, Carnlough Road (Bannow Road)
+831<br>Cabra East, Carnlough Road
+832<br>Cabra East, Drumcliffe Estate
+833<br>Cabra East, Carnlough Road (Cabra Road)
+834<br>Drumcondra (Dublin), Binns Bridge
+835<br>Drumcondra (Dublin), Lower Saint Brigid's Road
+836<br>Drumcondra (Dublin), Claude Road
+837<br>Drumcondra (Dublin), David Road
+838<br>Drumcondra (Dublin), Whitworth Road (Prospect Rd)
+839<br>Drumcondra (Dublin), David Road
+840<br>Drumcondra (Dublin), Whitworth Road
+841<br>Drumcondra (Dublin), Whitworth Road
+842<br>Stephen's Green, Saint Stephen's Green
+843<br>Stephen's Green, Saint Stephen's Green
+844<br>Stephen's Green, Loreto Convent
+845<br>Dublin City South, Leeson Street
+846<br>Dublin City South, Lower Leeson Street
+847<br>Dublin City South, Upper Leeson Street (Mespil Road)
+848<br>Dublin City South, Sussex Road
+849<br>Ranelagh, Appian Way
+850<br>Ranelagh, Chelmsford Road
+851<br>The Triangle (Dublin), Chelmsford Road
+852<br>Ranelagh, Ranelagh Village
+853<br>Ranelagh, Sandford Road
+854<br>Milltown (Dublin City), Sandford Road (Larch Grove)
+855<br>Milltown (Dublin City), Sandford Road (Belmont Road)
+856<br>Milltown (Dublin City), Clonskeagh Road (Eglington Road)
+857<br>Milltown (Dublin City), Clonskeagh Hospital
+858<br>Milltown (Dublin City), Beech Hill Estate
+859<br>Clonskeagh, Whitethorn Road
+860<br>Milltown, Clonskeagh Road
+861<br>Clonskeagh, Bird Avenue
+862<br>Clonskeagh, Islamic Centre
+863<br>Carmelite Monastery
+864<br>Eurocampus
+865<br>Roebuck Castle
+866<br>Roebuck Hall
+867<br>Owenstown Park
+869<br>Roebuck Road
+870<br>Roebuck Castle
+873<br>Eurocampus
+874<br>Carmelite Monastery
+875<br>Clonskeagh, Roebuck Road (White Oak Est)
+876<br>Clonskeagh, Bird Avenue
+877<br>Belfield, University College of Dublin UCD
+878<br>Milltown, Clonskeagh Road
+879<br>Clonskeagh, Annsbrook Estate
+880<br>Clonskeagh, Whitethorn Road
+881<br>Milltown (Dublin City), Beech Hill Estate
+882<br>Milltown (Dublin City), Clonskeagh Hospital
+883<br>Clonskeagh, Clonskea Road (Milltown Road)
+884<br>Clonskeagh, Milltown Park
+885<br>Milltown (Dublin City), Sandford Road (Larch Grove)
+886<br>Ranelagh, Sandford Road
+887<br>Ranelagh, Ranelagh
+893<br>Rathmines, Cowper Road
+894<br>Rathmines, Cowper Road
+895<br>Rathgar, Upper Rathmines Road
+896<br>Rathgar, Palmerston Park
+897<br>Rathgar, Palmerston Lane
+903<br>Ranelagh, Chelmsford Road
+904<br>Ranelagh, Appian Way
+905<br>Malahide, Inbher Ide
+906<br>Leeson Street Upper
+907<br>Ranelagh, Saint John's Ambulance Head Quarters
+908<br>Dublin City South, Upper Leeson Street (Mespil Road)
+909<br>Dublin City South, Lower Leeson Street
+910<br>Sutton, Baldoyle Road
+911<br>Sutton, Saint Domhnach's Well
+912<br>Baldoyle, Moyclare Estate
+913<br>Baldoyle, Saint Mary's School
+914<br>Baldoyle, Baldoyle
+915<br>Baldoyle, Willie Nolan Road
+916<br>Baldoyle, Georgian Hamlett Estate
+917<br>Baldoyle, Admiral Court Estate
+918<br>Baldoyle, Baldoyle Youth Club
+919<br>Baldoyle, Church
+924<br>Baldoyle, Baldoyle Credit Union
+925<br>Baldoyle, Admiral Court
+927<br>Baldoyle, Willie Nolan Road
+928<br>Baldoyle, Baldoyle
+929<br>Baldoyle, Warrenhouse Road (Dublin Street)
+930<br>Baldoyle, Warrenhouse Road
+931<br>Sutton, Saint Domhnach's Well
+935<br>Station Road
+936<br>Strand Road
+938<br>Portmarnock, Old Race Course
+940<br>Portmarnock, Moyne Cottages
+941<br>Portmarnock, Coast Road (Moyne Bridge)
+942<br>Portmarnock, Saint Rita's House
+943<br>Portmarnock, Portmarnock Bridge
+944<br>Dartry, Portmarnock Roundabout
+945<br>Portmarnock, Saint Rita's House
+946<br>Knocklyon, Woodbrook Park
+947<br>Portmarnock, Coast Road
+948<br>Portmarnock, Moyne Bridge
+949<br>Portmarnock, The Coast Estate
+950<br>Baldoyle, Baldoyle Village
+951<br>Strand Road
+952<br>Burrowfield Road
+953<br>Station Road
+956<br>Kilbarrack, Naomh Barrog GAA Club
+957<br>Howth Junction, Railway Bridge
+958<br>Donaghmede, Saint Donagh's Estate
+959<br>Donaghmede, Kilbarrack Road
+960<br>Edenmore, Tonlegee Road
+961<br>Edenmore, Saint Monica's Youth Centre
+962<br>Edenmore, Tonlegee Road
+963<br>Rathvale
+964<br>St John's Church
+965<br>Malahide Road
+966<br>Oscar Traynor Road
+967<br>Coolock Drive
+968<br>Armstrong Walk
+969<br>Coolock, Northside Shopping Centre
+972<br>Kilmore (Dublin City), Woodlawn Estate
+973<br>Coolock Lane
+974<br>Santry Avenue
+975<br>Shanliss Way
+976<br>Geraldstown Wood
+979<br>St Canice's GNS
+980<br>Finglas, Mellowes Crescent
+981<br>Finglas, Mellowes Road
+983<br>Finglas South, Mellowes Road
+984<br>Finglas, Mellowes Road
+985<br>Finglas, Mellowes Crescent
+987<br>Finglas, Finglas Village (Seamus Ennis Road)
+988<br>St Canice's GNS
+989<br>Santry Avenue
+990<br>Shanliss Way
+991<br>Santry Ave Ind Est
+992<br>Santry, Oak Park Estate
+993<br>Kilmore, Auldan Grange Estate
+997<br>Northside SC
+998<br>Armstrong Walk
+999<br>Coolock Drive
+1000<br>Beechpark Avenue
+1001<br>Brookville Cresent
+1002<br>Tonlegee Road
+1003<br>St John's Church
+1004<br>Rathvale
+1005<br>Edenmore, Tonlegee Road
+1006<br>Millwood Villas
+1007<br>Millbrook Drive
+1008<br>Kilbarrack Road
+1009<br>St. Donagh's
+1010<br>Howth Junction
+1012<br>Naomh Barróg GAA
+1013<br>Dublin City South, Saint Stephen's Green House
+1014<br>Dublin City South, Earlsfort Terrace
+1015<br>Dublin City South, Earlsfort Terrace
+1016<br>Portobello, Richmond Street Sth (Lennox Street)
+1017<br>Rathmines, Grove Park
+1018<br>Ranelagh, Rathmines Road Lower (Richmond Hill)
+1019<br>Rathmines, Military Road
+1020<br>Rathmines, Rathmines Town Centre
+1021<br>Rathmines, Rathmines Avenue
+1022<br>Rathmines, Summerville Park
+1023<br>Rathmines, Maxwell Road
+1024<br>Rathmines, Frankfort Avenue
+1025<br>Rathgar, Dartry Road (Sunbury Gardens)
+1026<br>Rathgar, Dartry Road
+1027<br>Dartry, South Hill
+1028<br>Dartry, Lower Churchtown Road
+1035<br>Churchtown (DunLaoghaire-Rathdown), Upper Churchtown Road (Beaumont Avenue)
+1036<br>Churchtown, Braemor Road (Upper Churchtown Road)
+1037<br>Braemor Road (Landscape Ave)
+1038<br>Braemore Road (Landscape Road)
+1039<br>Seamount View
+1040<br>Ashley Drive
+1041<br>Swords Road
+1042<br>Churchtown (DunLaoghaire-Rathdown), Mount Carmel Hospital
+1043<br>Churchtown, Braemor Road (Redwood Court)
+1044<br>Churchtown (DunLaoghaire-Rathdown), Braemor Road
+1045<br>Churchtown, Braemor Road (near Landscape Gardens)
+1046<br>Churchtown (DunLaoghaire-Rathdown), Weston Park
+1047<br>Churchtown, Mount Albion Road
+1048<br>Nutgrove, Barton Road East
+1049<br>Nutgrove, Barton Road East, Meadow Villas
+1050<br>Seamount View
+1051<br>Nutgrove, Meadow Grove Estate
+1052<br>Nutgrove, Barton Road East
+1053<br>Nutgrove, Beaumont Avenue
+1054<br>Churchtown, Weston Park
+1055<br>Churchtown (DunLaoghaire-Rathdown), Upper Churchtown Road (Beaumont Avenue)
+1062<br>Dartry, Lower Churchtown Road
+1063<br>Dartry, South Hill
+1064<br>Rathgar, Dartry Road
+1065<br>Rathgar, Dartry Road (Sunbury Gardens)
+1066<br>Rathgar, Upper Rathmines Road
+1067<br>Rathmines, Upper Rathmines Road
+1068<br>Rathmines, Rathmines Avenue
+1069<br>Rathmines, Lower Rathmines Road
+1070<br>Rathmines, Rathmines Town Centre
+1071<br>Ranelagh, Rathmines Road Lower (Richmond Hill)
+1072<br>Portobello, Richmond Street Sth (Lennox Street)
+1073<br>Drinan, Malahide Road (Seabury Road)
+1074<br>Kelly's Corner, Charlotte Way
+1076<br>Rathmines, Lower Rathmines Road
+1077<br>Rathmines, Rathmines Garda Station
+1078<br>Rathmines, Rathgar Road
+1079<br>Rathgar, Spar Rathgar Road
+1080<br>Rathgar, Rathgar Road, Auburn Villas
+1081<br>Rathgar, Rathgar Road (Highfield Road)
+1082<br>Rathgar, Terenure Road East
+1083<br>Terenure, Brighton Road
+1085<br>Terenure, Terenure Road East
+1086<br>Terenure, Terenure Road West
+1087<br>Terenure, Garda Station
+1088<br>Kimmage, Terenure Road West
+1089<br>Terenure, Lavarna Grove
+1090<br>Kimmage, Kimmage Road West (Fortfield Road)
+1091<br>Kimmage, Whitehall Road (Kimmage Road West)
+1092<br>Manor Grove, Whitehall Road
+1093<br>Kimmage, Whitehall Road
+1094<br>Templeogue, Whitehall Road (Kimmage Manor Way)
+1095<br>Templeogue, Wellington Road (Templeville Road)
+1096<br>Templeogue, Wellington Lane (Wellington Park)
+1097<br>Templeogue, Wellington Cottages
+1099<br>Templeogue, Wellington Lane
+1100<br>Templeogue, Wellington Lane
+1101<br>Greenhills, Limekiln Road
+1102<br>Greenhills, Limekiln Park
+1103<br>Greenhills, Tymon Park #1
+1104<br>Greenhills, Limekiln Avenue
+1105<br>Greenhills, Greenhills College
+1107<br>Greenhills, Limekiln Road (Limekiln Ave)
+1108<br>Greenhills, Saint Peter's School
+1109<br>Greenhills, Limekiln Road (Mountdown Park)
+1110<br>Greenhills, Limekiln Road
+1111<br>Greenhills, Wellington Lane (Limekiln Drive)
+1112<br>Whitehall Park
+1113<br>Walkinstown, Glendale Park
+1114<br>Kimmage, Manor Grove
+1115<br>Kimmage, Whitehall Gardens
+1117<br>Terenure, Lavarna Grove
+1118<br>Kimmage, Terenure Road
+1119<br>Kimmage, Terenure Road West
+1120<br>Terenure, Garda Station
+1121<br>Terenure, Terenure Cross Library
+1122<br>Terenure, Templeogue Road
+1123<br>Terenure, Lakeland's Park
+1124<br>Terenure, Templeogue Road
+1125<br>Templeogue, Bushy Park House
+1127<br>Templeogue, Riverside Cottages Estate
+1130<br>Templeogue, Templeogue Bridge
+1131<br>Old Bridge Road
+1132<br>Anne Devlin Road
+1133<br>Butterfield Grove
+1134<br>Rathfarnham SC
+1135<br>Rathfarnham, Marian Road
+1137<br>Rathfarnham, Marian Road
+1138<br>Butterfield Grove
+1139<br>Old Bridge Road
+1140<br>Knocklyon, Firhouse Road (Ballyroan Road)
+1141<br>Templeogue, Knocklyon Road (Lansdowne Park)
+1142<br>Knocklyon, Knocklyon Road
+1143<br>Knocklyon, Knockaire
+1144<br>Knocklyon, Dargle Wood Estate
+1145<br>Knocklyon, Scholarstown Road
+1149<br>St Colmcilles School
+1150<br>Knocklyon, Scholarstown Road
+1151<br>Knocklyon, Dargle Wood Estate
+1152<br>Knocklyon, Knockaire
+1153<br>Knocklyon, Knockcullen Rise
+1154<br>Templeogue, Knocklyon Road (Lansdowne Park)
+1155<br>Templeogue, Templeogue Road
+1157<br>Templeogue, Riverside Cottages Estate
+1158<br>Templeogue, Springfield Road
+1159<br>Terenure, Bushy Park
+1160<br>Rathfarnham, Terenure College
+1161<br>Terenure, Templeogue Road
+1162<br>Terenure, Rathdown Park
+1163<br>Terenure, Templeogue Road #1
+1164<br>Terenure, Terenure Road East
+1165<br>Rathgar, Terenure Road East
+1166<br>Rathgar, Rathgar Road, Winton Avenue
+1167<br>Rathgar, Rathgar Road (Garville)
+1168<br>Rathmines, Rathgar Road
+1169<br>Rathmines, Rathmines Park
+1170<br>Rathmines, Rathgar Road (Lower Rathmines Road)
+1171<br>Dublin, Lower Gardiner Street
+1172<br>Summerhill (Dublin City), Lower Gardiner Street
+1173<br>Summerhill (Dublin City), Gardiner Street Lower
+1174<br>Summerhill (Dublin City), Mountjoy Square Park
+1175<br>Dublin, Upper Gardiner Street
+1176<br>Priorswood, Sports Grounds
+1177<br>Priorswood, Sports Grounds (Opposite)
+1178<br>Priorswood, Business Park
+1179<br>Priorswood, Clonsaugh Und.Est, Business Park
+1181<br>Charlestown, Lanesborough Estate
+1182<br>Charlestown, Charlestown Estate
+1184<br>Dublin, Talbot Street (opp Bank of Ireland)
+1185<br>Beaumont (Dublin City), Collins Avenue (Oak Road)
+1186<br>Beaumont (Dublin City), Collins Avenue
+1187<br>Beaumont (Dublin City), Saint Vincent's Court
+1188<br>Beaumont, Grace Park Heights
+1190<br>Beaumont (Dublin City), Collinswood Estate
+1191<br>Beaumont, Grace Park Heights
+1192<br>Beaumont, Collins Avenue (Celtic Park Road)
+1193<br>Beaumont (Dublin City), Grace Park Meadows
+1194<br>Beaumont (Dublin City), Collins Avenue
+1195<br>Beaumont (Dublin City), Collins Avenue (Oak Road)
+1196<br>Beaumont (Dublin City), Malahide Road (Killester Avenue)
+1197<br>Beaumont (Dublin City), Malahide Road (Kilmore Road)
+1198<br>Artane, Artane Roundabout
+1199<br>Artane, Mask Avenue
+1200<br>Coolock, Chanel College
+1201<br>Coolock, Greencastle Road
+1202<br>Darndale, junction Greencastle Road
+1203<br>Darndale, Priorswood Roundabout
+1205<br>Clare Hall, Malahide Road (N32)
+1206<br>Balgriffin, Malahide Road (Balgriffin Road)
+1207<br>Kinsealey, Inisfails Gaa Club
+1208<br>Kinsealey, Saint Doulough's Church
+1209<br>Kinsealey, Saint Doulough's Park Nursing Home
+1210<br>Kinsealey, Malahide Road
+1211<br>Kinsealey, Elmsworth
+1212<br>Kinsealey, Kinsealy School
+1213<br>Kinsealey, junction Posey Row
+1214<br>Kinsealey, Church
+1215<br>Kinsealey, Malahide Road
+1216<br>Kinsealey, Fingal Cemetery
+1217<br>Balgriffin, Malahide Road (Balgriffin Road)
+1218<br>Darndale, Belcamp Lane
+1219<br>Artane, Malahide Road (Daneli Road)
+1220<br>Beaumont (Dublin City), Malahide Road (Killester Avenue)
+1221<br>Donnycarney, Maypark
+1222<br>Artane, Ardcollumn Avenue
+1223<br>Artane, Ardlea Road, Chanel Ave
+1224<br>Artane, Ardlea Road (near A1 pub)
+1225<br>Artane, Maryfield Drive
+1226<br>Beaumont (Dublin City), Kilmore Road (Ardmore Drive)
+1227<br>Coolock, Kilmore Road (Castlekevin Road)
+1228<br>Kilbarron Road (Cromcastle Drive)
+1229<br>Kilmore, Kilbarron Road (Dundaniel Road)
+1231<br>Kilmore, Castletimon Road (Castletimon Avenue)
+1232<br>Kilmore, Castletimon Road
+1233<br>Kilmore, Ballyshannon Road
+1234<br>Kilmore, Castletimon Road
+1235<br>Kilmore, Dundaniel Road (Kilbarron Road)
+1237<br>Kilbarron Road (Cromcastle Drive)
+1238<br>Kilmore (Dublin City), Kilmore Rd, Kilmore Ave
+1239<br>Artane, Kilmore Place Apartments
+1240<br>Artane, Ardlea Road (near A1 pub)
+1241<br>Artane, Ardlea Road, Chanel Ave
+1242<br>Artane, Ardbeg Road
+1243<br>Darndale, Greencastle Road
+1244<br>Kilmore, Kilbarron Road (Cromcastle Green)
+1245<br>Priorswood, Glin Road
+1246<br>Kilmore, Saint Luke's Church
+1247<br>Darndale, Greencastle Road
+1248<br>Darndale, Coolock Industrial Estate
+1249<br>Darndale, Coolock Drive
+1250<br>Coolock, Civic Centre Northside
+1251<br>Kilmore, Saint Luke's Church
+1252<br>Kilmore Road
+1253<br>Coolock, Kilmore Road (Tranquility Grove)
+1254<br>Coolock, Bunratty Road
+1255<br>Bonnybrook, Bunratty Road
+1256<br>Coolock, Northside Civic Centre
+1258<br>Darndale, Priorswood Industrial Park
+1259<br>Darndale, Marigold Estate
+1260<br>Darndale, Priorswood Road
+1262<br>Darndale, Fairfield Estate
+1265<br>Darndale, Buttercup Estate
+1266<br>Priorswood, Saint Francis Church
+1267<br>Darndale, Ferrycarrig Park
+1268<br>Darndale, Belcamp Avenue
+1269<br>Darndale, Marigold Estate
+1270<br>Edenmore, Darndale Roundabout
+1272<br>Edenmore, Newton Cottages
+1273<br>Coolock, Greencastle Road
+1274<br>Coolock, Saint Brendan's Church
+1275<br>Artane, Mask Avenue
+1276<br>Artane, Saint Brendan's Avenue
+1277<br>Artane, Artane Roundabout
+1278<br>College Green
+1279<br>College Green
+1280<br>Finglas, McKelvey Avenue
+1281<br>Willbrook, Nutgrove Avenue
+1282<br>Dublin City South, South Great George's Street
+1283<br>Dublin City South, South Great George's Street
+1284<br>Dublin City South, Redmond's Hill
+1285<br>Dublin City South, Grantham Street
+1286<br>Kelly's Corner, Harrington Street Garda Club
+1287<br>Kelly's Corner, Harrington Street
+1288<br>Dublin City South, South Circular Road (Victoria St)
+1289<br>Leonard's Corner, South Circular Road (Longwood Ave)
+1290<br>Leonard's Corner, Upper Clanbrassil Street
+1291<br>Harolds Cross, Le Vere Terrace
+1292<br>Harolds Cross, Saint Clare's Convent
+1293<br>Harolds Cross, Harold's Cross Race Track
+1294<br>Harolds Cross, Harold's Cross Road
+1295<br>Harolds Cross, Harold's Cross Road (Rathgar Avenue)
+1296<br>Rathgar, Mount Tallant Avenue
+1297<br>Terenure, Terenure Road North
+1298<br>Terenure, Elm Park Terrace
+1299<br>Terenure, Terenure Road
+1300<br>Terenure, Rathfarnham Road
+1301<br>Rathfarnham, Rathfarnham Road
+1302<br>Rathfarnham, Rathfarnham Road
+1303<br>Rathfarnham, Rathfarnham Castle
+1304<br>Rathfarnham, Butterfield Avenue
+1305<br>Rathfarnham, Grange Road (Willbrook Road)
+1306<br>Willbrook, Nutgrove Avenue
+1307<br>Nutgrove, Stone Park Orchard
+1308<br>Nutgrove, Hockey Club
+1309<br>Nutgrove, Nutgrove Avenue (Loreto Avenue)
+1310<br>Nutgrove, Nutgrove Avenue (Whitehall Road)
+1311<br>Nutgrove, Nutgrove Avenue (Whitebarn Road)
+1312<br>Nutgrove, Church Of The Good Shepherd
+1313<br>Churchtown, Nutgrove Avenue
+1314<br>Churchtown, Nutgrove Avenue
+1315<br>Nutgrove, Nutgrove Avenue (Whitebarn Road)
+1316<br>Nutgrove, Oakdown Road
+1317<br>Nutgrove, Nutgrove Avenue (Whitehall Road)
+1318<br>Nutgrove, Nutgrove Avenue (Loreto Avenue)
+1319<br>Nutgrove, Hockey Club
+1320<br>Rathfarnham, Grange Road (Nutgrove Avenue)
+1321<br>Rathfarnham, Loretto Convent
+1322<br>Rathfarnham, Grange Park Estate
+1323<br>Rathfarnham, Grange Road (St. Edna's Drive)
+1324<br>Rathfarnham, Grange Road (Sarah Curran Avenue)
+1325<br>Rathfarnham, Grange Road (Sarah Curran Avenue)
+1326<br>Rathfarnham, Grange Road (St. Edna's Drive)
+1327<br>Grange Road (Tara Hill Road)
+1328<br>Rathfarnham, Loretto Convent
+1329<br>Rathfarnham, Saint Mary's Boys School
+1330<br>Rathfarnham, Grange Road (Willbrook Road)
+1331<br>Rathfarham Road - Opposite Castle
+1332<br>Rathfarnham, Castleside
+1333<br>Rathfarnham, Rathfarnham Road
+1334<br>Rathfarnham, Dodder Bridge
+1335<br>Terenure, War Memorial Hall
+1336<br>Terenure, Terenure Road
+1337<br>Terenure, Terenure Road North
+1338<br>Terenure, Whitton Road
+1339<br>Rathgar, Mount Tallant Avenue
+1340<br>Terenure, Harold's Cross Road
+1341<br>Harolds Cross, Harold's Cross Road (Rathgar Avenue)
+1342<br>Harolds Cross, Harold's Cross Road
+1343<br>Harolds Cross, Shamrock Villas Estate
+1344<br>Harolds Cross, Harold's Cross Road (Greenmount Lane)
+1345<br>Harolds Cross, Le Vere Terrace
+1347<br>Leonard's Corner, Upper Clanbrassil Street
+1348<br>Leonard's Corner, South Circular Road (Longwood Ave)
+1349<br>South Circular Road (Carlisle St)
+1350<br>Kelly's Corner, Saint Kevin's Church
+1352<br>Dublin City South, Upper Camden Street
+1353<br>Dublin City South, Camden Street
+1354<br>Dublin City South, Aungier Street
+1355<br>Dublin City South, Whitefriars Street Church
+1357<br>Dublin City South, Exchequer Street
+1358<br>Temple Bar, Central Bank
+1359<br>College Green
+1360<br>Leonard's Corner, South Circular Road (Clanbrassil St)
+1362<br>Leonard's Corner, National Stadium
+1363<br>Warrenmount, South Circular Road (Clogher Road)
+1365<br>Dolphins Barn, Dolphin's Barn Church
+1366<br>Rialto, Church Avenue South
+1367<br>Rialto, Rialto Parish Centre
+1369<br>Kilmainham, South Circular Road (Mountshannon Road)
+1370<br>Kilmainham, Hybreasal House
+1371<br>Kilmainham, Suir Road (S Circular Rd)
+1372<br>Hybreasal, Kickham Road
+1373<br>Goldenbridge, Goldenbridge Avenue
+1374<br>Inchicore, Southern Cross Avenue
+1375<br>Inchicore, Bulfin Road
+1376<br>Kilmainham, Bulfin Road
+1377<br>Kilmainham, The Paddocks
+1378<br>Kilmainham, South Circular Road (Mountshannon Road)
+1379<br>Kilmainham, Rialto Bridge
+1380<br>Rialto, South Circular Road
+1381<br>Dolphins Barn, South Circular Road (Haroldville Avenue)
+1382<br>Dolphins Barn, Dolphin's Barn Church
+1383<br>Dolphins Barn, South Circular Road (Dolphin Ave)
+1384<br>Warrenmount, South Circular Road (Clogher Road)
+1385<br>Leonard's Corner, South Circular Road (Greenville Tce)
+1386<br>Harolds Cross, Clogher Road (Parnell Road)
+1387<br>Harolds Cross, Clogher Road (Aughavanagh Road)
+1388<br>Kimmage, Goldstone Court
+1389<br>Dolphins Barn, Saint Bernadette's Church
+1391<br>Clonmacnoise Road
+1392<br>Bangor Circle
+1394<br>Ferns Road
+1395<br>Sundrive Road
+1396<br>Crumlin, Pearse Memorial Park
+1397<br>Crumlin, Pearse Memorial Park
+1398<br>Crumlin, Kildare Road (Windmill Road)
+1399<br>Crumlin, Kildare Road (Clonard Road)
+1400<br>Bangor Circle
+1401<br>Crumlin, Clogher Road
+1402<br>Dolphins Barn, Saint Bernadette's Church
+1403<br>Kimmage, Goldstone Court
+1404<br>Harolds Cross, Clogher Road (Aughavanagh Road)
+1405<br>Harolds Cross, Clogher Road (Parnell Road)
+1406<br>Dolphins Barn, Dolphin's Barn
+1407<br>Dolphins Barn, Crumlin Road, Rutland Avenue
+1409<br>Dolphins Barn, Crumlin Road, Sundrive Road
+1410<br>Drimnagh, Keeper Road (Sundrive Road)
+1411<br>Drimnagh, Keeper Road (Brickfield Road)
+1412<br>Drimnagh, Brickfields Park
+1413<br>Drimnagh, Mourne Road (Brickfields Park)
+1414<br>Drimnagh, Mourne Road
+1415<br>Drimnagh, Mourne Road
+1417<br>Drimnagh, Our Lady Of Mercy School
+1418<br>Drimnagh, Mourne Road (Cooley Road)
+1419<br>Drimnagh, Errigal Road (Brandon Road)
+1421<br>Crumlin Hospital
+1423<br>Drimnagh, Drimnagh Road (Our Lady's Hospital for Sick Children)
+1424<br>Drimnagh, Crumlin Road (Cooley Road)
+1425<br>Drimnagh, Cooley Road (Our Lady's Hospital for Sick Children)
+1426<br>Drimnagh, Cooley Road
+1427<br>Drimnagh, Mourne Road (Cooley Road)
+1428<br>Drimnagh, Our Lady Of Mercy School
+1429<br>Drimnagh, Mourne Road
+1430<br>Drimnagh, Mourne Road
+1432<br>Drimnagh, Mourne Road (Brickfields Park)
+1433<br>Drimnagh, Brickfields Park
+1434<br>Drimnagh, Keeper Road (Brickfield Road)
+1435<br>Drimnagh, Keeper Road (Sundrive Road)
+1436<br>Dolphins Barn, Crumlin Road, Herberton Road
+1438<br>Warrenmount, Saint Thomas Road
+1439<br>Warrenmount, Donore Credit Union
+1440<br>Warrenmount, Donore Avenue
+1441<br>Crumlin, Kildare Road (Bangor Road)
+1442<br>Crumlin, Kildare Road (Clonard Road)
+1443<br>Dublin City South, Essex Quay
+1444<br>Dublin City South, Merchant's Quay
+1445<br>James's Gate, Ushers Quay
+1447<br>James's Gate, Guinness Store
+1449<br>Phoenix Park, Conyngham Road Bus Garage
+1450<br>Phoenix Park, Wellington Monument
+1451<br>Islandbridge, Bridgewater Business Centre
+1452<br>Islandbridge, Clancy Barracks
+1453<br>Drimnagh, Galtymore Rd (Slievenamon Rd)
+1454<br>Kilmainham, Suir Road (O'Leary Rd)
+1455<br>Drimnagh, GAA Grounds
+1456<br>Drimnagh, Galtymore Road (Galtymore Dr)
+1457<br>Drimnagh, Galtymore Road (Benbulbin Rd)
+1458<br>Drimnagh, Galtymore Road (Sperrin Rd)
+1459<br>Drimnagh, Galtymore Road (Carrow Rd)
+1460<br>Drimnagh, Galtymore Road (Galtymore Pk)
+1462<br>Drimnagh, Galtymore Road (Cooley Road)
+1463<br>Drimnagh, Galtymore Road (Cooley Road)
+1464<br>Drimnagh, Galtymore Road (Sperrin Rd)
+1465<br>Drimnagh, Galtymore Road (Galtymore Dr)
+1466<br>Drimnagh, Galtymore Rd (Slievenamon Rd)
+1467<br>Drimnagh, GAA Grounds
+1468<br>Kilmainham, Suir Road (O'Leary Rd)
+1469<br>Drimnagh, Galtymore Road (Benbulbin Rd)
+1471<br>Islandbridge, Islandbridge Court
+1472<br>Islandbridge, Bridgewater Centre
+1473<br>Phoenix Park, Conyngham Road Bus Depot
+1474<br>Heuston Station, Heuston Bridge
+1476<br>Wolfe Tone Quay, Ellis Street
+1478<br>Smithfield, Inns Quay
+1479<br>Dublin, Upper Ormond Quay
+1480<br>Smithfield, Ormond House
+1481<br>Fairview, Philipsburgh Avenue (Melrose Avenue)
+1482<br>Marino, Griffith Avenue (Charlemont Estate)
+1484<br>Fairview, Turlough Gardens
+1485<br>Fairview, Turlough Gardens
+1486<br>Fairview, Philipsburgh Avenue (Croydon Gardens)
+1487<br>Marino, Griffith Avenue (Charlemont Estate)
+1488<br>Marino, Saint Mary's College
+1489<br>Marino, Saint Vincent De Paul Church
+1490<br>Griffith Avenue (Malahide Road)
+1491<br>Griffith Avenue (Malahide Road)
+1492<br>Marino, Saint Vincent De Paul Church
+1493<br>Marino, Saint Mary's College
+1494<br>Marino, Croydon Gardens
+1495<br>Marino, Croydon Park Avenue
+1496<br>Marino, Marino Green
+1499<br>Marino, Brian Road
+1500<br>Outside Connolly Station
+1505<br>Rotunda, Parnell Street
+1506<br>Glasnevin, Finglas Road
+1507<br>Glasnevin, Saint Vincent's School
+1508<br>Glasnevin, Claremont Court
+1509<br>Finglas South, Finglas Road
+1510<br>Glasnevin, Finglas Road
+1511<br>Finglas South, Finglas Road (Opp Old Finglas Road)
+1512<br>Finglas South, Ardmore Hotel
+1513<br>Saint Martin's
+1514<br>Finglas Village (Seamus Ennis Road)
+1515<br>Fairview,St. Aidan's Park Road
+1517<br>Carpenterstown, Laurel Lodge Road
+1518<br>Finglas South, Kildonan Road
+1519<br>Finglas, Kildonan Road
+1520<br>Finglas, Barry Road
+1521<br>Finglas, Plunkett Green
+1523<br>Finglas, Plunkett Avenue
+1524<br>Finglas, Barry Aveune
+1525<br>Finglas, Barry Road
+1526<br>Finglas, Kildonan Park
+1528<br>Cabra East, Phoenix Manor
+1529<br>Glasnevin, Saint Canice's Church
+1530<br>Finglas Road
+1531<br>Glasnevin, Clearwater Shopping Centre
+1532<br>Glasnevin, Ardmore Hotel
+1533<br>Glasnevin, Finglas Road
+1534<br>Glasnevin, Ballyboggan Road
+1535<br>Glasnevin, Willows Estate
+1536<br>Cabra East, Glasnevin Cemetery Main Gate
+1537<br>Glasnevin, Saint Vincent's School
+1538<br>Finglas South, Finglas Road
+1539<br>Glasnevin, Glasanaon Road
+1540<br>Glasnevin, Johnstown Park (Griffith Road)
+1545<br>Westend Office Park
+1546<br>Tyrrelstown, Bishop's Orchard Boulevard
+1547<br>Finglas, Mellowes Park
+1548<br>Finglas, McKee Avenue
+1549<br>Finglas, Casement Road
+1550<br>St. Margaret's, M50 Flyover
+1551<br>St. Margaret's, Balseskin Recreational Centre
+1552<br>St. Margaret's, Airport Logistics Park
+1553<br>St. Margaret's, The Ward Road
+1554<br>St. Margaret's, Saint Margaret's Road
+1555<br>St. Margaret's, Dublin Airport Logistics Park
+1556<br>St. Margaret's, Balseskin Recreational Centre
+1557<br>St. Margaret's, M50 Flyover
+1558<br>Finglas, Saint Margaret's Road
+1559<br>Finglas, Casement Road
+1560<br>Finglas, Roundabout McKee Avenue
+1566<br>Glasnevin, Johnstown Park (Griffith Road)
+1567<br>Glasnevin, Johnstown Park
+1573<br>Finglas South, Cardiffsbridge Road
+1574<br>Finglas South, Scout's Den
+1575<br>Finglas South, Colaiste Ide
+1576<br>Finglas South, Cappagh Road
+1577<br>Finglas South, Abbottstown Road
+1578<br>Finglas, Cappagh Road
+1579<br>Finglas, Cappagh Hospital
+1580<br>Blanchardstown, Cappagh Cross
+1581<br>Cloghran, Castleknock Halting Site
+1582<br>Finglas, Cappagh Hospital
+1584<br>Finglas South, Abbottstown Road
+1585<br>Finglas South, Church of the Annunciation
+1586<br>Finglas South, Colaiste Ide
+1587<br>Finglas South, Cardiffsbridge Road
+1591<br>Finglas South, Wellmount Road (Finglasa Road)
+1592<br>Finglas South, Tolka Valley Road
+1593<br>Finglas South, Tolka Valley Park
+1594<br>Finglas South, Gortbeigh Avenue
+1595<br>Finglas South, Saint Helena's Road (Gortmore Avenue)
+1596<br>Finglas South, Saint Helena's Road (Farnham Drive)
+1597<br>Finglas South, Valeview Gardens
+1598<br>Finglas South, Bearnamore Estate
+1599<br>Finglas South, Glenties Estate
+1600<br>Finglas South, Deanstown Avenue
+1601<br>Deanstown Drive
+1602<br>Patrician College
+1603<br>Ratoath Road
+1604<br>Finglas South, Rathvilly Park
+1605<br>Albert College Pk
+1606<br>Finglas South, Saint Helena's Road
+1607<br>Finglas South, Dunsink Green
+1608<br>Finglas South, Saint Helena's Community Centre
+1609<br>Finglas South, Cloonlara Estate
+1610<br>Finglas South, Tolka Valley Road
+1614<br>Dublin, Constitution Hill
+1615<br>Smithfield, Law Library
+1616<br>Smithfield, Law Library
+1617<br>Smithfield, Capuchin Mission Office
+1618<br>Grangegorman (Dublin City), Church Street
+1619<br>Grangegorman, Kings Inn
+1620<br>Whitehall, Swords Road
+1622<br>Santry, Swords Road #1
+1623<br>Santry, Omni Shopping Centre
+1624<br>Santry, Swords Road (Santry Avenue)
+1625<br>Santry, Morton Stadium
+1626<br>Santry, Northwood Plaza
+1627<br>Santry, Santry Business Park
+1628<br>Dublin Airport, Collinstown Business
+1629<br>Dublin Airport, Dardistown Cemetery
+1630<br>Dublin Airport, A.L.S.A.A. Sports Club
+1631<br>Dublin Airport, A.L.S.A.A. Sports Club
+1632<br>Dublin Airport, Toberbunny Lodge
+1633<br>Dublin Airport, Dardistown Cemetery
+1634<br>Dublin Airport, Collinstown Business Park
+1635<br>Dublin Airport, Sports Ground
+1636<br>Santry, Swords Road #3
+1637<br>Santry, Swords Road #2
+1638<br>Santry, Morton Stadium
+1639<br>Santry, Swords Road (Santry Avenue)
+1640<br>Santry, Swords Road
+1641<br>Whitehall, Swords Road
+1642<br>Whitehall, Whitehall Church
+1643<br>Whitehall (Dublin City), Saint Aidan's School
+1644<br>DCU Collins Avenue
+1645<br>Collins Avenue Ext
+1646<br>DCU Collins Avenue
+1647<br>Wolfe Tone Quay, Law Society
+1648<br>Arbour Hill, Arbour Place
+1649<br>Arbour Hill, Aughrim Street
+1650<br>Castle Avenue
+1651<br>Vernon Avenue
+1652<br>Clontarf Castle
+1654<br>Cabra East, Blackhorse Avenue
+1655<br>Cabra, Blackhorse Avenue (Glenbeigh Avenue)
+1656<br>Cabra, McKee Barracks
+1657<br>Cabra, Blackhorse Avenue
+1658<br>Cabra, Skreen Road (Ardpatrick Road)
+1659<br>Cabra, Skreen Road (Navan Road)
+1660<br>Cabra, Navan Road (Nephin Road)
+1661<br>Cabra, Navan Road (Church)
+1662<br>Cabra, Navan Road (Kinvara Estate)
+1664<br>Cabra, Navan Road (Ashtown Grove)
+1665<br>Ashtown, Navan Road
+1666<br>Ashtown, Ashtown Roundabout
+1667<br>Ashtown, Ashtown Gate
+1668<br>Ashtown, Old Race Course
+1669<br>Ashtown, Castleknock Gate Estate
+1670<br>Castleknock, Phoenix Park Main Gate
+1671<br>Castleknock, Peck's Lane
+1672<br>Castleknock, Castleknock Park
+1673<br>Castleknock, Castleknock Road (Church)
+1674<br>Castleknock, Roundabout Hawthorn Lawn
+1675<br>Castleknock, Castleknock Road (The Laurels)
+1676<br>Laurel Lodge (Dublin), Castleknock Avenue
+1678<br>Carpenterstown, Oaktree Lawn
+1679<br>Carpenterstown, Oaktree Green
+1680<br>Carpenterstown, Carpenterstown Pk (Carpenterstown Rd)
+1681<br>Carpenterstown, Carpenterstown Park (Sycamore Drive)
+1682<br>Carpenterstown, Sycamore Avenue
+1683<br>Carpenterstown, Carpenterstown Avenue
+1684<br>Carpenterstown, Laurel Lodge Road
+1685<br>Laurel Lodge (Dublin), Castleknock Avenue
+1686<br>Castleknock, Laurel Lodge Road
+1687<br>Castleknock, Castleknock Road (The Laurels)
+1688<br>Castleknock, Oak Lawns
+1689<br>Castleknock, Castleknock Lodge
+1690<br>Castleknock, Peck's Lane
+1691<br>Castleknock, Fionn Uisce
+1692<br>Castleknock, Park View Estate
+1693<br>Ashtown, Castleknock Gate Estate
+1694<br>Ashtown, Old Race Course
+1695<br>Ashtown, Ashtown Gate
+1696<br>Ashtown, Navan Road
+1697<br>Ashtown, Kempton Estate
+1698<br>Cabra, Navan Road (Ashtown Grove)
+1699<br>Ashington, Navan Road
+1700<br>Cabra, Navan Road (Kinvara Estate)
+1701<br>Cabra, Navan Road (Church)
+1702<br>Cabra, Navan Road (Nephin Road)
+1703<br>Cabra, Navan Road
+1704<br>Cabra, Skreen Road (Navan Road)
+1705<br>Cabra, Skreen Road (Ardpatrick Road)
+1706<br>Cabra, Cemetery
+1707<br>Cabra, Blackhorse Avenue
+1708<br>Cabra, McKee Barracks
+1709<br>Cabra, Blackhorse Avenue (Glenbeigh Avenue)
+1710<br>Arbour Hill, Drumalee Estate
+1711<br>Arbour Hill, The Holy Family Church
+1712<br>Arbour Hill, Aughrim Street
+1713<br>Arbour Hill, Stanhope Street Convent
+1714<br>Arbour Hill, Brunswick Street
+1715<br>Smithfield, Blackhall Street
+1719<br>Mulhuddart, Damestown Close
+1724<br>Dollymount, Clontarf Road (near Mount Prospect Ave)
+1725<br>Dollymount, Doyle's Lane
+1726<br>Dollymount, Dollymount Park
+1727<br>Dollymount, Kincora Road
+1728<br>Dollymount, Conquer Hill Road
+1729<br>Dollymount, Clontarf Bus Garage
+1730<br>Dollymount, Vernon Court
+1731<br>Clontarf, Clontarf Road at Church
+1732<br>Clontarf, Oultan Road
+1733<br>Clontarf, Clontarf Road (near Scoil UÃ­ Chonaill)
+1734<br>Clontarf, Clontarf Road (Castle Avenue)
+1735<br>Clontarf, Styles Road
+1736<br>Clontarf, Saint Lawrence Road
+1737<br>Clontarf Road Junction Strandville Avenu
+1738<br>Clontarf Road Junction Alfie Byrne Road
+1739<br>Marino, Clontarf Road (at DART Station)
+1740<br>Marino, Clontarf Road (at DART Station)
+1741<br>Clontarf Road Junction Strandville Avenu
+1742<br>Clontarf, Saint Lawrence Road
+1743<br>Clontarf, Styles Road
+1744<br>Clontarf, Clontarf Road (Castle Avenue)
+1745<br>Clontarf, Clontarf Road (near Scoil UÃ­ Chonaill)
+1746<br>Clontarf, Oultan Road
+1747<br>Clontarf, Clontarf Road at Church
+1748<br>Dollymount, Vernon Court
+1749<br>Dollymount, Clontarf Bus Garage
+1750<br>Raheny, Thornhill Lane
+1751<br>Dollymount, Conquer Hill Road
+1752<br>Dollymount, Seaview Point
+1753<br>Dollymount, Dollymount Park
+1754<br>Dollymount, Dollymount Avenue
+1755<br>Dollymount, Seapark Apartments
+1756<br>Dollymount, Mount Prospect Ave (Dollymount Ave)
+1757<br>Raheny, Park Lawn
+1758<br>Dollymount, Baymount Park
+1759<br>Dollymount, Clontarf Road (near Mount Prospect Ave)
+1760<br>Dollymount, Seapark Road (Mount Prospect Avenue)
+1761<br>Seapark Road (Seafield Road)
+1762<br>Dollymount, Seafield Road East (Seafield Avenue)
+1763<br>Dollymount, Vernon Avenue
+1764<br>Clontarf, Black Heath Court
+1765<br>Clontarf, Blackheath Grove
+1766<br>Seafield Road West
+1767<br>Clontarf, Clontarf Castle
+1769<br>Raheny, Park Lawn
+1770<br>Dollymount, Mount Prospect Avenue
+1771<br>Dollymount, Saint Gabriel's Road
+1772<br>Clontarf, Saint John The Baptist Cemetery
+1773<br>Clontarf, Blackheath Park
+1774<br>Clontarf, Blackheath Park (Blackheath Avenue)
+1775<br>Dollymount, Vernon Avenue
+1776<br>Dollymount, Seafield Road East (Seafield Avenue)
+1777<br>Dollymount, Seafield Avenue
+1778<br>Dollymount, Mount Prospect Avenue (Mount Prospect Park)
+1782<br>Artane, Gracefield Road
+1783<br>Artane, Saint Brendan's School
+1784<br>Coolock, Gorsefield Court
+1785<br>Harmonstown, McAuley Drive
+1786<br>Harmonstown, Ribh Road
+1788<br>Edenmore, Millbrook Road (Tonlegee Road)
+1789<br>Edenmore, Millbrook Road
+1791<br>Edenmore, GAA Sports Ground
+1792<br>Edenmore, Millbrook Road
+1793<br>Edenmore, Millbrook Road (Tonlegee Road)
+1794<br>Raheny, Thornhill Lane
+1795<br>Cabra, Cabra Road
+1796<br>Harmonstown, McAuley Park
+1797<br>Harmonstown, McAuley Drive
+1798<br>Artane, Ainninn Drive
+1799<br>Artane, Mask Crescent
+1800<br>Artane, Gracefield Road
+1801<br>Artane, Gracefield Road
+1802<br>Cabra East, Cabra Road (Carnlough Road)
+1803<br>Cabra East, Cabra Road (Carnlough Road)
+1804<br>Cabra, Cabra Road
+1805<br>Cabra, Dunard Estate
+1806<br>Cabra, Navan Road
+1807<br>Ashtown, Navan Road (Old Race Course)
+1808<br>Castleknock, Navan Road
+1813<br>Blanchardstown, Blanchardstown Village (near junction River Road)
+1814<br>Blanchardstown, Main Street Blanchardstown (Ramor Park)
+1816<br>Corduff (Fingal), Roundabout Waterville Row
+1817<br>Corduff, Corduff Estate (Corduff Crescent)
+1818<br>Corduff, Corduff Estate (Corduff Gardens)
+1819<br>Corduff, Corduff Estate (Blackcourt Avenue)
+1820<br>Corduff, Blackcourt Road
+1822<br>Corduff, Corduff Grove
+1824<br>Saddlers Avenue
+1825<br>Church Road
+1826<br>Mulhuddart, Parslickstown Avenue
+1827<br>Mulhuddart, FAS Centre Roundabout
+1828<br>Mulhuddart, Roundabout Damastown Avenue
+1829<br>Mulhuddart, Parslickstown Avenue
+1830<br>Church Road
+1831<br>Coolmine Cottages
+1833<br>Corduff, Blackcourt Road (Blanchardstown Road)
+1834<br>Corduff (Fingal), Scouts Den
+1835<br>Corduff (Fingal), Saint Patrick's Church
+1836<br>Corduff, Corduff Estate (Corduff Gardens)
+1837<br>Corduff, Corduff Crescent
+1838<br>Blanchardstown, Skelligs Court
+1840<br>Blanchardstown, Main Street Blanchardstown (Ramor Park)
+1841<br>Blanchardstown, Blanchardstown Village (Mill Road)
+1842<br>Blanchardstown, Blanchardstown Village (near junction River Road)
+1844<br>Blanchardstown, Fire Station
+1845<br>Castleknock, Navan Road
+1847<br>Ashtown, Navan Road (Old Race Course)
+1849<br>Blanchardstown, Castleknock Road (Park Lodge)
+1850<br>Blanchardstown, Whitestown Estate
+1851<br>Blanchardstown, Castleknock Road (Navan Road)
+1852<br>Blanchardstown, Clonsilla Park
+1853<br>Blanchardstown, Coolmine Woods
+1854<br>Blanchardstown, Coolmine Road
+1856<br>Mountview Road
+1857<br>Mountview Church
+1858<br>Blanchardstown, Inglewood Estate
+1859<br>Blanchardstown, Willow Wood Estate
+1860<br>Blanchardstown, Saint Ciaran's Church
+1861<br>Blanchardstown, Beechwood Downs
+1862<br>Blanchardstown, Castlewood Estate
+1863<br>Blanchardstown, Huntstown Green
+1864<br>Blanchardstown, Sacred Heart Church
+1865<br>Blanchardstown, Ashfield Gardens
+1866<br>Blanchardstown, Ashfield Park
+1867<br>Blanchardstown, Blakestown Way
+1869<br>Blanchardstown, Blakestown Way
+1870<br>Blanchardstown, Blakestown National School
+1871<br>Blanchardstown, Briarwood Estate
+1872<br>Blanchardstown, Huntstown Road
+1873<br>Blanchardstown, Huntstown Green
+1874<br>Blanchardstown, Huntstown Court
+1875<br>Blanchardstown, Pinebrook Estate
+1876<br>Blanchardstown, Hartstown Park
+1877<br>Blanchardstown, Hazelwood Estate
+1878<br>Blanchardstown, Oakview Estate
+1879<br>Blanchardstown, Blakestown Cross
+1880<br>Mount View Road
+1881<br>Fortlawn Drive
+1882<br>Blanchardstown, Millennium Park
+1883<br>Blanchardstown, Millennium Park
+1884<br>Blanchardstown, Fire Station
+1887<br>Clonsilla, The Thatch
+1888<br>Clonsilla, Lambourne Estate
+1889<br>Clonsilla, Cunninghams Funeral Home
+1890<br>Clonsilla, Outside Train Station
+1891<br>Clonsilla, Saint Joseph's Hospital
+1893<br>Clonsilla, Saint Joseph's Hospital
+1894<br>Clonsilla, Porter's Gate
+1895<br>Clonsilla, Cunninghams Funeral Home
+1896<br>Clonsilla, Lambourne Estate
+1897<br>Clonsilla, The Thatch
+1898<br>Blanchardstown, Shelerin Road (Lohunda Road)
+1899<br>Blanchardstown, Shelerin Road (Lohunda Road)
+1902<br>Blanchardstown, Clonsilla Road
+1903<br>Blanchardstown, Broadway Road
+1904<br>Blanchardstown, Springlawn Estate
+1905<br>Cabra, Navan Road
+1906<br>Cabra, Cabra Cross
+1907<br>Cabra East, Railway Bridge
+1908<br>Cabra East, Cabra Drive
+1909<br>Arbour Hill, Prussia Street
+1911<br>Arbour Hill, Prussia Street
+1912<br>Clonsilla, Clonsilla Road
+1913<br>Cabra East, Cabra Drive
+1914<br>Cabra East, Old Cabra Road
+1934<br>Temple Bar, Dame Street
+1935<br>Dublin City South, Carnegie Centre
+1937<br>Liberties, High Street
+1938<br>Liberties, Thomas Street (John Street)
+1939<br>Liberties, Thomas Street (St. Catherine's Lane)
+1940<br>James's Gate, James Street
+1941<br>James's Gate, James Street
+1942<br>Kilmainham, Saint James Hospital
+1943<br>Kilmainham, Mount Brown
+1944<br>Kilmainham, Old Kilmainham
+1945<br>Inchicore, Emmett Road
+1946<br>Inchicore, Emmet Road
+1947<br>Kilmainham, Emmet Road
+1948<br>Dublin (Inchicore Tesco)
+1949<br>Inchicore, Tyrconnell Road
+1950<br>Inchicore, Church
+1951<br>Bluebell (Dublin City), Lansdowne Valley Park
+1952<br>Bluebell (Dublin City), Lansdowne Valley Park
+1953<br>Bluebell, Entrance to Bluebell
+1954<br>Bluebell, Naas Road
+1955<br>Bluebell (Dublin City), Carriglea Industrial Estate
+1956<br>Dublin (Kylemore Rd FBD)
+1957<br>John F Kennedy Industrial Estate, Long Mile Road
+1958<br>Greenhills, Naas Road (Long Mile Road)
+1959<br>Fox & Geese, Naas Road (Club Road)
+1960<br>Fox & Geese, The Red Cow Hotel
+1963<br>Clondalkin, Woodford Rise
+1964<br>Clondalkin, Woodford Walk (Woodford Ave)
+1965<br>Woodford Walk (Woodford Grove)
+1966<br>Clondalkin, Woodford Hill
+1968<br>Clondalkin, Monastery Road (Monastery Health Avenue)
+1969<br>Clondalkin, Monastery Rise
+1970<br>Clondalkin, Monastery Road
+1971<br>Clondalkin, Laurel Park
+1972<br>Clondalkin, Monastery Road
+1973<br>Clondalkin, Monastery Rise
+1974<br>Clondalkin, Monastery Road (Monastery Health Avenue)
+1975<br>Monastery Road (Naas Road)
+1977<br>Fox & Geese, Moran's Hotel
+1978<br>Fox & Geese, Robin Hood Industrial Estate
+1980<br>Fox & Geese, John F. Kennedy Drive
+1981<br>Bluebell, Naas Road (Kylemore Road)
+1982<br>Bluebell, Naas Road (Kylemore Road)
+1984<br>Bluebell, Naas Road
+1985<br>Bluebell (Dublin City), Lansdowne Valley Park
+1986<br>Inchicore, Tyrconnell Road
+1987<br>Inchicore, Oblate of Mary Immaculate Church
+1988<br>Inchicore, Oblate Church
+1989<br>Inchicore, Camac Close
+1990<br>Inchicore, Emmet Road
+1992<br>Inchicore, Emmett Road
+1993<br>Kilmainham, Old Kilmainham
+1994<br>Kilmainham, Saint James's Hospital
+1995<br>Kilmainham, Ewington Lane
+1996<br>James's Gate, James Street
+1997<br>James's Gate, James Street
+1998<br>Liberties, Thomas Street (St. Catherine's Lane)
+1999<br>Liberties, Thomas Street (John Street)
+2001<br>Dublin City South, Saint Audeon's Church
+2002<br>Dublin City South, Lord Edward Street
+2003<br>Dublin City South, Lord Edward Street
+2007<br>Booterstown, Woodbine Road
+2008<br>Booterstown, Stillorgan Road
+2009<br>Radisson Hotel Stillorgan Road
+2010<br>Mount Merrion, Stillorgan Road
+2011<br>Stillorgan, College of Further Education
+2012<br>Stillorgan, Shopping Centre
+2013<br>Galloping Green, Saint John of God's Hospital
+2014<br>Galloping Green, Beechwood Court
+2015<br>Deansgrange, Knockshinna Estate
+2016<br>Deansgrange, Stillorgan Road (Newtownpark Ave)
+2017<br>Deansgrange, Foxrock Church
+2018<br>Deansgrange, Kill Lane (Foxrock Court)
+2019<br>Deansgrange, Kill Lane (Foxrock)
+2020<br>Deansgrange, Beech Park Avenue
+2021<br>Deansgrange, Kill Lane (Foxrock Close)
+2022<br>Deansgrange, Kill Lane
+2023<br>Kill of The Grange, Abbey Road
+2024<br>Kill of The Grange, Rory O'Connor Park
+2025<br>Kill of The Grange, Abbey Park
+2026<br>Kill of The Grange, Monkstown Avenue (Stradbrook Road)
+2027<br>Monkstown Farm
+2028<br>Oliver Plunkett Ave
+2029<br>Oliver Plunkett Road
+2030<br>Oliver Plunkett Ct
+2031<br>Dun Laoghaire, Mounttown Park
+2032<br>Dun Laoghaire, Kendal House
+2033<br>Dun Laoghaire, Knapton Court
+2034<br>Dun Laoghaire, Vesey Place
+2035<br>Dun Laoghaire, Crofton House
+2036<br>Dun Laoghaire, Crofton Avenue
+2037<br>Dun Laoghaire Stn
+2039<br>Dun Laoghaire, Outside Train Station
+2040<br>Dun Laoghaire (Royal Marine Road)
+2041<br>Dun Laoghaire, Bloomfield Shopping Centre
+2042<br>Dun Laoghaire, York Road
+2043<br>Dun Laoghaire, Saint Michael's Terrace
+2044<br>Dun Laoghaire, Community Training Centre
+2045<br>Dun Laoghaire, York Road (Mounttown Upper)
+2046<br>Dun Laoghaire, Lower Mounttown Road
+2047<br>Oliver Plunkett Road
+2048<br>St Patrick's Cres
+2049<br>Oliver Plunkett Ave
+2050<br>Monkstown Avenue
+2051<br>Kill of The Grange, Monkstown Avenue (Stradbrook Road)
+2052<br>Fosters Avenue
+2053<br>Kill of The Grange, Abbey Park
+2054<br>Kill of The Grange, Rory O'Connor Park
+2055<br>Kill of The Grange, Abbey Road
+2056<br>Deansgrange, Deansgrange Business Park
+2057<br>Deansgrange, Kill Lane (Foxrock Close)
+2058<br>Deansgrange, Beech Park Avenue
+2059<br>Deansgrange, Kill Lane (Foxrock)
+2060<br>Cornelscourt, Springfield Park
+2061<br>Foxrock, Knocksinna Estate
+2062<br>Galloping Green, Rocwood Estate
+2063<br>Galloping Green, Galloping Green
+2064<br>Galloping Green, Stillorgan Road
+2065<br>Stillorgan, Stillorgan Road
+2066<br>Stillorgan, Shopping Centre
+2067<br>Stillorgan, Old Stillorgan Road (Woodlands Ave)
+2068<br>Stillorgan Road (Sycamore Crescent)
+2069<br>Mount Merrion, Booterstown Avenue
+2070<br>Radisson Hotel Stillorgan Road
+2071<br>Belfield, Fosters Avenue (Stillorgan Road)
+2072<br>Belfield, Foster's Avenue (North Avenue)
+2073<br>Mount Merrion, North Avenue (Mather Road North)
+2074<br>Mount Merrion, North Avenue (Greenfield Road)
+2075<br>Mount Merrion, Deer Park
+2076<br>Mount Merrion, South Avenue
+2080<br>Mount Merrion, North Avenue (Greenfield Road)
+2081<br>Mount Merrion, North Avenue (Mather Road North)
+2082<br>Belfield, Foster's Avenue (North Avenue)
+2083<br>Belfield, Fosters Avenue (Stillorgan Road)
+2084<br>Belfield, Seafiled Road
+2085<br>Donnybrook, R.T.E. Televison Studios
+2086<br>Merrion, Nutley Lane
+2087<br>Merrion, Merlyn Park
+2088<br>Merrion, Nutley Lane (Saint Vincent's Hospital)
+2089<br>Donnybrook, Elm Park Golf Club
+2094<br>The Coombe, Coombe Maternity Hospital
+2095<br>Crumlin, Crumlin College
+2096<br>Crumlin, Crumlin Road
+2097<br>Crumlin, Iveagh Gardens
+2099<br>Drimnagh, Crumlin Road (Cooley Road)
+2101<br>Walkinstown, Crumlin Childrens Hospital
+2102<br>Drimnagh, Drimnagh Rd, Balfe Rd
+2103<br>Walkinstown, Shopping Centre
+2105<br>Drimnagh, Long Mile Road
+2109<br>Tallaght, Knockmeenagh Lane
+2110<br>Newlands Cross
+2111<br>Clondalkin Church
+2112<br>Clondalkin Main St
+2113<br>St Peter's Road
+2114<br>Clondalkin, Tower Road
+2115<br>Clondalkin, Thornfield Square
+2116<br>Michael Collins Pk
+2117<br>Station Road
+2118<br>Ronanstown, Moorefield Drive
+2119<br>Ronanstown, Saint Peter The Apostle School
+2120<br>Ronanstown, Collinstown Park School
+2121<br>Ronanstown, Rowlagh Community Centre
+2123<br>Ronanstown, Neilstown Road (Saint Mark's Avenue)
+2124<br>Ronanstown, Neilstown Road (Saint Mark's Avenue)
+2125<br>Ronanstown, Harelawn Green Estate
+2126<br>Ronanstown, Rowlagh Community Centre
+2127<br>Ronanstown, Collinstown Park College
+2128<br>Ronanstown, Neilstown Road
+2129<br>Ronanstown, Moorefield Drive
+2130<br>Station Road
+2133<br>Clondalkin, New Nangor Road (Roundabout)
+2134<br>Nangor, Lealand Drive
+2135<br>Nangor, Mill Court Avenue
+2136<br>Nangor, Youth Centre at Church
+2137<br>Nangor, Lindisfarne Estate
+2138<br>Nangor, Lindisfarne Drive
+2139<br>Nangor, Melrose Estate
+2140<br>Nangor, Deansrath Grove
+2141<br>Nangor, Deansrath Estate (Kilcronan Estate)
+2142<br>Nangor, Kilmahuddrick Estate
+2143<br>Nangor, Grange View Estate
+2145<br>Nangor, Saint Ronan's Church
+2146<br>Nangor, Deansrath
+2147<br>Nangor, Kilmahuddrick Estate
+2148<br>Nangor, Deansrath Estate (Kilcronan Estate)
+2149<br>Nangor, Roundabout
+2150<br>Nangor, Melrose Roundabout
+2151<br>Nangor, Lindisfarne Drive
+2152<br>Nangor, Ashwood Estate
+2153<br>Nangor, Youth Centre at Church
+2154<br>Nangor, Bawnogue Road
+2156<br>Nangor, Dunawley Estate
+2158<br>Clondalkin, Thornfield Square
+2159<br>Clondalkin, Clondalkin Garda Station
+2160<br>Clondalkin, Convent Road
+2161<br>Clondalkin, Church
+2162<br>Clondalkin, Saint John's Road West
+2163<br>Clondalkin, Saint John's Close
+2164<br>Nangor, Westbourne Estate
+2165<br>Nangor, Rath Gael Estate
+2166<br>Nangor, Castlegrange Green
+2167<br>Clondalkin, Grange Castle Golf Club
+2168<br>Clondalkin, Roundabout Saint John's Drive
+2169<br>Clondalkin, Saint John's Close
+2170<br>Clondalkin, Saint John's Road West
+2171<br>Castaheaney, Lilys Way
+2172<br>Clondalkin, Moyle Park College
+2173<br>Clondalkin, Laurel Park
+2174<br>Clondalkin, New Road (Knockmeenagh Road)
+2176<br>Clondalkin, Newlands Cross
+2177<br>Clondalkin, Newlands Cross Cemetery
+2178<br>Clondalkin, Saint Brigid's Cottages
+2181<br>Drimnagh, Long Mile Road
+2182<br>Drimnagh, Walkinstown Parade
+2183<br>Walkinstown, Walkinstown Road (Kilnamanagh Road)
+2184<br>Walkinstown, Walkinstown Rd, Drimnagh Rd
+2185<br>Drimnagh, Drimnagh Road (Slievebloom Road)
+2186<br>Drimnagh, Raphoe Road
+2187<br>Crumlin, Iveagh Grounds
+2188<br>Crumlin, Crumlin College
+2189<br>Crumlin, Crumlin Shopping Centre
+2190<br>Dolphins Barn, Dolphin's Barn
+2191<br>Islandbridge, Sarah Place
+2192<br>Islandbridge, U.C.D Boat Club
+2193<br>Islandbridge, Garda Boat Club
+2194<br>Islandbridge, Sports Grounds
+2195<br>Chapelizod, Chapelizod School
+2196<br>Chapelizod, Kings Hall
+2197<br>Lucan Road (Chapelizod Hill Rd)
+2198<br>Chapelizod, Lucan Road (Belgrove Park)
+2199<br>Glenaulin
+2200<br>Chapelizod, Chapelizod By Pass Bridge
+2201<br>Palmerstown, Lucan Road (The Oval)
+2202<br>Palmerstown, Kennelsfort Road
+2203<br>Palmerstown, Upper Kennelsfort Road
+2204<br>Palmerstown, Upper Kennelsfort Road (Wheatfield Road)
+2205<br>Palmerstown, Cherry Orchard Hospital
+2206<br>Palmerstown, Cherry Orchard Hospital
+2207<br>Palmerstown, Upper Kennelsfort Road (Industrial Estate)
+2208<br>Palmerstown, Upper Kennelsfort Road (Wheatfield Road)
+2210<br>Palmerston, Palmerstown Cemetery
+2211<br>Palmerston, Palmerstown Avenue
+2212<br>Palmerstown Village
+2213<br>Palmerston, Liffey Valley
+2214<br>Liffey Valley, Clarion Hotel
+2215<br>Ballyowen, Saint Loman's Hospital
+2216<br>Ballyowen, Lucan Road
+2217<br>Ballyowen, Old Lucan Road
+2218<br>Ballyowen, Lucan Road (Roselawn Estate)
+2219<br>Lucan, Lucan Road (Lucan Heights)
+2220<br>Lucan, Lucan Hill
+2221<br>Lucan, The Old Hill
+2223<br>Lucan, Lucan Bridge
+2224<br>Lucan, Main Street Lucan
+2225<br>Lucan, Saint Patrick's Church
+2226<br>Collins Bridge
+2227<br>Lucan, Saint Patrick's Church
+2228<br>Collins Bridge
+2229<br>Lucan, Saint Andrew's Lodge
+2230<br>Lucan, Sarsfield Park
+2231<br>Lucan, Saint Andrew's School
+2232<br>Lucan, Saint Edmundsbury Hospital
+2233<br>Lucan, Chalet Gardens
+2234<br>Ballyowen, Old Lucan Road
+2235<br>Lucan, Slip Road onto N4
+2236<br>Lucan, Hermitage Golf Club
+2238<br>Palmerstown, Slip Road at Liffey Valley
+2239<br>Liffey Valley, Kings Hospital
+2241<br>Palmerstown, Lucan Road
+2242<br>Palmerstown, Lucan Road (The Oval)
+2243<br>Chapelizod, Lucan Road
+2244<br>Chapelizod, Lucan Road (Belgrove Park)
+2245<br>Chapelizod, Lucan Road (Laurence Brook)
+2246<br>Chapelizod, Chapelizod Bridge
+2247<br>Chapelizod, Chapelizod School
+2248<br>Islandbridge, Sports Grounds
+2249<br>Islandbridge, Neptune Rowing Club
+2250<br>Islandbridge, Salmon Pool
+2251<br>Islandbridge, Islandbridge Park Gate
+2255<br>North Strand, Annesley Bridge
+2256<br>East Wall, Portside Court
+2257<br>East Wall, West Road
+2258<br>East Wall, Saint Joseph's Church
+2259<br>East Wall, Church Road
+2260<br>East Wall, Church Road
+2261<br>East Wall, Church Court Estate
+2262<br>East Wall, Merchants Road
+2264<br>Tolka Quay, Dublin Graving Docks
+2265<br>Tolka Quay, Alexandra Road (Branch Road)
+2269<br>Tolka Quay, Breakwater Road South
+2270<br>Tolka Quay, Irish Ferries Terminal
+2274<br>Tolka Quay, Alexandra Road
+2278<br>East Wall, Bargy Road
+2279<br>East Wall, Caledon Road
+2280<br>East Wall, Oxford Terrace
+2281<br>East Wall, Church Road
+2282<br>East Wall, Saint Joseph's Church
+2283<br>East Wall, Portside Court
+2289<br>Corduff, Blackcourt Road
+2290<br>Waterville Terrace
+2294<br>Mill Road
+2310<br>Dublin City South, Werburgh Street
+2311<br>Dublin City South, Kevin Street Garda Station
+2312<br>The Coombe, Newmarket Street
+2313<br>The Coombe, Ardee Court
+2314<br>The Coombe, Cork Street
+2315<br>The Coombe, Marion Villas
+2317<br>Drimnagh, Crumlin Bowling Club
+2318<br>Crumlin, Somerville Avenue
+2319<br>Crumlin, Garda Station
+2320<br>Walkinstown, Whitehall Road West (Kimmage Rd)
+2321<br>Walkinstown, Crumlin Crossroads
+2322<br>Walkinstown, Whitehall Road West
+2323<br>Walkinstown, Millgate Drive
+2324<br>Walkinstown, Whitehall Road West
+2325<br>Walkinstown, Whitehall Road West (Limekiln Ln)
+2326<br>Walkinstown, Crumlin Crossroads
+2327<br>Walkinstown, St. Agnes Road (Cromwellsfort Rd)
+2328<br>Walkinstown, Saint Agnes Church
+2329<br>Walkinstown, Saint Agnes Road
+2330<br>Walkinstown, Saint Agnes Road
+2331<br>Walkinstown, Saint Mary's Road
+2332<br>Walkinstown, Walkinstown Road (Kilnamanagh Road)
+2333<br>Walkinstown, Walkinstown Road (Walkinstown Roundabout)
+2334<br>Greenhills, Mulcahy Keane Estate
+2335<br>Greenhills, Greenhills Road (Calmount Ave)
+2336<br>Greenhills, Greenhills Road
+2337<br>Greenhills, Upper Ballymount Road
+2338<br>Blanchardstown, Garnish Square
+2339<br>Tymon North, Park View
+2340<br>Kilnamanagh, Greenhills Road (Park View)
+2345<br>Belgard Retail Park
+2346<br>Tallaght, Belgard Road
+2349<br>Tallaght, Alderwood Estate
+2351<br>Tallaght, Maplewood Estate
+2352<br>South Dublin, Jobstown House
+2353<br>Citywest, Fortunestown Road
+2355<br>Citywest, Fortunestown Road
+2357<br>Jobstown, the Jobstown House
+2358<br>Jobstown, Killinarden Estate
+2359<br>Tallaght, Blessington Road
+2360<br>Tallaght, Alderwood Estate
+2363<br>Belgard Road
+2364<br>Belgard Retail Park
+2369<br>Tymon North, Greenhills Road (Mayberry Road)
+2370<br>Kilnamanagh, Greenhills Road (Park View)
+2371<br>Kilnamanagh, M50 Flyover
+2372<br>Greenhills, Greenhills Road
+2373<br>Greenhills, Greenpark Estate
+2374<br>Nangor, Deansrath (New Nangor Road)
+2377<br>Walkinstown, Greenhills Road (Walkinstown Roundabout)
+2378<br>Walkinstown, Walkinstown Road (Walkinstown Roundabout)
+2379<br>The Coombe, Marion Villas
+2380<br>The Coombe, Cork Street
+2382<br>The Coombe, Brabazon Row
+2383<br>The Coombe, Saint Patrick's Cathedral
+2385<br>Dublin City South, Back Avenue
+2386<br>Warrenmount, New Street South
+2387<br>Leonard's Corner, Long Lane
+2388<br>Warrenmount, Clanbrassil Street
+2389<br>Harolds Cross, Harold's Cross
+2390<br>Harolds Cross, Mount Argus Park
+2391<br>Kimmage, Mount Argus Church
+2392<br>Kimmage, Kimmage Grove
+2393<br>Kimmage, Lower Kimmage Road (Aideen Avenue)
+2394<br>Terenure, Poddle Park
+2395<br>Kimmage, Fortfield Road
+2396<br>Wainsfort Estate
+2397<br>Terenure, College Drive
+2398<br>Terenure, Fortfield Estate
+2399<br>Templeogue, Fortfield Park (Fortfield Road)
+2400<br>Templeogue, Fortfield Park
+2401<br>Templeogue, Templeville Road #1
+2402<br>Templeogue, Templeogue College
+2403<br>Templeogue, Templeville Road
+2404<br>Templeogue, Grosvenor Court
+2405<br>Templeogue, Templeogue College
+2406<br>Templeogue, Fortfield Park
+2408<br>Templeogue, Fortfield Road (Fortfield Park)
+2409<br>Terenure, Fortfield Estate
+2410<br>Terenure, College Drive
+2411<br>Wainsfort Estate
+2412<br>Kimmage, Lavarna Estate
+2413<br>Kimmage, Kimmage Road West (Whitehall Road)
+2414<br>Kimmage, Kimmage Road West
+2415<br>Walkinstown, Royston Village
+2416<br>Walkinstown, Cromwellsfort Road (Whitehall Road)
+2417<br>Walkinstown, Cromwellsfort Road (Cherry Grove)
+2418<br>Walkinstown, Cromwellsfort Road (Bigger Road)
+2419<br>Walkinstown, Cromwell's Fort Road (Walkinstown Roundabout)
+2420<br>Tymon North, Tymonville Estate
+2421<br>Tymon North, Tymon North Road
+2423<br>Tymon North, Tymon Park
+2424<br>Tymon North, Castletymon Green
+2425<br>Tallaght, Tymon Park Road
+2426<br>Tallaght, Church of Saint Agnus
+2427<br>Tymon North, Aongus Estate
+2428<br>Tymon North, Tymon Park
+2429<br>Tymon North, Tymon North School
+2430<br>Tymon North, Tymonville Estate
+2431<br>Walkinstown, Cromwell's Fort Road (Walkinstown Roundabout)
+2432<br>Walkinstown, Cromwellsfort Road (Bigger Road)
+2433<br>Walkinstown, Cromwellsfort Road (Cherry Grove)
+2434<br>Crumlin, Kimmage Road West
+2435<br>Crumlin, Westbrook
+2436<br>Kimmage, Kimmage Road West
+2437<br>Kimmage, Kimmage Road West (Whitehall Road)
+2438<br>Kimmage, Lower Kimmage Road (Fortfield Road)
+2439<br>Terenure, Poddle Park
+2440<br>Kimmage, Lower Kimmage Road (Aideen Avenue)
+2441<br>Kimmage, Kimmage Grove
+2442<br>Kimmage, Mount Argus Church
+2443<br>Kimmage, Brookfield
+2444<br>Harolds Cross, Lower Kimmage Road
+2445<br>Greenhills, Greenhills Park
+2446<br>Greenhills, Greenhills Park
+2447<br>Tallaght, Castle Lawns Estate
+2448<br>Crumlin, Healthcare Centre
+2449<br>Armagh Road
+2450<br>Crumlin, Saint Agnes Primary School
+2451<br>St Agnes Park
+2452<br>Walkinstown, Saint Peter's Road (Walkinstown Roundabout)
+2453<br>Walkinstown, Saint Peter's Road (Saint James's Road)
+2454<br>Greenhills, Saint James's Road (St.Conleth's Rd)
+2455<br>Greenhills, St.James's Rd (St.Brenda's Crescent)
+2456<br>Greenhills, St. James's Road (St. Killian's Ave)
+2457<br>Greenhills, St.James's Road (Limekiln Avenue)
+2458<br>Greenhills, St.James's Road (Limekiln Avenue)
+2459<br>Greenhills, St. James's Road (St. Killian's Ave)
+2460<br>Greenhills, St.James's Rd (St.Brenda's Crescent)
+2461<br>Greenhills, Saint James's Road (St.Conleth's Rd)
+2462<br>St.James's Road (St.Peter's Road)
+2463<br>Walkinstown, Saint Peter's Road (Walkinstown Roundabout)
+2464<br>St Agnes Park
+2465<br>Crumlin, Armagh Road (Captain's Road)
+2466<br>Crumlin, Scoil Colm
+2467<br>Crumlin, Health Centre
+2468<br>Corduff, Blanchardstown Road (Industrial Park)
+2471<br>Kimmage, Larkfield Park
+2472<br>Harolds Cross, Clareville Road
+2473<br>Terenure, Clareville Road
+2474<br>Harolds Cross, Clareville Road
+2475<br>Harolds Cross, Kenilworth Park
+2476<br>Harolds Cross, Kenilworth Square North
+2477<br>Rathmines, Kenilworth Square East
+2478<br>Rathmines, Grosvenor Road
+2479<br>Rathmines, Grosvenor Road
+2480<br>Rathmines, Kenilworth Square East
+2481<br>Harolds Cross, Kenilworth Square North
+2482<br>Harolds Cross, Clareville Road
+2483<br>Harolds Cross, Westfield Road
+2484<br>Kimmage, Larkfield Park
+2485<br>Kimmage, Sundrive Road
+2486<br>Kimmage, Sundrive Road
+2487<br>Kimmage, Stannaway Road
+2488<br>Kimmage, Stannaway Road
+2489<br>Kimmage, Stannaway Road
+2490<br>Crumlin, Captain's Road
+2491<br>Crumlin, Captain's Road (Captain's Avenue)
+2492<br>Crumlin, Stannaway Court
+2493<br>Crumlin, Captain's Road (Captain's Avenue)
+2494<br>Crumlin, Clonfert Road
+2495<br>Kimmage, Stannaway Road
+2496<br>Kimmage, Sundrive Road
+2497<br>Kimmage, Sundrive Road
+2498<br>IFSC Custom House Quays
+2499<br>Jury's Inn Custom House Quay
+2500<br>Docklands, Samuel Beckett Bridge
+2501<br>Docklands, North Wall Quay (New Wapping Street)
+2508<br>East Wall, Docklands main gate
+2510<br>Cloghran, Rosemount Industrial Estate (Cappagh Road)
+2515<br>Templeogue, Knocklyon Road
+2516<br>Knocklyon, Firhouse Road (Pine Grove)
+2517<br>Knocklyon, Dodder Valley Park
+2518<br>Knocklyon, Firhouse Road (Knocklyon Avenue)
+2520<br>Ballycullen Road
+2521<br>Woodlawn Park
+2522<br>Firhouse, Firhouse Road (Ballycullen Avenue)
+2523<br>Firhouse, Dodder Lawn
+2524<br>Firhouse, Firhouse Road (Ballycullen Drive)
+2532<br>Oldbawn, Old Bawn Road (Bohernabreena)
+2533<br>Parkwood Lawn
+2534<br>Old Bawn Terrace
+2535<br>Tallaght, Old Bawn Road (Seskin View Road)
+2536<br>Oldbawn, Old Bawn Road (Saint Maelruan's Park)
+2538<br>Tallaght, Old Bawn Road (Seskin View Road)
+2539<br>Tallaght, Kiltipper Road
+2540<br>Oldbawn, Old Bawn Road (Bohernabreena)
+2542<br>Firhouse, Glencarrig Court
+2544<br>Woodlawn
+2545<br>Monalea Wood
+2547<br>Knocklyon, Knocklyon Avenue
+2548<br>Knocklyon, Firhouse Road (Opposite Knocklyon Avenue)
+2550<br>Templeogue, Cheeverstown House
+2551<br>Spawell Roundabout
+2553<br>Tallaght, M50 Flyover
+2554<br>Tallaght, Glenview Park
+2555<br>Tallaght, Bancroft Road
+2556<br>Tallaght, Tallaght Youth Centre
+2557<br>Tallaght, Tallaght Village
+2558<br>Jobstown, Killinarden Heights (opp Killinarden Estate)
+2559<br>Jobstown, Health Centre (Cushlawn Estate)
+2560<br>Oldbawn, Donomore Estate
+2561<br>Killinarden, Donomore Crescent
+2562<br>Oldbawn, Killinarden Heights
+2564<br>Killinarden Heights (Donomore Avenue)
+2566<br>Jobstown, Knockmore Estate
+2567<br>Jobstown, Hazelgrove
+2568<br>Killinarden Heights (Donomore Avenue)
+2569<br>Killinarden, Donomore Avenue
+2570<br>Jobstown, Health Centre (Cushlawn Estate)
+2571<br>Jobstown, Killinarden Heights (opp Killinarden Estate)
+2573<br>South Dublin, Kiltalown Cottages
+2574<br>South Dublin, De Selby Estate
+2575<br>Citywest, Westbrook Lawns
+2577<br>Saggart, Corbally Bridge
+2578<br>Saggart, Rosedale
+2579<br>Saggart, Ivy Cottage
+2583<br>Saggart, Hospital
+2584<br>Saggart, Blessington Rd (St.Brigid's Home)
+2585<br>Saggart, Verschoyles Hill
+2586<br>Saggart, Blessington Road
+2587<br>Saggart, Rosedale
+2588<br>Saggart, Corbally Bridge
+2589<br>South Dublin, Corbally Bridge
+2590<br>Citywest, The Villa
+2591<br>Citywest, De Selby Estate
+2592<br>Citywest, Kiltalown Cotteges
+2594<br>Tallaght, Baptist Church
+2595<br>Tallaght, Blessington Road
+2596<br>Tymon North, Tallaght Road
+2597<br>Tallaght, M50 Roundabout
+2599<br>Spawell Roundabout
+2600<br>Templeogue, Cheeverstown House
+2601<br>Tymon North, Greenhills Road (Mayberry Road)
+2602<br>Tallaght, Avonmore Park
+2603<br>Tallaght, Bankcroft Estate
+2604<br>Tallaght, Old Bawn Road (Tallaght By-Pass)
+2605<br>Tallaght, Old Bawn Estate (Watergate Estate)
+2606<br>Tallaght, Seskin View Road
+2607<br>Tallaght, Seskin View Road (Millbank Lawns)
+2608<br>Tallaght, Avonmore Road
+2609<br>Tallaght, Avonmore Road (Avonmore Grove)
+2610<br>Tallaght, Avonmore Road (Glenview Drive)
+2611<br>Firhouse, Tallaght Youth Rugby Club
+2613<br>Tallaght, Avonmore Road
+2614<br>Tallaght, Seskin View Road (Millbank Lawns)
+2615<br>Tallaght, Seskin View Road
+2616<br>Tallaght, Old Bawn Estate (Watergate Estate)
+2617<br>Tallaght, Old Bawn Road (Tallaght By-Pass)
+2618<br>Belgard
+2619<br>Belgard Road
+2620<br>Belgard
+2621<br>Tallaght, Cheeverstown Rd (Blessington Rd)
+2622<br>Citywest, Cookstown Rd (Fortunestown Way)
+2623<br>Tallaght, Cheeverstown Rd (Cookstown Rd)
+2624<br>Tallaght, Rossfield Estate
+2626<br>Citywest, Fortunestown Roundabout
+2628<br>Citywest, Brookfield Road
+2629<br>Tallaght, Rossfield Estate
+2631<br>Tallaght, Cheeverstown Rd (Blessington Rd)
+2632<br>Tallaght, Greenhills Road
+2633<br>Tymon North, Greenhills Road
+2634<br>Warrenmount, Lower Clanbrassil Street
+2635<br>Warrenmount, Clanbrassil Street
+2636<br>Leonard's Corner, Long Lane
+2637<br>Outside Heuston Train Station
+2638<br>Heuston Station, Saint John's Road West
+2640<br>Kilmainham, Kilmainham Jail
+2641<br>Inchicore, Camac Court
+2642<br>Inchicore, Grattan Crescent
+2643<br>Inchicore, Sarsfield Road
+2644<br>Islandbridge, Sarsfield Medical Centre
+2645<br>Ballyfermot, Lally Road
+2646<br>Ballyfermot, Decies Road (O'Moore Road)
+2647<br>Ballyfermot, Markievicz Park
+2648<br>Ballyfermot, Decies Road (Garryowen Rd)
+2649<br>Ballyfermot, Decies Road (Ramillies Rd)
+2650<br>Ballyfermot, Landen Road
+2652<br>Kylemore Road (Kylemore Avenue)
+2653<br>Ballyfermot, Ballyfermot Crescent
+2654<br>Ballyfermot, Kylemore Road (Ballyfermot Road)
+2655<br>Ballyfermot, Ballyfermot Parade
+2656<br>Ballyfermot, Ballyfermot Road (Le Fanu Road)
+2657<br>Ballyfermot, Le Fanu Park
+2658<br>Ballyfermot, Oranmore Road
+2659<br>Parkwest, Raheen Park
+2660<br>Parkwest, Cherry Orchard Avenue
+2661<br>Parkwest, Cherry Orchard Avenue
+2662<br>Parkwest, Cherry Orchard Avenue (Croftwood)
+2663<br>Parkwest, Cherry Orchard Avenue (Croftwood)
+2664<br>Parkwest, Cherry Orchard Avenue
+2665<br>Parkwest, Cherry Orchard Avenue
+2666<br>Parkwest, Raheen Park
+2667<br>Ballyfermot, Clifden Road
+2668<br>Ballyfermot, Community Centre
+2669<br>Citywest, Swiftbrook Estate
+2670<br>Ballyfermot, Spiddal Park
+2672<br>Ballyfermot, Ballyfermot Road (Blackditch Road)
+2673<br>Palmerstown, Cherry Orchard Industrial Estate
+2674<br>Ronanstown, Dublin Bus Sports Club
+2675<br>Ronanstown, Harelawn Estate
+2676<br>Clondalkin, Lucan Newlands Road
+2678<br>Ronanstown, Rowlagh Estate
+2679<br>Fonthill Road - Foxdene
+2680<br>Fonthill Road at Foxdene Estate
+2681<br>Fonthill Road - Foxdene
+2682<br>Ronanstown, Saint Mark's Estate
+2685<br>Ronanstown, Greenfort Estate
+2686<br>Ronanstown, Dublin Bus Sports Club
+2687<br>Palmerstown, Cherry Orchard Industrial Estate
+2688<br>Ballyfermot, Ballyfermot Road (Blackditch Road)
+2689<br>Ballyfermot, Blackditch Drive
+2696<br>Ballyfermot, Ballyfermot Road (Le Fanu Road)
+2697<br>Ballyfermot, Ballyfermot Parade
+2700<br>Ballyfermot, Kylemore Road (Ballyfermot Road)
+2701<br>Ballyfermot, Kylemore Roundabout
+2702<br>Ballyfermot, Kylemore Road (Landen Road)
+2703<br>Ballyfermot, Thomond Road
+2704<br>Ballyfermot, Decies Road (Ramillies Rd)
+2706<br>Ballyfermot, Decies Road (Garryowen Rd)
+2708<br>Ballyfermot, Decies Road (O'Moore Road)
+2709<br>Ballyfermot, Longmeadows Park
+2710<br>Chapelizod, Ballyfermot Road
+2711<br>Ballyfermot, Markievicz Park
+2712<br>Ballyfermot, Ballyfermot Road
+2713<br>Ballyfermot, Ballyfermot Road
+2714<br>Ballyfermot, Markievicz Park
+2715<br>Chapelizod, Ballyfermot Road
+2716<br>Ballyfermot, Longmeadows Park
+2717<br>East Wall, Strangford Garden
+2718<br>Islandbridge, Sarsfield Road
+2719<br>Inchicore, Sarsfield Road
+2720<br>East Wall, St Mary's Road North
+2721<br>Islandbridge, Con Colbert Road (South Circular Road)
+2722<br>Islandbridge, Memorial Park
+2725<br>Greenhills, Westgate Business Park
+2726<br>Drimnagh, Slieve Bloom Park
+2727<br>Bluebell (Dublin City), Drimnagh Castle School
+2728<br>Walkinstown, Walkinstown Avenue Park
+2729<br>Walkinstown, Walkinstown Avenue
+2730<br>Walkinstown, Walkinstown Avenue (Walkinstown Roundabout)
+2733<br>Greenhills, Educational Company of Ireland
+2734<br>Greenhills, Ballymount Drive
+2735<br>Greenhills, Ballymount Industrial Estate
+2736<br>Ballymount (Dublin), Ballymount Road Upper
+2737<br>Tallaght, Sylvan Drive
+2738<br>Tallaght, Kingswood Community Centre
+2739<br>Tallaght, Saint Killian's School
+2740<br>Tallaght, Ballymount Road
+2741<br>Tallaght, Cookstown Road
+2742<br>Tallaght, Belgard Heights
+2743<br>Tallaght, Ard Mhuire School
+2745<br>Tallaght, Belgard Green
+2746<br>Tallaght, Saint Mark's School
+2747<br>Tallaght, Saint Mark's GAA Club
+2748<br>Tallaght, Cookstown Road
+2750<br>Tallaght, Cookstown Road
+2751<br>Tallaght, Saint Mark's GAA Club
+2752<br>Tallaght, Saint Mark's School
+2753<br>Tallaght, Cookstown Road
+2754<br>Tallaght, Roadstone Retail
+2755<br>Tallaght, Belgard Heights
+2756<br>Tallaght, Belgard Inn
+2762<br>Newlands Golf Club
+2763<br>Newlands Golf Club
+2764<br>Tallaght, Ballymount Road
+2765<br>Tallaght, Community Centre
+2766<br>Tallaght, Sylvan Close
+2767<br>Greenhills, Westgate Business Park
+2768<br>Greenhills, Ballymount Industrial Estate
+2769<br>Greenhills, Lower Ballymount Road
+2770<br>Greenhills, Ballymount Drive
+2771<br>Greenhills, Educational Company of Ireland
+2772<br>Ballymount (Dublin), Ballymount Road Upper
+2773<br>Greenhills, Ballymount Square
+2774<br>Walkinstown, Walkinstown Avenue (Walkinstown Roundabout)
+2775<br>Walkinstown, Walkinstown Avenue (Long Mile Road)
+2777<br>Walkinstown, Walkinstown Avenue
+2778<br>Bluebell (Dublin City), Drimnagh Castle School
+2780<br>Walkinstown Avenue
+2781<br>Kylemore Road
+2782<br>Bluebell Avenue
+2783<br>Kylemore Way
+2784<br>Kylemore Way
+2785<br>Bluebell Avenue
+2786<br>Kylemore Luas
+2787<br>Walkinstown Avenue
+2788<br>Castlewood Avenue
+2789<br>Charleston Avenue
+2790<br>Oakley Road
+2791<br>Ranelagh Luas
+2793<br>Belgrave Square N
+2794<br>Castlewood Avenue
+2795<br>Dublin City South, Upper Leeson Street
+2796<br>Pembroke Road
+2797<br>Northumberland Road
+2798<br>Pembroke Road
+2799<br>Eastmoreland Place
+2800<br>Sandymount Avenue
+2801<br>Wilfield Park
+2804<br>Sandymount, Newgrove Avenue
+2806<br>Sandymount Avenue
+2807<br>Wilfield Park
+2808<br>Sandymount Station
+2809<br>Pearse Station, Outside Train Station
+2810<br>Merrion Square West
+2811<br>Dublin City South, Upr Merrion Street (Opp. Natural History Museum)
+2812<br>Dublin City South, Mercer Charlotte House
+2813<br>Ranelagh, Ranelagh Road
+2814<br>Ranelagh, Ranelagh Road (Charleston Road)
+2815<br>Milltown (Dublin City), Little Grove
+2816<br>Milltown, Glenmalure Square
+2817<br>Milltown, Alexandra College
+2818<br>Clonskeagh, Emmet House
+2819<br>Dundrum Road
+2820<br>Windy Arbour, Dundrum Business Park
+2822<br>Windy Arbour, Central Mental Hospital
+2823<br>Windy Arbour, Dundrum Road
+2824<br>Dundrum (Dun Laoghaire-Rathdown), Dundrum Road
+2825<br>Dundrum, Outside Luas Station
+2826<br>Dundrum, Main Street
+2827<br>Dundrum, Citizen Advice Centre
+2828<br>Dundrum, Riverdale Apartments
+2829<br>Ballinteer, Sandyford Road
+2830<br>Ballinteer, Sandyford Road (Ballally Park)
+2831<br>Sandyford, Balally Hill
+2832<br>Sandyford, Clonard Road
+2833<br>Sandyford, Sandyford Road (Blackthorn Drive)
+2835<br>Sandyford, Saint Mary's Church
+2836<br>Sandyford, Sandyford Road (Blackthorn Drive)
+2837<br>Sandyford, Clonard Road
+2838<br>Ballinteer, Ballawley Park
+2839<br>Ballinteer, Ballawley Park (Dun Emer Road)
+2840<br>Ballinteer, Pallottine Fathers
+2841<br>Dundrum, Dundrum Town Centre
+2842<br>Dundrum, Ballinteer Road
+2843<br>Ballinteer, Lynwood Estate
+2844<br>Ballinteer, Ashlawn Estate
+2845<br>Ballinteer, Mayfield Terrace
+2846<br>Ballinteer, Ballinteer Park
+2847<br>Woodpark (Dublin), Ballinteer Avenue
+2848<br>Ballinteer, Broadford Road (Broadford Rise)
+2849<br>Ballinteer, Broadford Lawn
+2850<br>Ballinteer, Broadford Road (Chestnut Grove)
+2851<br>Ballinteer, Broadford Road
+2852<br>Broadford Road (Stone Masons Way)
+2853<br>Broadford Road (Stone Masons Way)
+2854<br>Ballinteer, Broadford Walk
+2855<br>Ballinteer, Broadford Road (Chestnut Grove)
+2856<br>Ballinteer, Broadford Lawn
+2857<br>Ballinteer, Broadford Road (Broadford Rise)
+2858<br>Ballinteer, Ballintyre Woods
+2859<br>Ballinteer, Ballinteer Park
+2860<br>Ballinteer, Ballinteer Avenue (Mayfield Terrace)
+2861<br>Ballinteer, Wesley College
+2862<br>Ballinteer, Ballinteer Road
+2863<br>Ballinteer, Lynwood Estate
+2864<br>Dundrum, Castlebrook Estate
+2865<br>Dundrum, Holy Cross Church
+2866<br>Dundrum (DunLaoghaire-Rathdown), Dundrum Shopping Centre
+2867<br>Dundrum, Upper Churchtown Road (Notre Dame School)
+2868<br>Dundrum, Upper Churchtown Road (Notre Dame School)
+2872<br>Overend Way
+2873<br>Knocknashee
+2874<br>Eden Park Avenue
+2877<br>Hazel Villas
+2878<br>Kilmacud Avenue
+2879<br>Marsham Court
+2880<br>Kilmacud Avenue
+2882<br>Lakelands Lawn
+2883<br>Sweet Briar Lane
+2885<br>Eden Park Avenue
+2886<br>Knocknashee
+2887<br>Birches Lane
+2892<br>Windy Arbour, Dundrum Road
+2893<br>Windy Arbour, Dundrum Road
+2894<br>Windy Arbour, Central Mental Hospital
+2895<br>Windy Arbour, Dundrum Business Park
+2896<br>Dundrum Road
+2897<br>Windy Arbour, Luke's Crescent
+2898<br>Milltown, Alexandra College
+2899<br>Milltown (Dublin City), Garrynure
+2900<br>Ranelagh, Ranelagh Road (Charleston Road)
+2901<br>Ranelagh, Mount Pleasent Park
+2902<br>Ranelagh, Ranelagh Road
+2903<br>Dublin City South, Charlemont Flats
+2906<br>Parkwest, Cherry Orchard Park
+2907<br>Parkwest, Blackditch Road
+2908<br>Ballyfermot, Spiddal Park
+2909<br>Parkwest, Cherry Orchard School
+2910<br>Ballyfermot, Spiddal Road
+2911<br>Parkwest, Cherry Orchard Park
+2912<br>Temple Bar, Parliament Street
+2914<br>Rathgar, Stratford Estate
+2915<br>Rathgar, Zion Road
+2916<br>Rathgar, Victoria Road
+2917<br>Terenure, Meadowbank Estate
+2918<br>Terenure, Bushy Park Road
+2919<br>Willbrook, Rathfarnham Court House
+2920<br>Rathfarnham, Willbrook Road (near Whitechurch Road)
+2921<br>Willbrook, Willbrook Road  (Opp Boden Wood)
+2922<br>Willbrook, Ballyboden Road (Fonthill Road)
+2923<br>Willbrook, Willowbank Drive
+2924<br>Willbrook, Cuerton House
+2925<br>Ballyboden, Ballyboden Road
+2927<br>Edmondstown, Edmondstown Road
+2929<br>Edmondstown (South Dublin), Rathfarnham Golf Course
+2930<br>Rockbrook, Kilmashogue Cemetery
+2933<br>Rockbrook, Edmondstown Road (Rockbrook Park School)
+2934<br>Rockbrook, Edmondstown Road (Rockbrook Park School)
+2935<br>Rockbrook, Edmonstown Road (Merry Ploughboy)
+2936<br>Rockbrook, Kilmashogue Cemetery
+2937<br>Rockbrook, Rathfarnham Golf Course
+2938<br>Edmondstown (South Dublin), Rathfarnham Golf Course
+2940<br>Ballyboden, Edmonstown Green
+2941<br>Ballyboden, Ballyboden Crescent
+2942<br>Ballyboden, Ballyboden Road
+2943<br>Rathfarnham, River Bank House
+2944<br>Rathfarnham, Ballyboden Road
+2945<br>Willbrook, Willbrook Road  (Opp Boden Wood)
+2946<br>Rathfarnham, Willbrook Road (near Whitechurch Road)
+2947<br>Willbrook, Rathfarnham Church
+2948<br>Willbrook, Taylor's Lane
+2949<br>Ballyboden, Taylor's Lane
+2950<br>Willbrook, Palmer Park
+2954<br>Edmondstown, Glenmore Park
+2955<br>Edmondstown (South Dublin), Church of Our Lady of Good Council
+2956<br>Edmondstown (South Dublin), Glenmore Park
+2957<br>Finglas, McKee Avenue
+2958<br>Finglas, Mellowes Park
+2959<br>Blanchardstown, Shopping Centre
+2960<br>Retail Park
+2961<br>Castleknock, Woodview Park
+2962<br>Bray, Killarney Lane
+2963<br>Bray, Killarney Heights
+2964<br>Bray, Herbert Park
+2965<br>Ballyboden, Whitechurch Road
+2966<br>Rathfarnham, Grange Road (Hermitage Avenue)
+2967<br>Rathfarnham, Eden Avenue
+2968<br>Rathfarnham, Three Rock Hockey Club
+2969<br>Grange Road (Highfield Avenue)
+2970<br>Rathfarnham, Grange Road (Grange Wood)
+2971<br>Ballinteer, Grange Road (Stonemasons Way)
+2975<br>Ballinteer, Kingston Estate
+2976<br>Ballinteer, Grange Hall Estate
+2977<br>Ballinteer, Brehon Field Road
+2978<br>Marley Grange, Grange Road
+2979<br>Grange Road (Highfield Avenue)
+2980<br>Rathfarnham, Three Rock Hockey Club
+2981<br>Rathfarnham, Eden Avenue
+2983<br>Willbrook, Taylor's Lane (Pearse Brothers Park)
+2984<br>Ballyboden, Moyville Lawns
+2985<br>Terenure, Bushy Park Road
+2986<br>Terenure, Meadowbank Estate
+2988<br>Rathgar, Zion Road
+2989<br>Rathgar, Rostrevor Terrace
+2990<br>Dartry, Orwell Park
+2991<br>Rathfarnham, Grange Road (Hermitage Avenue)
+2992<br>Rathfarnham, The Priory
+2993<br>Bray, Herbert Road
+2994<br>Bray, Killarney Park
+2995<br>Cabinteely, South Park Estate
+2996<br>Cornelscourt, Bray Road (Old Bray Road)
+2997<br>Bray, Main Street Bray (Florence Road)
+2998<br>Churchtown (DunLaoghaire-Rathdown), Mount Carmel Hospital
+2999<br>Dartry, Orwell Park
+3000<br>Rathgar, Rostrevor Terrace
+3001<br>Rathgar, Orwell Road (Zion Road)
+3002<br>Rathgar, Stratford Estate
+3003<br>Firhouse, Carriglea Estate
+3004<br>Firhouse, Ballycullen Avenue
+3005<br>Firhouse, Ballycullen Avenue (Carriglea)
+3006<br>Firhouse, Ballycullen Drive
+3007<br>Knocklyon, Greenfield Park Estate
+3008<br>Maynooth, Railpark Estate
+3011<br>Clonskeagh, Bird Avenue (Dundrum Road)
+3012<br>Clonskeagh, Bird Avenue (Dundrum Road)
+3014<br>Clonskeagh, Harlech Downs Estate
+3015<br>Clonskeagh, Larchfield Road
+3016<br>Goatstown, Goatstown Road (Goatstown Avenue)
+3017<br>Goatstown, Goatstown Road (Farmhill Road)
+3018<br>Goatstown, Drummartin Terrace
+3019<br>Kilmacud, Drummartin Road (Eden Park Drive)
+3020<br>Goatstown, Lower Kilmacud Road (Drummartin Close)
+3021<br>Kilmacud, Sweet Briar Lane
+3022<br>Goatstown, Mount Anville Primary School
+3023<br>Kilmacud, Mount Anville School
+3024<br>Kilmacud, Sweet Briar Lane
+3025<br>Goatstown, Lower Kilmacud Road (Drummartin Close)
+3026<br>Kilmacud, Drummartin Road (Eden Park Drive)
+3027<br>Goatstown, Drummartin Terrace
+3028<br>Goatstown, Goatstown Road (Farmhill Road)
+3029<br>Goatstown, Goatstown Road (Goatstown Avenue)
+3030<br>Clonskeagh, Larchfield Road
+3031<br>Clonskeagh, Harlech Downs Estate
+3032<br>Blackrock (DunLaoghaire-Rathdown), Blackrock Park
+3033<br>Blackrock (DunLaoghaire-Rathdown), George's Avenue
+3034<br>Blackrock (Dun), Temple Road
+3036<br>Monkstown (DunLaoghaire-Rathdown), Montpellier Manor
+3037<br>Monkstown Road (Alma Road)
+3038<br>Monkstown, Monkstown Road
+3039<br>Monkstown, Monkstown Road (Albany Avenue)
+3040<br>Monkstown, Monkstown Church
+3041<br>Monkstown, Monkstown Crescent
+3042<br>Dun Laoghaire, De Vesci Terrace
+3045<br>Bray, Vevay Road (Church Road)
+3046<br>Dun Laoghaire SC
+3047<br>Dun Laoghaire, Upper George's Street
+3048<br>Glasthule, Outside Train Station
+3049<br>Glasthule, Summerhill Road
+3050<br>Glasthule, Glasthule Road
+3051<br>Glasthule, Sandycove Tennis Club
+3052<br>Glasthule, Sandycove Road
+3053<br>Glasthule, Baywater Terrace
+3054<br>Dalkey, Our Lady's Manor
+3055<br>Dalkey, Ulverton Road
+3056<br>Dalkey, Church Road
+3057<br>Dalkey, Castle Street
+3058<br>Hyde Road
+3059<br>Dalkey, Church Road
+3060<br>Dalkey, The Paddocks
+3061<br>Dalkey, Our Lady's Manor
+3062<br>Glasthule, Breffni Road
+3063<br>Glasthule, Buckley Galleries
+3064<br>Glasthule, Brighton House
+3065<br>Glasthule, Glasthule Road
+3066<br>Glasthule, Glasthule Church
+3067<br>Glasthule, Summerhill Road
+3068<br>Dun Laoghaire, Upper George's Street
+3069<br>Dun Laoghaire, Upper George's Street
+3070<br>Dun Laoghaire, Dun Laoghaire Shopping Centre
+3071<br>Dun Laoghaire, Dunleary Hill
+3072<br>Dun Laoghaire, Longford Place
+3073<br>Monkstown
+3074<br>Monkstown, Monkstown Road
+3075<br>Monkstown, Monkstown Road (Queen's Park)
+3076<br>Monkstown, Monkstown Road (Montpelier Parade)
+3077<br>Blackrock (DunLaoghaire-Rathdown), Monkstown Road
+3078<br>Forrest Little Golf
+3079<br>Blackrock (DunLaoghaire-Rathdown), Seapoint Avenue
+3080<br>Blackrock (Dun), Church
+3081<br>Blackrock (DunLaoghaire-Rathdown), Frascati Road
+3082<br>Blackrock (DunLaoghaire-Rathdown), Frascati Road
+3083<br>Frascati SC
+3084<br>Blackrock (DunLaoghaire-Rathdown), Frascati Shopping Centre
+3085<br>Blackrock (DunLaoghaire-Rathdown), Outside Train Station
+3087<br>Forest Road
+3088<br>Rathingle, River Valley Heights
+3089<br>Rathingle, Cherry Avenue
+3090<br>Rathingle, Forest View
+3091<br>Glenageary, Avondale Road
+3092<br>Glenageary, Saint Joseph of Cluny School
+3093<br>Glenageary, Avondale Road (Cluny Grove)
+3094<br>Cluny Grove
+3095<br>Ballinaclea Road
+3096<br>Killiney Road
+3097<br>Wyvern Estate
+3098<br>Killiney Hill Park
+3099<br>Victoria Road
+3100<br>Killiney Hill Park
+3101<br>Killiney Road
+3102<br>Killiney Grove
+3103<br>Ballinaclea Road
+3105<br>Avondale Road
+3106<br>Arnold Grove
+3107<br>Avondale Park
+3108<br>Bellevue Avenue
+3111<br>Barnhill Avenue
+3112<br>Celbridge, Maynooth Road (Hawthorn View)
+3114<br>Monkstown (DunLaoghaire-Rathdown), Stradbrook Road
+3115<br>Monkstown, Stradbrook Road
+3116<br>Kill of The Grange, Maynard
+3117<br>Kill of The Grange, Link Road
+3118<br>Deansgrange, Dean's Grange Cemetery
+3119<br>Deansgrange, Cemetery
+3120<br>Deansgrange, Clonkeen Road
+3122<br>Cabinteely, Beech Park Road
+3123<br>Deansgrange, Beech Estate
+3124<br>Cabinteely, South Park Estate
+3125<br>Clonkeen Road (Monaloe Crescent)
+3126<br>Deansgrange, Clonkeen Road
+3127<br>Cabinteely, Cabinteely Park
+3128<br>Cabinteely, Old Bray Road
+3129<br>Ballybrack, Foot Bridge
+3130<br>Ballybrack, Bray Road (opp Kilbogget Park)
+3131<br>Ballybrack, Bray Road (opp Kilbogget Park)
+3132<br>Ballybrack, Shanganagh Vale
+3133<br>Ballybrack, Garrison Mews
+3134<br>Loughlinstown, Bray Road
+3135<br>Loughlinstown, Loughlinstown Hospital
+3136<br>Shankill, Cottsfoot
+3138<br>Shankill, Saint Anne's Church
+3139<br>Shankill, Bray Road
+3140<br>Shankill, Dublin Road
+3141<br>Shankill, Saint Anne's Church
+3142<br>Shankill, Kentfield Estate
+3143<br>Loughlinstown, Loughlinstown Hospital
+3144<br>Loughlinstown, Bray Road Loughlinstown
+3145<br>Carrickmines, Cherrywood Flyover
+3146<br>Ballybrack, Garrison Mews
+3147<br>Ballybrack, Bray Road (opp Kilbogget Park)
+3148<br>Carrickmines, Shrewsbury House
+3149<br>Carrickmines, Saint Brigid's Church
+3150<br>Cabinteely, Cabinteely Park
+3151<br>Cabinteely, Old Bray Road (Glen Estate)
+3152<br>Clonkeen Road (Monaloe Crescent)
+3153<br>Deansgrange, Clonkeen Road
+3154<br>Deansgrange, Beech Estate
+3155<br>Cabinteely, Beech Park Road
+3156<br>Deansgrange, Clonkeen Road
+3158<br>Deansgrange, Deansgrange Road
+3159<br>Deansgrange, Deansgrange Road
+3160<br>Deansgrange, Dean's Grange Cemetery
+3161<br>Kill of The Grange, Deansgrange Road
+3162<br>Deansgrange, Rowan Park Avenue
+3163<br>Deansgrange, Stradbrook Cottages
+3164<br>Monkstown (DunLaoghaire-Rathdown), Stradbrook Road
+3165<br>Carysfort Avenue
+3166<br>UCD Smurfit
+3167<br>Brookfield Terrace
+3168<br>Proby Square
+3169<br>St Augustine's Sch
+3171<br>Newtown Park
+3173<br>Meadow Close
+3174<br>Granville Park
+3175<br>Stillorgan Road
+3176<br>Leopardstown Rd
+3177<br>Foxrock Manor
+3178<br>Torquay Road
+3179<br>Racecourse
+3181<br>Sandyford, Blackthorn Road
+3182<br>Heather Road
+3183<br>Bracken Road
+3184<br>Sandyford, Blackthorn Drive
+3187<br>Burton Hall Road
+3188<br>Racecourse
+3189<br>Silverpark GAA
+3190<br>Torquay Road
+3191<br>Foxrock Manor
+3192<br>Kelston Park
+3193<br>Newtownpark Avenue
+3194<br>Holly Park Avenue
+3195<br>Meadow Close
+3196<br>Galloping Green, Rushmore House
+3198<br>Carysfort Avenue
+3199<br>Proby Square
+3200<br>UCD Smurfit
+3201<br>Frascati Road
+3202<br>Glasthule, Lower Glenageary Road (Upper George's St)
+3203<br>Glasthule, Lower Glenageary Rd (Traverslea Close)
+3204<br>Glenageary, Holmstown Avenue
+3205<br>Glenageary, Sallynoggin Road
+3206<br>Sallynoggin, Sallynoggin Road (O'Donnell Gardens)
+3207<br>Sallynoggin, Pearse Street (Sallynoggin Rd)
+3208<br>Sallynoggin, Saint Kevin's School Pearse Saint
+3209<br>Sallynoggin, Pearse Street (Park Close)
+3210<br>Glenageary Heights, Sallynoggin College
+3211<br>Sallynoggin, Rochestown Park
+3212<br>Sallynoggin, Granitefield Estate
+3213<br>Sallynoggin, Killiney Shopping Centre
+3214<br>Killiney, Churchview Road
+3215<br>Sallynoggin, Churchview Road
+3216<br>Ballybrack, Churchview Road (Granville Rd)
+3217<br>Ballybrack, Ballybrack Shopping Centre
+3218<br>Ballybrack, Pinewood Estate
+3219<br>Ballybrack, Oakton Park
+3220<br>Ballybrack, Wyattville Rd (Loughlinstown Dr)
+3221<br>Loughlinstown, F.A.S Training Centre
+3222<br>Loughlinstown, Loughlinstown Wood Estate
+3223<br>Druid Valley, F.A.S Training Centre
+3224<br>Ballybrack, Ashlawn Park
+3225<br>Druid Valley, Churchview Rd, Willow Vale
+3226<br>Ballybrack, Churchview Road (Granville Rd)
+3227<br>Sallynoggin, Churchview Road
+3228<br>Killiney, Churchview Road
+3229<br>Killiney, Church Road
+3230<br>Sallynoggin, Drumkeen Manor
+3231<br>Sallynoggin, Granitefield Manor
+3232<br>Sallynoggin, Pearse Villas
+3233<br>Sallynoggin, Pearse Street (Pearse Villas)
+3234<br>Glenageary Heights, Sallynoggin College
+3235<br>Sallynoggin, Saint Kevin's School Pearse Saint
+3236<br>Sallynoggin, Sallynoggin Road (O'Donnell Gardens)
+3237<br>Glenageary, Sallynoggin Road
+3238<br>Glenageary, Holmstown Avenue
+3239<br>Glenageary, Lower Glenageary Rd (Crosthwaite Park Sth)
+3240<br>Lower Glenageary Road (Corrig Road)
+3241<br>Sallynoggin Park
+3242<br>O'Rourke Park
+3243<br>Sallynoggin, Rochestown Avenue
+3244<br>Sallynoggin, Workmen's Club
+3245<br>Sallynoggin, Rochestown Avenue(Johnstown Road)
+3246<br>Sallynoggin, Rochestown Avenue(Johnstown Road)
+3247<br>Sallynoggin, Sallynoggin Road
+3248<br>Sallynoggin Road
+3249<br>Mackinstosh Park
+3254<br>Saint Gabriels
+3255<br>Cornelscourt SC
+3256<br>Cornelscourt Village
+3258<br>Foxrock, Bray Road (Westminster Road)
+3259<br>Foxrock, Bray Road (Westminster Road)
+3260<br>Cornelscourt Village
+3261<br>Willow Grove
+3262<br>Cornelscourt SC
+3265<br>Mart Lane
+3266<br>St Brigid's School
+3267<br>Gordon Avenue
+3268<br>Plunkett Avenue
+3269<br>Hainault Road
+3270<br>Foxrock Village
+3271<br>The Coppins
+3272<br>Tresillian
+3273<br>Kerrymount Avenue
+3274<br>Brighton Avenue
+3275<br>Mountsandel Park
+3276<br>Glenamuck Rd North
+3277<br>The View
+3278<br>Rockville Drive
+3279<br>Cromlech Close
+3280<br>Kiltiernan, Glenamuck Road
+3282<br>Kiltiernan, Enniskerry Road (Ballycorus Rd)
+3283<br>Kiltiernan, Enniskerry Road (Ballycorus Rd)
+3284<br>Kiltiernan, Enniskerry Road (Glenamuck Road)
+3285<br>Rockville Drive
+3289<br>Brennanstown Road
+3290<br>Brighton Road
+3291<br>Tresillian
+3292<br>The Coppins
+3293<br>Foxrock Village
+3294<br>Westminster Road
+3295<br>Plunkett Avenue
+3296<br>Gordon Avenue
+3297<br>Mart Lane
+3298<br>St Brigid's School
+3306<br>Sycamore Drive
+3307<br>Kerrymount Green
+3309<br>Kerrymount Green
+3310<br>Kiltiernan, Church Of Ireland School
+3312<br>Hainault Road
+3317<br>Sandyford, Leopardstown Roundabout
+3318<br>Galloping Green, Brewery Road (Galloping Green)
+3320<br>Galloping Green, Brewery Road
+3321<br>Stillorgan, Allen Park Road
+3322<br>Stillorgan, Kilmacud Crokes GAA
+3328<br>Clonee (Meath), The Fairways Apartments
+3329<br>Dunboyne, Old Navan Road (Dublin Road)
+3330<br>Dunboyne, Dublin Road
+3331<br>Dunboyne, Mill View
+3332<br>Dunboyne, Station Road, School
+3333<br>Dunboyne, Dunboyne Village
+3334<br>Dunboyne, Station Road
+3335<br>Dunboyne, Mill View
+3336<br>Dunboyne, Dublin Road
+3337<br>Dunboyne, Old Navan Road (Dublin Road)
+3338<br>Clonee (Meath), The Fairways Apartments
+3339<br>Clonee, Summerseat Court
+3340<br>Mulhuddart, Littlepace Estate
+3343<br>O'Rourke Park
+3344<br>Galloping Green, Coppinger Wood
+3345<br>Galloping Green, Coppinger Wood
+3346<br>Westminster Road
+3351<br>Dunboyne, Hamilton Hall Estate
+3352<br>Dunboyne, Hamilton Hall Estate
+3353<br>Downpatrick Road
+3354<br>Clogher Road
+3355<br>Crumlin, Clogher Road
+3356<br>Crumlin, Kildare Road (Bangor Road)
+3357<br>Clonmacnoise Grove
+3358<br>Lismore Road
+3360<br>Clonmacnoise Road
+3361<br>Clogher Road
+3362<br>Downpatrick Road
+3365<br>Lucan, Saint Mary's Church
+3366<br>Lucan, Lucan Heights
+3367<br>Lucan Village (Sarsfield Road)
+3368<br>Lucan, Finnstown Abbey
+3370<br>Adamstown (Dublin), Finnstown Abbey Estate
+3372<br>Lucan Village (Sarsfield Road)
+3373<br>Lucan, Lucan Heights
+3374<br>Lucan, Saint Mary's Church
+3376<br>Clondalkin, Nangor Road
+3377<br>Nangor, Cherrywood Villas
+3378<br>Clondalkin, Cherrywood Villas
+3379<br>Nangor, Nangor Road (Old Church Drive)
+3383<br>Clondalkin, Kilcarberry
+3384<br>Clondalkin, Ballybane Pitch and Putt
+3385<br>Newcastle (South Dublin), Nangor Road
+3386<br>Newcastle (South Dublin), Peamount Road (Nangor Road)
+3387<br>Newcastle (South Dublin), Peamount Road
+3389<br>Newcastle, Peamount Hospital
+3390<br>Newcastle, Cross Road
+3392<br>Newcastle, Westmanstown
+3393<br>Newcastle, Cornerpark
+3394<br>Newcastle, Peamount Road
+3396<br>Newcastle, Newcastle Village
+3397<br>Newcastle (South Dublin), Orchard Grove Estate
+3398<br>Newcastle, Newcastle
+3399<br>Newcastle, Newcastle Manor
+3400<br>Newcastle, Newcastle Manor
+3401<br>Newcastle, Newcastle
+3402<br>Newcastle (South Dublin), Orchard Grove Estate
+3403<br>Newcastle, Newcastle Village
+3404<br>Newcastle, Peamount Road
+3405<br>Newcastle, Cornerpark
+3406<br>Newcastle, Peamount Road (Opp Westmanstown)
+3407<br>Newcastle, Keeloges
+3408<br>Newcastle, Cross Roads
+3409<br>Newcastle, Peamount Hospital
+3410<br>Newcastle, Westmanstown
+3411<br>Newcastle (South Dublin), Peamount Road
+3412<br>Newcastle (South Dublin), Peamount Road (Nangor Road)
+3413<br>Nangor, Baldonnell Road
+3414<br>Clondalkin, Ballybane Pitch and Putt
+3415<br>Nangor, Grange Castle Golf Course
+3416<br>Nangor, Kilcarberry Park
+3417<br>Nangor, Grangecastle Golf Club
+3418<br>Nangor, Castlegrange Green
+3419<br>Nangor, Castlegrange Square
+3420<br>Nangor, Nangor Road (Old Church Drive)
+3421<br>Nangor, Nangor Road
+3422<br>Nangor, Cherrywood Drive
+3423<br>Nangor, Cherrywood Villas
+3425<br>Clondalkin, Fonthill Road South (Naas Rd)
+3426<br>Saggart, Saggart Road
+3427<br>Tallaght, Naas Road
+3428<br>Tallaght, Bushfield
+3429<br>Tallaght, Cheeverstown
+3432<br>Citywest, Bianconi Avenue
+3434<br>Saggart, Saggart Village
+3435<br>Saggart, Millrace Estate
+3436<br>Rathcoole (South Dublin), Spring Bank Estate
+3437<br>Rathcoole, Fitzmaurice Road
+3438<br>Citywest, Bianconi Avenue
+3439<br>Rathcoole, Main Street (Maple Grove)
+3440<br>Rathcoole, Coolamber Estate
+3441<br>Main Street (Jayle Lane)
+3442<br>Ballydonagh Road
+3443<br>Rathcoole, Johnstown Road (St.Patrick's Crescent)
+3444<br>Rathcoole, Main St (Hillview)
+3445<br>Rathcoole (South Dublin), Main Street (Westpark)
+3446<br>Scoil Chronain Rathcoole
+3447<br>Rathcoole, Coolamber Estate
+3448<br>Rathcoole, Main Street (Maple Grove)
+3449<br>Rathcoole, Fitzmaurice Road
+3453<br>Rathcoole (South Dublin), Spring Bank Estate
+3454<br>Saggart, Millrace Estate
+3455<br>Saggart, Saggart Village
+3456<br>Saggart, Citywest Golf Club
+3457<br>Citywest, Garter Lane
+3461<br>Clondalkin, Hotel
+3465<br>Clondalkin, Convent Road (St.Anthony's Ave)
+3466<br>Sandyford, Bracken Brae
+3467<br>Sandyford, Sandyford Road (Hillcrest Road)
+3469<br>Stepaside, Leopardstown Heights
+3470<br>Stepaside, Kilgobbin Road
+3471<br>Stepaside, Kilgobbin Road
+3472<br>Stepaside, Castle Lodge
+3473<br>Stepaside, Inver House
+3474<br>Stepaside, Enniskerry Road
+3475<br>Stepaside, Hillside
+3476<br>Stepaside, Brooklawn House
+3477<br>Kiltiernan, Longmeadow
+3478<br>Kiltiernan, Enniskerry Road (Glenamuck Road)
+3479<br>DÃºn Laoghaire-Rathdown, Moss Cottages
+3481<br>Kiltiernan, Church of Ireland Kilternan
+3482<br>Stepaside, Jamestown House
+3483<br>Stepaside, Jamestown Golf Club
+3484<br>Stepaside, Enniskerry Road
+3485<br>Stepaside, Kilgobbin Heights
+3486<br>Stepaside, Castle Lodge
+3487<br>Stepaside, Kilgobbin Road
+3488<br>Stepaside, Murphystown Road Roundabout.
+3489<br>Stepaside, Leopardstown Heights
+3491<br>Ballinteer, Lambs Cross
+3492<br>Sandyford, Saint Fintan's
+3493<br>Ballinteer, Lambs Cross
+3494<br>Ballinteer, Blackglen Court
+3495<br>Ballinteer, Woodside Road
+3496<br>Ballinteer, junction Blackglen Road
+3497<br>Ballinteer, Woodside Road(Slate Cabin Lane)
+3498<br>Glencullen, Rockfield
+3499<br>Glencullen, Granite Field
+3500<br>Glencullen, Furry Hill
+3501<br>Glencullen, The Quarry
+3502<br>Glencullen, Ballyedmonduff
+3503<br>Glencullen, Brackloon House
+3504<br>Glencullen, Barnacullia Water Works
+3505<br>Glencullen, Taylor's Folly
+3506<br>Glencullen, Ballyedmonduff House
+3507<br>Glencullen, Pinefield House
+3508<br>Glencullen, Johnnie Fox's
+3510<br>Glencullen, Granite Cottages
+3512<br>Glencullen, Walsh's Lane
+3514<br>Glencullen, Hill View
+3515<br>Glencullen, Fiery Lane
+3516<br>Glencullen, Granite Cottages
+3517<br>Glencullen, Johnnie Fox's
+3518<br>Glencullen, Arianna
+3519<br>Glencullen, Pinefield House
+3521<br>Glencullen, Brook Meadow
+3523<br>Glencullen, Brackloon House
+3524<br>Glencullen, Ballyedmonduff
+3525<br>Glencullen, The Quarry
+3527<br>Glencullen, Fern Hill
+3528<br>Glencullen, Granite Field
+3529<br>Glencullen, Woodside Cottage's
+3532<br>Ballinteer, Blackglen Road
+3533<br>Ballinteer, Blackglen Court
+3534<br>Churchview Road
+3535<br>Ballybrack, Church Road
+3536<br>Ballybrack, Ballybrack Village
+3537<br>Ballybrack, Ballybrack Cross Roads
+3538<br>Ballybrack, Abberley Estate
+3539<br>Loughlinstown, Shanganagh Road
+3540<br>Loughlinstown, Shanganagh Bridge
+3541<br>Shankill, Hazelwood Estate
+3542<br>Shankill, Rathsallagh Estate
+3543<br>Shankill, Shankill Church
+3544<br>Shankill, Beechfield Manor
+3545<br>Shankill Church
+3546<br>Shankill Station
+3547<br>Shanganagh Park
+3548<br>Shanganagh Cliffs
+3551<br>Rathsallagh Drive
+3552<br>Shankill, Rathsallagh Estate
+3553<br>Shankill, Hazelwood Estate
+3554<br>Loughlinstown, Shanganagh Bridge
+3555<br>Loughlinstown, Shanganagh Road
+3556<br>Ballybrack, Liwara
+3557<br>Ballybrack, The Sycamores
+3560<br>Ballybrack Village
+3561<br>Wyattville Road
+3562<br>Milltown, Glenmalure Square
+3563<br>Stillorgan, Lower Kilmacud Road (Upper Kilmacud Rd)
+3565<br>Skerries, Rush Road
+3566<br>Skerries, Selskar Court
+3567<br>Skerries, Selsker Road
+3569<br>Skerries, Selskar Road
+3571<br>Skerries, Selskar Court
+3572<br>Swords, Forest Road
+3573<br>Kinsealey, Church
+3574<br>Malahide, Swords Road (Talbot Road)
+3575<br>Kinsealey, Malahide Road (Chapel Road)
+3576<br>Kinsealey, Copperbush
+3577<br>Malahide, Feltrim Lane
+3578<br>Malahide, Streamstown Lane
+3579<br>Malahide, Auburn House
+3580<br>Malahide, Dublin Road (before Swords Road)
+3583<br>Malahide, Yellow Walls Road
+3584<br>Malahide, Presbyterian Church
+3585<br>Malahide, Saint Sylvester's Church
+3586<br>Malahide
+3587<br>Malahide, Old Golf Links Estate
+3588<br>Malahide, Coast Road (Seapark Estate)
+3589<br>Malahide, Biscayne Estate
+3590<br>Malahide, COast Road (opp Seapark Estate)
+3591<br>Malahide, Robswall Estate
+3592<br>Portmarnock, Monk's Meadow Estate
+3593<br>Portmarnock, Coast Road
+3594<br>Portmarnock, Portmarnock Golf Links Hotel
+3595<br>Portmarnock, Strand Road (Blackberry Lane)
+3596<br>Portmarnock, Carrickhill Lane way
+3597<br>Portmarnock, The Dunes Estate
+3598<br>Portmarnock, Portmarnock Village
+3599<br>Portmarnock, Portmarnock Village
+3600<br>Portmarnock, The Dunes Estate
+3601<br>Portmarnock, Carrickhill Lane way
+3602<br>Portmarnock, Strand Road (Blackberry Lane)
+3604<br>Portmarnock, Portmarnock
+3605<br>Portmarnock, Wendell Avenue
+3606<br>Portmarnock, Dunnes Stores Shopping Centre
+3607<br>Portmarnock, Martello Estate
+3608<br>Portmarnock, Carrickhill Road
+3609<br>Portmarnock, Carrickcourt Estate
+3610<br>Portmarnock, Carrickcourt Estate
+3611<br>Portmarnock, Carrickhill Heights
+3612<br>Portmarnock, Portmarnock Leisure Centre
+3613<br>Portmarnock, Redfern Avenue
+3615<br>Portmarnock, Wendell Avenue #1
+3616<br>Portmarnock, Coast Road
+3618<br>Portmarnock, Monks Meadow
+3619<br>Malahide, Robswall Estate
+3620<br>Malahide, Coast Road
+3621<br>Malahide, Martello Tower
+3622<br>Malahide, Coast Road (Seapark Estate)
+3623<br>Malahide, Mayfair Estate
+3624<br>Malahide, Saint James's Terrace
+3625<br>Malahide, Saint Andrew's Grove
+3626<br>Malahide, The Hill Malahide
+3627<br>Malahide, The Hill Malahide #1
+3628<br>Malahide, Saint Sylvester's GAA Club
+3629<br>Dartry, The Hill Malahide
+3630<br>Malahide, Scoil Iosa School
+3631<br>Malahide, The Hill Malahide #1
+3632<br>Malahide, The Hill Malahide
+3633<br>Malahide, Saint Andrew's Church
+3634<br>Malahide, Saint Sylvester's Church
+3635<br>Malahide, Malahide Cricket Club
+3636<br>Malahide, Yellow Walls Road
+3639<br>Malahide, Dublin Road (past Swords Road)
+3640<br>Malahide, Swords Road (Lawson Spinney)
+3641<br>Malahide, Castle Downs Road
+3642<br>Malahide, Church of the Sacred Heart
+3643<br>Malahide, Inbher Ide
+3644<br>Malahide, Dublin Road (before Swords Road)
+3645<br>Drinan, Malahide Castle
+3646<br>Drinan, Malahide Road
+3647<br>Malahide, Feltrim Lane
+3648<br>Kinsaley, Feltrim Road (Malahide Road)
+3649<br>Kinsaley, Feltrim Road (Streamstown Lane)
+3650<br>Feltrim, Roadstone Retail
+3651<br>Drinan, Feltrim Road (Kinsealy Downs)
+3652<br>Drinan, Feltrim Road (opp Kinsealy Downs)
+3653<br>Swords, Feltrim Business Park
+3654<br>Swords, Milesian Court
+3655<br>Drynam Road, Foxwood
+3656<br>Swords, Feltrim Business Park
+3657<br>Drinan, Feltrim Road (opp Kinsealy Downs)
+3658<br>Drinan, Feltrim Road (Kinsealy Downs)
+3659<br>Feltrim, Roadstone Retail
+3660<br>Kinsaley, Feltrim Road (Streamstown Lane)
+3661<br>Kinsealey, Copperbush
+3662<br>Kinsealey, Kinsealy Research Centre
+3663<br>Dublin Airport, Airport Terminal 2
+3664<br>Balbriggan, hamptom Cove
+3665<br>Dublin Airport, Terminal 1
+3669<br>Dublin Airport, Maldron Hotel
+3670<br>Dublin Airport, The Radisson Hotel
+3671<br>Dublin Airport, Dublin Airport Roundabout
+3672<br>Dublin Airport, Swords Road
+3674<br>Dublin Road
+3675<br>Dublin Road (near junction Boroimhe)
+3676<br>Rathingle, Dublin Road (Boroimhe)
+3677<br>Swords, Cholaiste Choilm
+3678<br>Swords, Main Street (Forest Road)
+3679<br>Swords, Main Street Swords
+3682<br>Knocksedan, Glasmore Park
+3686<br>Broadmeadow, Rathbeale Crescent
+3689<br>Swords, Fingal County Council
+3690<br>Swords, Swords Village
+3691<br>Dublin Road (Malahide Road)
+3692<br>Swords, Dublin Road
+3694<br>Airside, Veterinary Hospital
+3695<br>Swords, Dublin Road (near Airside Junction)
+3696<br>Dublin Road (near junction Boroimhe)
+3697<br>Drinan, Equestrian Centre
+3698<br>Drinan, Swords Monument Works
+3699<br>Stockhole Lane
+3701<br>Swords, Ballintrane Wood
+3702<br>Rathingle, River Valley Lawn
+3704<br>Rathingle, Cherry Garth Estate
+3705<br>Rathingle, Rathingle Road (Brookdale Drive)
+3706<br>Rathingle, Rathingle Road
+3707<br>Rathingle, Rathingle Road (Brookdale Drive)
+3708<br>Rathingle, Cherry Garth Estate
+3709<br>Rathingle, River Valley Road
+3710<br>Rathingle, River Valley Lawn
+3711<br>Swords, North Street
+3712<br>Swords, Swords Castle
+3713<br>Swords, Seatown West
+3714<br>Jamestown, Ennis Lane
+3715<br>Jamestown, Hearse Road
+3718<br>Donabate, Newbridge House
+3719<br>Donabate, Newbridge House
+3720<br>Donabate, Outside Train Station
+3721<br>Donabate, Corballis Cross
+3722<br>Donabate, Donabate Community Centre
+3723<br>Donabate, National School
+3724<br>Donabate, Martin's Lane
+3725<br>Portrane, Harneys Lane
+3726<br>Portraine, Portrane Road
+3728<br>Portrane, Healys lane
+3729<br>Portrane, Dockrells
+3730<br>Portrane, Beach Lane
+3732<br>Portrane, Smarts Lane
+3733<br>Portrane, Beach Lane
+3734<br>Portrane, the Castle
+3735<br>Portrane, Seaview Park
+3736<br>Portraine, Portrane
+3738<br>Portraine, Portrane Road
+3739<br>St Ita's Hospital
+3740<br>Donabate, Martin's Lane
+3741<br>Donabate, National School
+3743<br>Donabate, Corballis Cross
+3744<br>Donabate, Outside Train Station
+3745<br>Donabate, Newbridge House
+3746<br>Donabate, Newbridge House
+3748<br>Donabate, Turvey Industrial Estate
+3749<br>Donabate, Balheary Bridge
+3750<br>Swords, Balheary Park
+3751<br>Swords, Carnegie Court
+3752<br>Swords, Fingalians GAA Club
+3755<br>Turvey, Drimnagh Road(Turvey Road)
+3756<br>Turvey, Newhaggard Bridge
+3757<br>Turvey, Lusk Road (Balleally Lane)
+3758<br>Lusk, Corduff Common
+3759<br>Turvey, Lusk Road
+3760<br>Lusk, Bridetree
+3761<br>Lusk, Carrige House
+3762<br>Lusk, Bellearly Lane
+3763<br>Lusk, Racecourse Common
+3764<br>Lusk, Station Road (Dublin Road)
+3765<br>Lusk, Station Road (Rathmore Road)
+3766<br>Lusk, Lusk House
+3767<br>Lusk, Station Road
+3768<br>Lusk, Outside Train Station
+3769<br>Rush, Lusk Road (Bishop Land)
+3770<br>Rush, Horstone Road
+3771<br>Rush, Lusk Road
+3772<br>Rush, Lusk Road
+3773<br>Rush, junction Spout Road
+3774<br>Rush, Whitestown Road (Old Road)
+3775<br>Rush, Chapel Green
+3777<br>Rush, The Millbank
+3778<br>Rush, Main St Upper Rush
+3780<br>Donabate, Chapel View Road
+3781<br>Rush, Skerries Road (Hands Lane)
+3782<br>Rush, Skerries Road Rush
+3783<br>Rush, Cooper's Lane
+3784<br>Rush, Skerries Road (Five Lanes)
+3785<br>Rush, Clifflands Estate
+3786<br>Ballykea, Lambay View
+3787<br>Ballykea, Loughshinny (Rush Road)
+3788<br>Ballykea, Skerries Road
+3789<br>Ballykea, Curkeen Lane Water Works
+3790<br>Skerries, Pierstown Lane
+3791<br>Skerries, Hacketstown Cottages
+3792<br>Skerries, Hacketstown Park
+3793<br>Skerries, Holmpatrick(Shenick Road)
+3794<br>Skerries, Holmpatrick (Rugby Club)
+3795<br>Skerries, Holmpatrick (Miller's Lane)
+3797<br>Skerries, Strand Street (Manning's Opening)
+3798<br>Skerries, Strand Street (Monument)
+3799<br>Skerries, Thomas Hand Street
+3801<br>Skerries, Kellys Bay (Mourne Drive)
+3802<br>Skerries, Northcliffe Heights
+3805<br>Skerries, Kelly's Bay Parade
+3806<br>Balbriggan, Hampton Cove
+3807<br>Balbriggan, Derham Park
+3808<br>Balbriggan, Craoibhin Park
+3809<br>Balbriggan, Pump Lane
+3811<br>Balbriggan, Skerries Road
+3812<br>Balbriggan, Fancourt Heights
+3813<br>Balbriggan, Railway Footbridge
+3814<br>Skerries, Balbriggan Road
+3815<br>Skerries, Northcliffe Heights
+3816<br>Skerries, Kellys Bay (Mourne Drive)
+3818<br>Skerries, Thomas Hand Street
+3819<br>Skerries, Strand Street (Monument)
+3820<br>Skerries, Strand Street (Saint Patrick's Church)
+3822<br>Skerries, Holmpatrick (Miller's Lane)
+3823<br>Skerries, Holmpatrick (Rugby Club)
+3824<br>Skerries, Holmpatrick(Shenick Road)
+3825<br>Skerries, Hacketstown Cottages
+3826<br>Skerries, Ballyhavil
+3827<br>Ballykea, Rush Road
+3828<br>Ballykea, Skerries Road
+3829<br>Ballykea, Loughshinny (Rush Road)
+3831<br>Ballykea, Carn Hill House
+3832<br>Rush, Ballustree
+3833<br>Rush, Saint Catherines Estate
+3834<br>Rush, Skerries Road
+3835<br>Rush, Rush Cricket Club
+3836<br>Rush, Golden Ridge Estate
+3837<br>Rush, The Strand bar
+3838<br>Rush, Main St Upper Rush
+3840<br>Rush, Rush Garda Station
+3842<br>Rush, Chapel Green
+3843<br>Rush, Doctor's Lane
+3844<br>Rush, Whitestown Road (Old Road)
+3845<br>Rush, Whitestown Road (Healy's Lane)
+3846<br>Rush, Whitestown Road
+3848<br>Rush, Lusk Road (Bishop Land)
+3849<br>Rush, Horstone Road
+3850<br>Lusk, Outside Train Station
+3851<br>Lusk, Station Road
+3852<br>Lusk, junction Rogerstown Lane
+3853<br>Lusk, Station Road (Rathmore Road)
+3854<br>Lusk, Station Road (Dublin Road)
+3855<br>Lusk, Station Road (Church Road)
+3856<br>Lusk, Chapel Farm Estate
+3857<br>Lusk, Dublin Road
+3858<br>Lusk, Bridetree
+3859<br>Lusk, Balleally West
+3860<br>Lusk, Hannah's Avenue
+3861<br>Turvey, Lusk Road (Balleally Lane)
+3862<br>Turvey, Newhaggard Bridge
+3863<br>Turvey, Drimnagh Road(Turvey Road)
+3864<br>Broadmeadow, Abbylea Avenue
+3865<br>Knocksedan, Glen Ellan Walk
+3867<br>Knocksedan, Rathbeale Cottages (Mataranka)
+3874<br>Rowlestown, Cemetery
+3881<br>Knocksedan, Rathbeale Cottages (Mataranka)
+3884<br>Broadmeadow, Pine Grove Park
+3885<br>Dublin Airport, The Radisson Hotel
+3886<br>Lucan, Leixlip Road (near Primrose Lane)
+3887<br>Lucan, Leixlip Road
+3888<br>Lucan, Flyover Bridge
+3890<br>Lucan, Dodsboro Road
+3891<br>Lucan, Woodview Heights
+3892<br>Leixlip, Weston Estate
+3893<br>Leixlip, Cooldrinagh Lane
+3895<br>Leixlip, Weston Airport
+3896<br>Lucan, Department of Agricultutre and Forestry
+3897<br>Celbridge, Backweston Park
+3898<br>Celbridge, Backweston Farm
+3899<br>Celbridge, Dublin Road (Celbridge Road)
+3900<br>Celbridge, Celbridge Football Park
+3901<br>Celbridge, Dublin Road (Ballyoulster Road)
+3902<br>Celbridge, Ballyoulster Estate
+3904<br>Celbridge, Don Cowper Riding School
+3905<br>Celbridge, Dublin Road
+3906<br>Celbridge, Saint Patrick's Park
+3907<br>Celbridge, Main St Celbridge
+3908<br>Celbridge, Big Lane
+3909<br>Celbridge, Maynooth Road
+3910<br>Celbridge, Thornhill Court Estate
+3911<br>Celbridge, Maynooth Road (Crodaun Forest Park)
+3912<br>Celbridge, Salesian College
+3913<br>Celbridge, Maynooth Road (near Salesian College)
+3914<br>Maynooth, Obelisk Lane
+3917<br>Maynooth, Straffan Road, Rail Station
+3918<br>Maynooth, Straffan Road
+3919<br>Maynooth, Celbridge Road
+3920<br>Celbridge, Maynooth Road (near Salesian College)
+3921<br>Celbridge, Salesian College
+3922<br>Celbridge, Maynooth Road (Crodaun Forest Park)
+3923<br>Celbridge, Thornhill Court Estate
+3924<br>Celbridge, Beatty Park Estate
+3925<br>Maynooth, Celbridge Road (Rockfield Avenue)
+3926<br>Maynooth, Railpark Estate
+3927<br>Celbridge, Chestnut Grove
+3928<br>Celbridge, Castletown House Gate
+3929<br>Celbridge, Saint Patrick's Park
+3935<br>Celbridge, Don Cowper Riding School
+3936<br>Celbridge, Ballyoulster Estate
+3938<br>Celbridge, Golf Range
+3939<br>Celbridge, Backweston Laboratory
+3940<br>Celbridge, Backweston Farm
+3941<br>Celbridge, Backweston Park
+3943<br>Leixlip, Department of Agriculture
+3944<br>Leixlip, Weston Airfield
+3945<br>Leixlip, Cooldrinagh Lane
+3946<br>Leixlip, Weston Estate
+3947<br>Lucan, Celbridge Road (N4 Slip Road)
+3949<br>Lucan, Leixlip Road
+3950<br>Lucan, Leixlip Road (near Primrose Lane)
+3952<br>Dolphins Barn, Crumlin Road
+3954<br>Leixlip, Leixlip By Pass
+3955<br>Leixlip, Cooldrinagh Road
+3956<br>Leixlip, Water Treatment Works
+3957<br>Leixlip, Leixlip Village
+3958<br>Leixlip, Church Of Ireland
+3959<br>Leixlip, Our Lady's Nativity Church
+3960<br>Leixlip, Maynooth Road
+3961<br>Leixlip, Cedar Park
+3962<br>Leixlip, Outside Train Station
+3963<br>Leixlip, Leixlip Amenities Centre
+3964<br>Leixlip, Maynooth Road near Amenities Centre
+3965<br>Leixlip, Deey Bridge
+3966<br>Maynooth, Leinster Park
+3968<br>Maynooth, Carton Road
+3980<br>Maynooth, Straffan Road (Kingsbury Estate)
+3981<br>Maynooth, Main Street
+3982<br>Maynooth, Leinster Park
+3983<br>Maynooth, Carton House
+3985<br>Leixlip, Deey Bridge
+3986<br>Leixlip, Royal Canal Way
+3987<br>Leixlip, Leixlip Amenities Centre
+3989<br>Leixlip, Outside Train Station
+3990<br>Leixlip, Maynooth Road
+3991<br>Leixlip, Our Lady's Nativity Church
+3993<br>Leixlip, Newtown Park Estate
+3994<br>Leixlip, River Forest Estate
+3995<br>Leixlip, River Forest Estate
+3996<br>Leixlip, Newtown Park Estate
+3997<br>Leixlip, Captain's Hill
+3998<br>Leixlip, Leixlip Village
+3999<br>Leixlip, Cooldrinagh Road
+4000<br>Leixlip, Cooldrinagh Terrace
+4001<br>Lucan, Liffey Valley Golf Course
+4002<br>Leixlip, Highfield Park
+4003<br>Leixlip, Alensgrove
+4004<br>Saggart, the Pines
+4005<br>Saggart, Glenareen junction
+4006<br>Saggart, Glenareen
+4007<br>Saggart, Pine Cottages
+4008<br>Saggart, Pine Cottages
+4009<br>Saggart, Blessington Road
+4010<br>Saggart, Fairway View
+4011<br>Kilbride (Carlow), Carrig View
+4012<br>Kilbride, Lisheen View
+4013<br>Kilbride, Antique Shop
+4014<br>Kilbride, June Blake's Garden
+4015<br>Kilbride (Carlow), Golden Hill
+4017<br>Kilbride (Carlow), Hempstown
+4018<br>County Wicklow, Kilteel Road
+4019<br>County Wicklow, Hempstead
+4020<br>County Wicklow, Cleevaun
+4021<br>County Wicklow, Blessington Road
+4022<br>Blessington, Clarke Group
+4023<br>Blessington, Hayland's Sand Pits
+4024<br>Blessington, Hayland's Sand Pits
+4027<br>Blessington, Tourist Office
+4051<br>Blessington, Tourist Office
+4052<br>Blessington, Community Centre
+4054<br>Blessington, Hayland's Sand Pits
+4055<br>Blessington, Hayland's Sand Pits
+4056<br>Kilbride, Finlay Breton
+4057<br>Blessington, Clarke Group
+4058<br>County Wicklow, Carton Lodge
+4059<br>County Wicklow, Hempstead
+4060<br>County Wicklow, Kilteel Road
+4061<br>County Wicklow, Hempstone Garage
+4062<br>Kilbride (Carlow), Hempstown
+4063<br>Kilbride (Carlow), Golden Hill
+4064<br>Tinode (Wicklow), Blessington Road
+4065<br>Kilbride, Antique Shop
+4066<br>Kilbride, Lisheen View
+4067<br>Kilbride (Carlow), Arduan
+4068<br>Kilbride (Carlow), Carrig View
+4069<br>Saggart, Fairway View
+4070<br>Saggart, Pine Cottages
+4071<br>Saggart, Glenareen
+4072<br>Saggart, Glenareen junction
+4073<br>Saggart, the Pines
+4086<br>DÃºn Laoghaire-Rathdown, Garden Centre
+4087<br>DÃºn Laoghaire-Rathdown, Kilternan Sports Hotel
+4088<br>DÃºn Laoghaire-Rathdown, The Scalp Wood
+4089<br>Enniskerry, Killegar House
+4090<br>Enniskerry, Ridgeway
+4091<br>Enniskerry, Monastery House
+4093<br>Enniskerry, National Environmental Centre
+4094<br>Enniskerry, Church
+4095<br>Enniskerry Village
+4096<br>Enniskerry, Powerscourt National School
+4097<br>Enniskerry Village
+4098<br>Kilbride, Finlay Breton
+4100<br>County Wicklow, Veterinary Clinic
+4101<br>County Wicklow, Blessington Road
+4102<br>County Wicklow, Veterinary Clinic
+4103<br>Kilgarron Park
+4104<br>Parknasillogue Ct
+4105<br>Hill View
+4106<br>Kilmolin
+4108<br>Enniskerry Golf Club
+4109<br>Bridge Road
+4110<br>Kilmolin
+4111<br>Hill View
+4112<br>Parknasillogue Ct
+4113<br>Kilgarron Park
+4114<br>Enniskerry, Enniskerry Road
+4115<br>Enniskerry, Church
+4116<br>Enniskerry, National Environmental Centre
+4117<br>Enniskerry, Ashridge Green
+4118<br>Enniskerry, Monastery House
+4119<br>Enniskerry, Bramble Hill
+4120<br>Enniskerry, Killegar House
+4121<br>DÃºn Laoghaire-Rathdown, The Scalp Wood
+4122<br>DÃºn Laoghaire-Rathdown, Kilternan Sports Hotel
+4123<br>DÃºn Laoghaire-Rathdown, Garden Centre
+4124<br>Shankill, Claremount Estate
+4125<br>DÃºn Laoghaire-Rathdown, Shanganagh Castle
+4126<br>DÃºn Laoghaire-Rathdown, Shanganagh Cemetery
+4127<br>DÃºn Laoghaire-Rathdown, Crinken Church
+4128<br>DÃºn Laoghaire-Rathdown, Woodbrook Golf Club
+4129<br>Bray, Bray Road
+4130<br>Bray, Castle Street
+4131<br>Bray (Wicklow), Castle Street
+4132<br>Bray, Bray Town Hall
+4133<br>Kilbride, June Blake's Garden
+4134<br>Bray, Vevay Road (Church Road)
+4135<br>Bray, Lauderdale Estate
+4136<br>Bray, Putland Villas
+4137<br>Boghall Road
+4138<br>Cherry Tree Drive
+4139<br>Woodbrook Lawn
+4140<br>Oldcourt Park
+4142<br>Oldcourt
+4143<br>Oldcourt Park
+4144<br>Woodbrook Lawn
+4145<br>Cherry Tree Drive
+4146<br>Vevay Road
+4147<br>Wolfe Tone Square
+4148<br>Bray, Putland Villas
+4149<br>Bray, Vevay Road #2
+4150<br>Bray, Market House
+4151<br>Bray, Bray Town Hall
+4153<br>Main Street (Quinnsborough Road)
+4154<br>Bray (Wicklow), Castle Street
+4156<br>Quinnsborough Road (Seymour Rd)
+4167<br>Bray Station
+4168<br>Outside Train Station
+4169<br>Bray Station
+4170<br>Bray, Methodist Church
+4171<br>Bray, Killarney Road (Vevay Road)
+4172<br>Bray, Killarney Road (near Glenlucan)
+4173<br>Bray, Killarney Road (The Nurseries)
+4175<br>Bray, St.Fergals Church
+4176<br>O'Byrne Road
+4177<br>Bray, Springfield Cemetery
+4178<br>Bray, Killarney Road (Glenthorn)
+4179<br>Bray, Kilbride Lane
+4180<br>Bray, Killarney Road (The Nurseries)
+4181<br>Bray, Killarney Road (near Glenlucan)
+4182<br>Bray, Market House
+4183<br>Upper Dargle Road
+4184<br>Sutton Road
+4185<br>Dargle Villas
+4186<br>Bray Commons
+4187<br>Silverbridge
+4189<br>Kilbride Lane
+4190<br>Cookstown
+4192<br>Cookstown
+4194<br>Kilbride Lane
+4196<br>Upper Dargle Road
+4199<br>Sunnybank Court
+4201<br>Bray, Greenhouse Garden Centre
+4202<br>DÃºn Laoghaire-Rathdown, Saint Brendan's College
+4203<br>DÃºn Laoghaire-Rathdown, Crinken Church
+4204<br>DÃºn Laoghaire-Rathdown, Shanganagh Castle
+4205<br>Shankill, Crinken Lodge
+4206<br>Shankill, Claremont Estate
+4207<br>Bray, Vevay Road
+4208<br>County Wicklow, Vevay Road(Southern Cross Road)
+4209<br>County Wicklow, Bray Golf Club
+4210<br>County Wicklow, Kilruddery Cotteges
+4211<br>County Wicklow, Rathdown Upper
+4212<br>County Wicklow, Windgate Link Road
+4213<br>Rathdown Upper, Windgate
+4214<br>County Wicklow, Redford Bridge
+4215<br>Greystones, Rathdown Road (Redford Park)
+4216<br>Greystones, Rathdown Road (Chapel Road)
+4217<br>Greystones, Saint Kevin's National School
+4218<br>Greystones, Rathdown Road (Church Road)
+4219<br>Greystones, Rathdown Road (Victoria Road)
+4220<br>Greystones, Trafalgar Road
+4221<br>Greystones (Wicklow), La Touche Place
+4222<br>Greystones, Church Road (La Touche Place)
+4224<br>Greystones, Outside Train Station
+4225<br>Greystones, Greystones
+4226<br>Greystones, Roundabout
+4227<br>Greystones, Rugby Club
+4228<br>Delgany, Greystones Tennis Club
+4229<br>Greystones, Carrig Villa's
+4230<br>Greystones, Killincarrick Cottages
+4231<br>Greystones, Killincarrick Cross
+4232<br>Delgany Wood
+4234<br>Health Centre
+4235<br>Delgany Golf Club
+4236<br>Drummin Gate Lodge
+4237<br>Killickabawn
+4238<br>Kilpedder Footbridge
+4239<br>Glenview Park
+4240<br>Glen Of The Downs
+4241<br>Delgany Golf Club
+4242<br>Health Centre
+4243<br>Chapel Road
+4244<br>Wendon Brook
+4246<br>Greystones, Glenbrook Park
+4248<br>Delgany, Kilcoole Road (Charlesland Estate)
+4249<br>Kilcoole, Prettybush
+4250<br>Kilcoole, Mountain View
+4251<br>Kilcoole, Kilcoole Road (Loft Lane)
+4252<br>Kilcoole, Saint Anthony's School
+4253<br>Kilcoole, Kilcoole (New Road)
+4254<br>Kilcoole, Kilcoole
+4256<br>Kilcoole, Woodstock Business Park
+4257<br>Newcastle (Wicklow), Chippin View Cottage
+4258<br>Newcastle, Leabeg House (Leabeg House)
+4259<br>Newcastle, Gorse Hill
+4260<br>Newcastle (Wicklow), Sea Road
+4261<br>Newcastle, Newcastle Road (Sea Road)
+4262<br>Newcastle, Newcastle Road (Leabeg Road)
+4263<br>Newcastle (Wicklow), Chippin View Cottage
+4264<br>Kilcoole, Woodstock Business Park
+4265<br>Kilcoole, Bramble Corner Estate
+4266<br>Kilcoole, Kilcoole
+4267<br>Kilcoole, Kilcoole (New Road)
+4268<br>Kilcoole, Church of Saint Anthony
+4269<br>Kilcoole, Kilcoole Road (Loft Lane)
+4270<br>Kilcoole, Mountain View
+4271<br>Kilcoole, Prettybush
+4273<br>Kilcoole, Eden Gate Estate
+4274<br>Greystones, Glenbrook Park
+4275<br>Greystones, Three Trouts Bridge
+4276<br>Greystones, Killincarrick Cross
+4277<br>Greystones, Mill Road
+4278<br>Greystones, Millbrook Garden Centre
+4279<br>Greystones, Rugby Club
+4280<br>Greystones, Mill Road
+4281<br>Greystones, Greystones
+4282<br>Greystones, Woodlands Hotel
+4283<br>Greystones, Church Road
+4284<br>Greystones, Church Road (La Touche Place)
+4285<br>Greystones, Trafalgar Road
+4286<br>Greystones, Rathdown Road (Victoria Road)
+4287<br>Greystones, Rathdown Road (Church Road)
+4288<br>Greystones, Saint Kevin's National School
+4289<br>Church Lane
+4290<br>Greystones SC
+4291<br>Bellevue Road
+4292<br>Bellevue Road
+4293<br>Greystones SC
+4294<br>Church Lane
+4295<br>Greystones, Redford Park
+4296<br>Greystones, Rathdown Road (Blacklion Manor)
+4297<br>County Wicklow, Redford Bridge
+4299<br>County Wicklow, Greystones Road (Windgate)
+4300<br>County Wicklow, Windgate Link Road
+4301<br>County Wicklow, House On Hill
+4302<br>County Wicklow, Lord Meaths Gate
+4303<br>County Wicklow, Vevay Road(Southern Cross Road)
+4304<br>Bray, Newcourt Road
+4305<br>Kilcoole, Woodbine Cottage
+4306<br>Kilcoole, Beechdale
+4307<br>Kilcoole, Beechdale Estate
+4308<br>Kilcoole, Beechdale
+4309<br>Kilcoole, Sea Road Kilcoole
+4313<br>Ballyogan Luas
+4314<br>Blanchardstown, Castleknock Road (Navan Road)
+4315<br>Kilsallaghan, Owens Bridge
+4316<br>Kilsallaghan, River Meade Avenue
+4317<br>Kilsallaghan, River Meade Drive
+4319<br>Heuston Station, Victoria Quay
+4320<br>Outside Heuston Train Station
+4321<br>Cloghran, Cruiserath Road
+4322<br>Cabra, Ashington Gardens
+4323<br>Blanchardstown, Whitestown Grove
+4324<br>Castaheaney, Castaheany Estate
+4325<br>Mulhuddart, Old Navan Road
+4327<br>Esker Glebe
+4330<br>Swords, Pavilions Shopping Centre
+4331<br>Malahide, Estuary Road
+4332<br>Nutgrove SC
+4333<br>Nutgrove, Marley Court South
+4334<br>Rathfarnham, Broadford Road (Dargle View)
+4336<br>Nutgrove, Broadford Road
+4337<br>Nutgrove SC
+4339<br>Malahide, Estuary Road
+4340<br>Tallaght, The Square Shopping Centre
+4341<br>The Square
+4342<br>Tallaght, The Square Shopping Centre
+4344<br>Tallaght, The Square Shopping Centre
+4347<br>Tallaght, The Square Shopping Centre
+4348<br>Tallaght, The Square Shopping Centre
+4349<br>Sandyford, Blackthorn Drive (Limes Road)
+4350<br>Sandyford, Blackthorn Drive
+4353<br>Blackrock (DunLaoghaire-Rathdown), Rockville Drive
+4354<br>Deansgrange, Newtown Park Avenue (Marian Park)
+4355<br>Blackrock (DunLaoghaire-Rathdown), Church Of Guardian Angels
+4357<br>Hollyville Lawn
+4359<br>Hollyville Lawn
+4360<br>Robin Villas
+4361<br>Palmerstown Village
+4362<br>Blanchardstown, Millennium Park
+4363<br>Finglas South, Dunsink Green
+4364<br>Finglas, Mater Christi School
+4365<br>Poppintree Park
+4366<br>Clune Road
+4367<br>Jamestown Road
+4368<br>Poppintree Park
+4369<br>Poppintree, Finglas Business Park
+4371<br>Cabra East, Carnlough Road
+4372<br>Glasnevin, West Park Drive
+4375<br>Jamestown Road
+4376<br>Finglas, Clancy Avenue
+4377<br>Finglas, McKee Road
+4379<br>Tallaght, Monastery Road (Naas Road)
+4380<br>Dublin, Talbot Street (opp Bank of Ireland)
+4381<br>Sutton Station
+4382<br>Donnycarney, Donnycarney Church
+4383<br>Coolock, Colaiste Dhulaigh
+4384<br>Ballybough, North Strand Road
+4385<br>Coolock, Saint Brendan's Church
+4386<br>Raheny, Watermill Drive
+4387<br>Malahide, Malahide Garda Station
+4388<br>Priorswood, Glin Road
+4389<br>Clontarf Golf Club
+4390<br>Railway Bridge
+4392<br>Greenhills, Greenhills College
+4393<br>Ballyogan Avenue
+4395<br>Ballyogan Court
+4396<br>Ballyogan Road
+4397<br>Ballinteer, Ballinteer Avenue
+4399<br>Drimnagh, Galtymore Road (Galtymore Pk)
+4400<br>Drimnagh, Galtymore Road (Carrow Rd)
+4401<br>Palmerstown, Lucan Road
+4404<br>Leixlip, Castletown Estate
+4405<br>Leixlip, Highfield Park
+4406<br>Bluebell (Dublin City), Bluebell Brooks Thomas
+4407<br>James's Gate, Guinness Store
+4408<br>Phoenix Park, Chesterfield Avenue
+4409<br>Clondalkin, Orchard Road
+4410<br>Ronanstown, Saint Mark's Estate
+4411<br>Ballyowen, Shancastle Estate
+4413<br>Outside Heuston Train Station
+4414<br>Convent Lawns
+4415<br>Outside Connolly Station
+4416<br>Bray, Roseville Court
+4417<br>St Peter's Road
+4419<br>Raverty Villas
+4420<br>Maple Grove
+4421<br>Beech Road
+4422<br>Diamond Valley
+4432<br>Whitehall, Swords Road (Griffith Downs)
+4433<br>Swords, Seatown Roundabout
+4434<br>The Coombe, Coombe Maternity Hospital
+4435<br>Tallaght, Tallaght Village
+4436<br>Tallaght, Blessington Road
+4438<br>Citywest, Lake Drive
+4440<br>Citywest, Brookfield Road (Brookview Grove)
+4441<br>Citywest, Brookfield Road
+4445<br>Jobstown, Killinarden Estate
+4446<br>Tymon North, Greenhills Road
+4451<br>Sandymount, Strand Road #2
+4455<br>Ballsbridge, Ailesbury Road
+4456<br>Dublin City South, Aungier Street Church
+4457<br>Ravenscourt Park
+4458<br>Cabra, Blackhorse Avenue (Skreen Road)
+4460<br>Kilmacud, Whately Place
+4462<br>Sallynoggin, Pearse Street (Park Close)
+4464<br>Blanchardstown, Sheepmoor Grove
+4465<br>Portmarnock, Strand Road (St.Anne's Estate)
+4466<br>Edenmore, Glenwood Road
+4468<br>East Wall, Strangford Garden
+4469<br>East Wall, East Road
+4472<br>Raheny, Raheny Driving Test Centre
+4473<br>Artane Castle SC
+4474<br>Artane Castle SC
+4475<br>Mount Merrion, Dale Drive
+4477<br>Stillorgan, Lower Kilmacud Road (Upper Kilmacud Rd)
+4479<br>Finglas, McKee Road
+4481<br>Cabra East, Faussagh Road (Quarry Road)
+4485<br>Cabra East, Naomh Fionnbarra GAA Club
+4486<br>Dundrum, Bridge over By Pass
+4489<br>Blanchardstown, Sheepmoor Grove
+4492<br>Blanchardstown, Cherryfield Park
+4493<br>Blanchardstown, Fortlawn Estate
+4494<br>Dublin City South, Hawkin House
+4495<br>Dublin City South, Hawkin's Street
+4498<br>Cabra, Saint Declan's School
+4499<br>Cabra East, Cabra Road
+4500<br>Cabra East, Faussagh Road (Dowth Ave)
+4501<br>Cabra East, Faussagh Road (Quarry Road)
+4502<br>Cabra East, Dowth Avenue
+4503<br>Hazel Grove
+4504<br>Ashtown, Compass Court South
+4508<br>Dublin, Cathal Brugha Street
+4509<br>Summerhill (Dublin City), Sean O'Casey Estate
+4513<br>Rotunda, Parnell Street
+4514<br>Kilmainham, Hospital Gounds
+4515<br>Kilmainham, Dental Department
+4516<br>Kilmainham, Saint James's Hospital
+4518<br>Ballybough, Fairview Strand
+4520<br>Carpenterstown, Carpenterstown Park (Sycamore Drive)
+4521<br>College Green
+4522<br>College Green
+4523<br>Cabra, Kinvara Avenue
+4524<br>Cabra, Priory Estate
+4525<br>Cabra, Ashington Park
+4526<br>Cabra, Priory Estate
+4527<br>Rathmines
+4528<br>Kelly's Corner, Lower Rathmines Road
+4530<br>Dublin City South, Leinster House
+4532<br>Clondalkin, Hazelwood Crescent
+4533<br>Kilmacanogue (Esso Garage)
+4534<br>Clondalkin, Roundabout Saint John's Drive
+4535<br>Clondalkin, Saint John's Lawn
+4536<br>Clondalkin, Hazelwood View
+4537<br>Clondalkin, Roundabout
+4538<br>Ashtown, Watermint Court
+4539<br>Finglas South, Glenties Park
+4542<br>Glasnevin, Finglas Road (Wellmount Road)
+4543<br>Glasnevin, Finglas Road (Wellmount Road)
+4545<br>Nangor, Business Park
+4546<br>Finglas, Plunkett Avenue
+4548<br>Glasnevin, Finglas Place
+4549<br>Clondalkin, Woodford Hill
+4550<br>Clondalkin, Watery Lane (Riversdale Estate)
+4551<br>Clondalkin, Woodford Walk
+4552<br>Nangor, Business Park roundabout
+4554<br>Nangor, Wyeth
+4555<br>Nangor, Business Park Nangor Entrance
+4557<br>Rathcoole, Main St (Stoney Lane)
+4558<br>Newcastle (South Dublin), Peamount Road (Newcastle Golf Centre)
+4559<br>Newcastle (South Dublin), Peamount Road (Newcastle Golf Centre)
+4560<br>Rathcoole, Johnstown Road (St.Patrick's Crescent)
+4561<br>Ballyowen, Foxborough Road
+4562<br>Ballyowen, Foxborough Avenue
+4563<br>Clare Hall, Malahide Road (N32)
+4564<br>Rathcoole, Rathlawns (Green Lane)
+4565<br>Kill of The Grange, Rosepark
+4566<br>Kill of The Grange, Fire Station
+4567<br>Kill of The Grange, Kill Avenue
+4568<br>Kill of The Grange, Kill Avenue
+4569<br>Kill of The Grange, Kill O The Grange Estate
+4570<br>Kill of The Grange, Holy Family Church
+4571<br>Stillorgan, Stillorgan Road (Stillorgan Park)
+4573<br>Carpenterstown, Burnell Park Avenue
+4574<br>Carpenterstown, Burnell Park Avenue
+4575<br>Carpenterstown, Shopping Centre
+4576<br>Nangor, Business Park
+4577<br>Templeogue, Wellington Road
+4578<br>Templeogue, Saint Jude's GAA Club
+4582<br>Broadford Road
+4583<br>Finglas South, Church of the Annunciation
+4584<br>Diamond Valley
+4588<br>Bray, Cois Sleibhe (Swimming Pool)
+4589<br>Bray, Bray Business Park
+4590<br>Bray, Hollybrook Park
+4591<br>Bray, Earlscroft
+4592<br>Jamestown Road (Seamus Ennis Road)
+4593<br>Balgriffin, Clare Hall Estate (Templeview Vale Rd)
+4594<br>Balgriffin, Clare Hall Estate (Templeview Avenue)
+4595<br>Clare Hall, Templeview Avenue
+4596<br>Balgriffin, Clare Hall Estate (Templeview Vale Rd)
+4597<br>Beaumont Hospital
+4599<br>Ballyowen, Slip Road onto the N4
+4601<br>Lucan, Ballyowen Road (Ballyowen Park)
+4602<br>Lucan, Ballyowen Road (junction at Castle Road)
+4603<br>Ballyowen, Colthurst Crescent
+4604<br>Ballyowen, Earlsfort Roundabout
+4605<br>Ballyowen, Newland's Road
+4606<br>Ballyowen, Foxborough Estate
+4607<br>Lucan, Moy Glas Dene Estate
+4608<br>Lucan, Griffeen Road (Griffeen Glen)
+4609<br>Lucan, Elmwood Estate
+4610<br>Ballyowen, Lucan Leisure Centre
+4611<br>Lucan, Saint Finnian's Estate
+4612<br>Lucan, Arthur Griffith Park
+4613<br>Lucan, Arthur Griffith Park Estate
+4616<br>Lucan, Newcastle Road
+4617<br>Nangor, Business Park Wyeth
+4619<br>Ballyowen, Foxborough Estate
+4620<br>Lucan, Newcastle Road
+4623<br>Lucan, Moy Glas Dene Estate
+4624<br>Ballyowen, Lucan Leisure Centre
+4625<br>Lucan, Elmwood Estate
+4626<br>Lucan, Arthur Griffith Park
+4627<br>Lucan, Saint Finnian's Estate
+4628<br>Lucan, Moy Glas Park
+4629<br>Ballyowen, Newland's Road
+4630<br>Ballyowen, Earlsfort Estate
+4631<br>Ballyowen, Castle Road
+4632<br>Lucan, Ballyowen Road (junction at Castle Road)
+4633<br>Lucan, Willsbrook Estate
+4636<br>Galloping Green, Laurleen Estate
+4637<br>Stillorgan Village
+4640<br>Tallaght, Tallaght Hospital
+4641<br>Citywest, Russell View Estate
+4642<br>Citywest, Cloonmore Estate
+4643<br>Citywest, Jobstown Road
+4644<br>Citywest, Russell Lane
+4645<br>Citywest, Swiftbrook Estate
+4646<br>Tallaght, Tallaght Hospital
+4647<br>Tallaght, Old Blessington Road
+4650<br>Kilpeddar Grove
+4651<br>Garden Village
+4652<br>Coillte Offices
+4653<br>Newtownmountkennedy
+4654<br>Springfield Heights
+4655<br>Newtown Business Ctr
+4656<br>Newcastle Hospital
+4657<br>Newcastle Hospital
+4658<br>Springfield Heights
+4659<br>Newtownmountkennedy
+4660<br>Coillte Offices
+4661<br>Garden Village
+4662<br>Greenhills, Calmount Park
+4663<br>Clondalkin, Watery Lane (Castleview Road)
+4664<br>Clondalkin, Watery Lane
+4665<br>Clondalkin, Convent Road (St.Anthony's Ave)
+4666<br>Clondalkin, Fonthill Road South
+4667<br>Clondalkin, Saint John's Estate
+4668<br>Clondalkin, Cherrywood Avenue
+4669<br>Nangor, Mill Church Way
+4670<br>Nangor, Deansrath (New Nangor Road)
+4671<br>Clondalkin, Cherrywood Avenue
+4672<br>Clondalkin, Saint John's Estate
+4673<br>Clondalkin, Round Towers GAA Club
+4674<br>Clondalkin, Yellow Meadow Drive
+4677<br>Nangor, Alphine Heights
+4680<br>Whitehall (Dublin City), DCU Ballymun Road
+4683<br>Ballymun, Balbutcher Lane (Balbutcher Drive)
+4686<br>Shangan Road
+4687<br>Virgin Mary Church
+4688<br>Ronanstown, Fonthill Road
+4689<br>Ronanstown, Glenfield Estate
+4690<br>Ronanstown, Fonthill Road
+4691<br>Ronanstown, Ballyowen Park
+4692<br>Darndale, Glin Sports Centre
+4693<br>Priorswood, Memorial Park
+4694<br>Coolock, Coolock Drive
+4695<br>Darndale, Greencastle Parade
+4696<br>Bonnybrook, Coolock Drive, Adare Road
+4697<br>Coolock, Coolock Drive
+4698<br>Coolock, Bunratty Road
+4699<br>Priorswood, Stardust Memorial Park
+4700<br>Darndale, Sports Centre
+4705<br>Booterstown, Rock Road (Saint Helen's Road)
+4707<br>Ballinteer, Stone Masons Way (Broadford Road)
+4708<br>Rathfarnham, Broadford Road (Dargle View)
+4709<br>Churchtown, Landscape Park
+4710<br>Churchtown, Braemor Road (Upper Churchtown Road)
+4712<br>Nutgrove, Llewellyn Way
+4713<br>Citywest, Bianconi Avenue
+4714<br>Citywest, Castle House
+4715<br>Palmerston, Liffey Valley Shopping Centre
+4717<br>BusÃ¡ras
+4720<br>Temple Bar, Aston Quay
+4724<br>Rotunda, Dublin Bus Head Office
+4725<br>Dublin, Upper O'Connell Street
+4726<br>Rotunda, Hugh Lane Galllery
+4727<br>Stillorgan, Laurence Park
+4728<br>Stillorgan, Oatlands College
+4731<br>Sallynoggin, National Rehabilitation Hospital
+4732<br>Sallynoggin, National Rehabilitation Hospital
+4742<br>Mulhuddart, Damastown Road
+4743<br>Damastown Industrial Park, Damastown Road
+4744<br>Mulhuddart, I.B.M Industries
+4745<br>The Mayne, Damastown Drive
+4746<br>Castleknock, Auburn Avenue
+4747<br>Blanchardstown, Shopping Centre
+4749<br>Knocklyon, Ballycullen Road
+4750<br>Knocklyon, Castlefield Manor Estate
+4751<br>Firhouse, Ballycullen Drive
+4754<br>Firhouse, Carrigwood Estate
+4755<br>Firhouse, Ballycullen Avenue (Carriglea)
+4756<br>Firhouse, Carriglea Estate
+4757<br>Firhouse, Carrigwood Estate
+4758<br>Firhouse, Ballycullen Drive
+4759<br>Firhouse, Glenvara Park
+4760<br>Knocklyon, Sally Park Close
+4762<br>Nangor, Westbourne Estate
+4763<br>Nangor, Roundabouts
+4765<br>Castaheaney, Huntstown Wood Estate
+4766<br>Pheasant Run, Deerhaven Estate
+4767<br>Hunter's Run, Hunters Run Estate
+4768<br>Castaheaney, Castsheany Estate
+4769<br>Castaheaney, Hunters Run Estate
+4770<br>Castaheaney, Deerhaven Estate
+4771<br>Sycamore Drive
+4772<br>Hainault Road
+4773<br>Leopardstown SC
+4779<br>Stillorgan, Saint Raphaels Estate
+4781<br>IDA Poppintree
+4782<br>Artane, Gracefield Road
+4784<br>CRC
+4785<br>CRC
+4788<br>Poppintree, Finglas Business Park
+4790<br>Pinebrook Drive
+4791<br>Collins Avenue East
+4792<br>Clanawley Road
+4793<br>Finglas, Avila Park
+4794<br>Clontarf Station
+4795<br>Palmerston, Liffey Valley Shopping Centre
+4796<br>Ronanstown, Glenfield Estate
+4797<br>Clondalkin, Lucan Newlands Road
+4798<br>Palmerstown, Coldcut Road
+4799<br>Palmerstown, Ballyfermot Road
+4800<br>Baldoyle, Baldoyle Industrial Estate
+4804<br>Donaghmede, Donaghmede Roundabout
+4806<br>Clongriffin, Grange Abbey Drive 2
+4820<br>Westmanstown Sports
+4825<br>Carpenterstown, Carpenterstown Pk (Carpenterstown Rd)
+4826<br>Westmanstown Sports
+4830<br>Dalkey, Barnhill Road
+4843<br>Abbeyvale Brackenstown Road
+4844<br>Glencree, Halting Site
+4847<br>Sandyford, Luas Car Park
+4848<br>Sandyford, Blackthorn Drive (Blackthorn Road)
+4854<br>Warrenmount, Ardee Street
+4855<br>Warrenmount, O'Donovan Road
+4856<br>Warrenmount, Donore Avenue
+4857<br>Warrenmount, Rutledge Terrace
+4861<br>Templeogue, Rossmore Road
+4862<br>Templeogue, Orwell Road
+4863<br>Templeogue, Orwell Road
+4864<br>Templeogue, Rossmore Road (The Watercourse)
+4865<br>Templeogue, Rossmore Drive
+4869<br>Knocklyon, Orlagh Park
+4870<br>Knocklyon, Saint Colmcille's Way
+4871<br>Firhouse, Killininny Road
+4872<br>Firhouse, Parklands Avenue
+4873<br>Firhouse, Old Court Farm
+4874<br>Firhouse, Old Court Road
+4877<br>Oldbawn, Firhouse Road West (Kiltipper Ave)
+4878<br>Oldbawn, Firhouse Road West
+4880<br>Oldbawn, Firhouse Road West
+4882<br>Firhouse, Old Court Road
+4883<br>Firhouse, Old Court Farm
+4884<br>Firhouse, Parklands Avenue
+4885<br>Firhouse, Killininny Road
+4886<br>Knocklyon, Saint Colmcille's Way
+4887<br>Knocklyon, Saint Colmcille's Way
+4888<br>Palmerston, Palmerstown Crescent
+4890<br>Finglas, Sycamore Road (McKee Road)
+4891<br>Glasnevin North, Grove Road (Sycamore Road)
+4893<br>Carpenterstown, Luttrellstown Green
+4894<br>Carpenterstown, Luttrellstown Court
+4895<br>Carpenterstown, Fernleigh Close
+4897<br>Carpenterstown, Luttrellstown Thicket
+4898<br>Carpenterstown, Castleknock Community College
+4899<br>Castleknock, Auburn Avenue (Castleknock Park)
+4900<br>Castleknock, Auburn Avenue (Hadleigh Estate)
+4901<br>Castleknock, Hadleigh Green
+4902<br>Castleknock, Auburn Avenue (Castleknock Park)
+4903<br>Blanchardstown, Parkview
+4905<br>Swords Manor Brackenstown Road Swords
+4906<br>Valley View Murrough Road Swords
+4907<br>The Gallops Murrough Road
+4908<br>Lios Cian Murrough Road
+4909<br>Ardcian Murrough Road
+4910<br>Cianlea Murrough Road Swords
+4911<br>Ardcian Murrough Road
+4912<br>Lios Cian Murrough Road
+4913<br>Valley View Murrough Road Swords
+4914<br>Knocksedan, Saint Cronan's Avenue
+4915<br>Swords Manor Brackenstown Road Swords
+4916<br>Swords, National Training Centre
+4917<br>Swords, Saint Colmcille GAA
+4918<br>Jugback Lane Glen Ellan Road Swords
+4919<br>Applewood Glen Ellan Road Swords
+4920<br>Laurelton Estate Glen Ellan Road
+4921<br>Laurelton Estate Glen Ellan Road
+4922<br>Applewood Glen Ellan Road Swords
+4923<br>Jugback Lane Glen Ellan Road Swords
+4924<br>Swords, Glen Ellan Estate (Business Park)
+4925<br>Swords, Sports Ground
+4926<br>Swords, Forest Road
+4927<br>Oldbawn, Killinarden Heights/Avenue
+4928<br>Jobstown, Hazelgrove Court
+4929<br>Citywest, Saggart Abbey
+4930<br>Citywest, Citywest Road (Garter Avenue)
+4931<br>Citywest, Castle House
+4932<br>Citywest, Citywest Road (Magna Drive)
+4933<br>Citywest, Belfry Estate
+4934<br>Cabra East, Dowth Avenue
+4935<br>Cabra East, Faussagh Road (Dowth Ave)
+4936<br>Cabra East, Cabra Road
+4937<br>Finglas, Seamus Ennis Road
+4938<br>Finglas, McKee Avenue (Near Finglas Village)
+4952<br>Belfield, University College Dublin
+4953<br>Belfield, University College Dublin
+4956<br>Newcastle, Newcastle Road (Sea Road)
+4957<br>Knocksedan, Abbeyvale Estate
+4958<br>Swords, F.A.S
+4960<br>Citywest, Corrigmore Estate
+4962<br>Mountjoy Square Nth
+4974<br>Corduff (Fingal), National Aquatic Centre
+4976<br>Corduff, Snugboro Road
+4978<br>Corduff (Fingal), Blanchardstown Corporate Park
+4979<br>Corduff (Fingal), Cruiserath Road
+4980<br>Corduff, Blanchardstown Road (Industrial Park)
+4981<br>Sallynoggin, Pearse Villas
+4982<br>Loughlinstown, Loughlinstown Wood Estate
+4983<br>Dun Laoghaire Stn
+4984<br>Sandyford, Burton Hall Road
+4985<br>Poppintree, Lanesborough Estate
+4986<br>Tyrrelstown, Curragh Hall Gate
+4987<br>Stone Masons Way
+4988<br>Stone Masons Way
+4989<br>Mulhuddart, I.B.M Industries
+4990<br>Damastown Industrial Park, Damastown Road
+4991<br>Mulhuddart, Damastown Road
+4992<br>Mulhuddart, Sports Grounds
+4994<br>Corduff, Warrenstown Estate
+4995<br>Mulhuddart, Damastown Road
+4996<br>Mulhuddart, Castlecurragh ESaint
+4997<br>Mulhuddart, Castlecurragh ESaint
+4998<br>Mulhuddart, Castlecurragh Heath
+4999<br>Corduff, Warrenstown Estate
+5006<br>Le Fanu Road
+5007<br>Convent Lawns
+5008<br>Tallaght, Belgard Square
+5009<br>Le Fanu Road
+5011<br>Belgard Road
+5013<br>Stepaside, Belarmine Plaza
+5014<br>Stepaside, Belarmine Park
+5015<br>Stepaside, Littlewood Apartments
+5016<br>Stepaside, Castlethorn Estate
+5022<br>Citywest, Lake Drive
+5023<br>Oldbawn, Cushlawn Avenue
+5024<br>Oldbawn, Kiltipper Way
+5025<br>Warrenmount, The Coombe
+5026<br>Crumlin, Cashel Road
+5028<br>Rathingle, Boroimhe Maples
+5029<br>Rathingle, Boroimhe Estate
+5030<br>Rathingle, Boroimhe Maples
+5031<br>Rathingle, Boroimhe Estate
+5032<br>Windy Arbour, Dundrum Road
+5033<br>Kilmore, Beaumont Hospital
+5044<br>Swords, Swords Business Park
+5045<br>Kilmacud, Saint Raphaela's Estate.
+5046<br>Carrickmines, Druid Valley
+5047<br>Carrickmines, Druid Valley
+5051<br>Ballinteer, Brehon Field Road
+5052<br>Ballinteer, Ballintyre Estate
+5053<br>Dublin Airport, Main Airport Runway
+5055<br>Hazelwood
+5056<br>Palmerstown, Roundabout for Liffey Valley Slip Road
+5058<br>Lucan, Ballyowen Road (near junction Castle Road)
+5060<br>Kilmore, Dundaniel Road (Oscar Traynor Road)
+5061<br>Kilmore, Dundaniel Road
+5062<br>Fingal, La Vista Road
+5064<br>Balbriggan, Dublin Road
+5069<br>Donabate, Carr Miles Estate
+5071<br>Corduff (Fingal), Cruiserath Road
+5072<br>Corduff (Fingal), Blanchardstown Corporate Park
+5073<br>Swords, Dublin Road Roundabout
+5074<br>Swords, Swords Road (Pavillions)
+5075<br>Knocksedan, Rathbeale Road
+5076<br>Broadmeadow, Rathbeale Rd (Brackenstown Ave)
+5077<br>Commons West (Dublin), Brackenstown Avenue
+5078<br>Commons West (Dublin), Brackenstown Avenue
+5079<br>Swords, Swords Road (Pavillions)
+5081<br>Killeen
+5082<br>Swords Road (Millview)
+5084<br>Swords, Rockingham Terrace
+5086<br>Swords, Milesian Court
+5088<br>Woodview Drive
+5089<br>Wolfe Tone Square
+5090<br>DÃºn Laoghaire-Rathdown, Shaganagh Cemetery
+5091<br>Bray, Ballywaltrim Heights
+5092<br>Bray, Springfield Cemetery
+5096<br>Jamestown, Rathbeale Road (Balcartie Road)
+5097<br>Warrenmount, New Street South
+5099<br>The Coombe, Newmarket Street
+5105<br>Cluny Grove
+5106<br>Ballyogan Luas
+5110<br>Kilbride (Carlow), Arduan
+5111<br>Blessington, Community Education Centre
+5112<br>Leixlip, Castletown Estate
+5113<br>Maynooth, Main Street
+5114<br>Maynooth, Kingsbury Estate
+5118<br>Celbridge, Maynooth Road (Hawthorn View)
+5119<br>Citywest, Brownsbarn Orchard Estate
+5120<br>Citywest, Sports Club
+5121<br>Clondalkin, Naas Road N7
+5122<br>Clondalkin, Green Isle Road
+5123<br>Clondalkin, Newlands Manor Drive
+5124<br>Clondalkin, Naas Road N7
+5125<br>Citywest, Kingswood Road
+5126<br>Community School
+5127<br>Cabinteely, Maple Manor
+5128<br>Cabinteely, Cornelscourt Shopping Centre
+5129<br>Rathfarnham, Butterfield Avenue
+5130<br>Rathfarnham, Charleville Square
+5131<br>Rathfarnham, Brookmount Court
+5132<br>Rathfarnham, Butterfield Avenue
+5133<br>Tallaght, Castle Park
+5134<br>Ballyfermot, Lally Road
+5135<br>County Wicklow, Golf Club
+5136<br>Newcastle, Gorse Hill
+5138<br>Esker Lodge
+5139<br>County Wicklow, Greystones Road (Windgate)
+5140<br>Docklands, Connolly Car Park
+5141<br>Seafield Road West
+5142<br>Sandyford, Blackthorn Avenue at LUAS Station
+5143<br>Sandyford, Blackthorn Drive (Limes Road)
+5144<br>Cabra, Marian College
+5145<br>Ashtown, Rathbourne Avenue
+5147<br>Cabra, Marian College
+5148<br>Crumlin, Kildare Road (Bangor Road)
+5149<br>Drimnagh, Errigal Road (Mourne Road)
+5150<br>Walkinstown, Ashleaf Hall
+5154<br>Donaghmede, Grange Abbey Drive
+5155<br>Clongriffin, Grange Abbey Grove
+5156<br>Baldoyle, Tom Walsh Motors
+5157<br>Donaghmede, Bridge
+5160<br>Clongriffin, Grange Road
+5161<br>Oldbawn, Marlfield Estate
+5162<br>Aylesbury (Dublin), Cushlawn Avenue
+5164<br>Lucan, Ballyowen Road (near junction Castle Road)
+5165<br>Donabate, Willowbrook Estate
+5167<br>Woodview Drive
+5168<br>Kerrymount Avenue
+5169<br>Greenhills, Lower Ballymount Road
+5171<br>Ballinteer, Kingston Estate
+5174<br>Kilmore, Dundaniel Road
+5175<br>Jamestown, Drogheda Road (M1 Motorway)
+5176<br>Rush, Whitestown Cemetery
+5192<br>Dublin City South, Fleet Street
+6000<br>Kilmacanogue
+6001<br>Citywest, Kingswood Avenue
+6002<br>Citywest, Kingswood Avenue
+6003<br>Clondalkin, Green Isle Hotel
+6004<br>Dublin, The Gate Hotel
+6005<br>Tyrrelstown, The Plaza Apartments
+6006<br>Ballinteer, Sandyford Road
+6007<br>Ballinteer, Sandyford Road
+6009<br>Hazelwood
+6010<br>Malahide, Waterside Estate
+6011<br>Clondalkin, New Nangor Road
+6013<br>Clondalkin, New Nangor Road (Roundabout)
+6014<br>Clondalkin, New Nangor Road
+6015<br>Rathingle, Cherry Avenue
+6016<br>Ballymun, Saint Margaret's Road (Balbutcher Lane)
+6017<br>Ballymun, Balbutcher Lane (Carton Terrace)
+6019<br>Glen Of The Downs
+6020<br>Parkwest, Cherry Orchard Avenue
+6021<br>Parkwest, Cherry Orchard Avenue
+6023<br>Parkwest, Barnville Green
+6024<br>Parkwest, Barnville Green
+6025<br>Parkwest, Barnville Walk
+6026<br>Parkwest, Barnville Walk
+6027<br>Parkwest, Railway Bridge
+6028<br>Parkwest, Railway Bridge
+6029<br>Parkwest, Park West Avenue
+6030<br>Parkwest, Park West Avenue
+6033<br>Rathingle, Rathingle Road
+6039<br>Waterville Terrace
+6041<br>Dundrum, Outside Luas Station
+6042<br>Rathmines, Church Avenue
+6044<br>Dundrum, Outside Luas Station
+6048<br>Balbriggan, Saint Paul's Crescent
+6050<br>Donabate, Drogheda Road (Hearse Road)
+6051<br>Portmarnock, Sports and Leisure Centre
+6052<br>Portmarnock, Portmarnock Sports Centre
+6053<br>Portmarnock, Malahide Golf Club
+6054<br>Malahide Road (Pavilions)
+6055<br>Malahide, Waterside Estate
+6056<br>Walkinstown, Kilnamanagh Road
+6057<br>Walkinstown, Kilnamanagh Road
+6059<br>Dublin, Millennium Spire
+6068<br>Finglas, Cappagh Road
+6070<br>Ballyfermot, Decies Road
+6071<br>Dublin, Marlborough Street
+6073<br>Lohunda Court
+6074<br>Dublin City South, Earlsfort Terrace
+6075<br>Citywest, Cookstown Rd (Fortunestown Way)
+6076<br>Skerries, Dublin Road (Community Centre)
+6077<br>Skerries, Ballast Pit
+6078<br>Kilmore, Dundaniel Road (Oscar Traynor Road)
+6079<br>Clare Hall, Temple View Vale Road
+6080<br>Finglas South, Kildonan Road
+6082<br>Greythorn Park
+6083<br>Greenhills, Ballymount Square
+6085<br>Link Road (Deansgrange Road)
+6086<br>Link Road (Deansgrange Road)
+6087<br>Malahide, Biscayne Estate
+6088<br>Clonsilla, Shelerin Road
+6089<br>Maynooth, Straffan Road
+6094<br>Drimnagh, Errigal Rd
+6095<br>Tallaght, Drumcairn Estate
+6097<br>Enniskerry, Ashridge Green
+6103<br>St Kevin's Villas
+6107<br>Blanchardstown, Charnwood
+6108<br>Clonsilla, Castlefield Court
+6109<br>Clonsilla, Mount Symon
+6110<br>Blanchardstown, Allendale Square
+6111<br>Blanchardstown, Allendale Square
+6112<br>Blanchardstown, Mount Symon Close
+6113<br>Blanchardstown, Lohunda Park
+6115<br>Darndale, Malahide Road
+6117<br>Malahide Road (Pavilions)
+6119<br>Newcastle, The Beeches
+6122<br>Wadelai, Saint Pappin's Road
+6124<br>Saggart, Saint Brigid's Home
+6125<br>Poppintree, Balbutcher Lane (Carrig Road)
+6126<br>Marymount Care Ctr
+6127<br>Marymount Care Ctr
+6128<br>Ballycullen Avenue
+6130<br>Darndale, Priorswood Road
+6132<br>Templeogue, Wellington Road
+6133<br>Laraghcon
+6134<br>Laraghcon
+6135<br>Portmarnock, Hill Court Estate
+6137<br>Kilcoole, Kilcoole Golf Club
+6138<br>Drake's Way
+6139<br>Bridge Road
+6140<br>Long Mile Road
+6141<br>Greenhills, Long Mile Road (Naas Road)
+6142<br>Long Mile Road
+6143<br>Clondalkin, New Nangor Road (Ninth Lock Road)
+6144<br>Greenhills, Long Mile Road (Naas Road)
+6145<br>Fox & Geese, Killeen Road
+6146<br>Fox & Geese, New Nangor Road (Knockmitten Lane)
+6147<br>Fox & Geese, New Nangor Road (Willow Road)
+6149<br>Fox & Geese, M50 Flyover
+6150<br>Clondalkin, New Nangor Road
+6152<br>Clondalkin, New Nangor Road
+6153<br>Fox & Geese, M50 Flyover
+6154<br>Fox & Geese, New Nangor Road (Knockmitten Lane)
+6155<br>Fox & Geese, New Nangor Road (Killeen Road)
+6156<br>Leixlip, Leixlip GAA Club
+6157<br>Leixlip, Easton Road (Accomodation Road)
+6158<br>Leixlip, Easton Road (Gleneaston)
+6159<br>Leixlip, Easton Road (Gleneaston)
+6160<br>Leixlip, Easton Road (Accomodation Road)
+6161<br>Leixlip, Green Lane (Maynooth Road)
+6162<br>St. Margaret's, Saint Margaret's
+6163<br>Walkinstown, Greentrees Park
+6164<br>Leixlip, Easton Road (Accomodation Road)
+6165<br>Leixlip, Green Lane (Oaklawn)
+6170<br>Tallaght, Kiltipper Way (opp Cushlawn)
+6171<br>Corduff (Fingal), Annagh Court
+6172<br>Clonsilla, Blanchardstown Road
+6179<br>Mill Road
+6182<br>Ballymun, Santry Cross
+6184<br>Greenoge, Greenoge
+6185<br>Greenoge, Greenoge
+6186<br>Greenoge, Greenogue Business
+6187<br>Newcastle (South Dublin), Ballynakelly Cottages
+6188<br>Greenoge, Newcastle Road R120
+6196<br>Rockview Road
+6197<br>Rockview Road
+6198<br>Sandyford View
+6199<br>Rockview
+6200<br>Rockview
+6201<br>Sandyford View
+6215<br>Greenoge, Greenogue Business Park
+6216<br>Greenoge, Newcastle Road R120
+6219<br>Charlestown (Dublin City), Melville Estate
+6228<br>Charlestown (Dublin City), Melville Estate
+6229<br>Charlestown, Melville Estate
+6230<br>Charlestown, Melville Estate
+6234<br>St. Margaret's, Harristown Bus Depot
+6235<br>St. Margaret's, Harristown Bus Depot
+6238<br>Ballymun, Saint Margaret's Road (Balbutcher Lane)
+6239<br>Ballymun, Dolmen Court
+6241<br>Poppintree, Crannogue Road
+6242<br>Clondalkin, New Nangor Road (Ninth Lock Road)
+6243<br>Fox & Geese, New Nangor Road (Willow Road)
+6244<br>Clondalkin, New Nangor Road (Bawnogue Road)
+6245<br>Clondalkin, New Nangor Road (Bawnogue Road)
+6247<br>Nangor, Fonthill Road
+6251<br>Docklands, Outside Train Station
+6252<br>Jury's Inn Custom House Quay
+6253<br>Poppintree, Balbutcher Drive
+6273<br>Finglas, Sycamore Road (McKee Road)
+6274<br>Corduff (Fingal), National Aquatic Centre
+6276<br>Poppintree, Jamestown Road
+6277<br>Knocklyon, Stocking Avenue (Stocking Wood Estate)
+6278<br>Knocklyon, Stocking Wood Estate
+6279<br>Knocklyon, Stocking Avenue (Dalriada Avenue)
+6280<br>Knocklyon, Dalriada Estate
+6282<br>Ballycullen Road (Hunter's Avenue)
+6283<br>Oldcourt, Ballycullen Road (Woodstown Park)
+6285<br>Knocklyon, Dalriada Estate
+6286<br>Knocklyon, Stocking Avenue (Dalriada Avenue)
+6287<br>Knocklyon, Stocking Wood Estate
+6288<br>Knocklyon, Stocking Avenue (Stocking Wood Estate)
+6289<br>Adamstown, Outside Train Station
+6290<br>Adamstown, Outside Train Station
+6298<br>Knocklyon, Woodfield Estate
+6310<br>Drinan, Link Road
+6311<br>Holywell Distributor Road M1 Airside
+6312<br>Drinan, Link Road
+6315<br>Clongriffin, Hole in the Wall Road
+6316<br>Clongriffin, Clongriffin (near Grange Lodge Ave)
+6317<br>Clongriffin, Park and Ride Car Park
+6318<br>Clongriffin, Main Street
+6319<br>Clongriffin, Grange Lodge Avenue
+6320<br>Clongriffin, Hole in the Wall Road
+6324<br>Knocklyon, Prospect Estate
+6325<br>Knocklyon, Woodfield Estate
+6326<br>Knocklyon, Greenfield Park Estate
+6334<br>Blackrock (DunLaoghaire-Rathdown), Frascati Shopping Centre
+6335<br>Oldcourt, Woodstown Estate
+6336<br>Knocklyon, Prospect Estate
+6339<br>Edmondstown (South Dublin), Stocking Lane
+6341<br>Knocklyon, Stocking Avenue(Stocking Lane)
+6342<br>Knocklyon, Stocking Avenue(Stocking Lane)
+6343<br>Firhouse, Ballycullen Road (Glenlyon Park)
+6348<br>Charlestown, Charlestown Centre
+6359<br>Swords, Swords Road
+6361<br>Poppintree, Jamestown Road
+6362<br>Poppintree, Mayeston Hall
+6363<br>Poppintree, Hampton Wood
+6364<br>Charlestown, Charlestown New Road
+6365<br>Charlestown (Dublin City), Lanesborough Avenue
+6366<br>Charlestown, Silverdome Communications
+6367<br>Hampton Wood, Jamestown Rd, Hampton Wood Road
+7009<br>Finglas South, Ratoath Road (Tolka Valley Road)
+7010<br>At 14 metres south of PLP109
+7011<br>Castaheaney, Ongar DiSaint Road (Hazelbury Green)
+7012<br>Islandbridge, Con Colbert Road
+7013<br>Kilsallaghan, Kilreesk
+7014<br>Kilsallaghan, Kilreesk
+7015<br>Adamstown (South Dublin), Outer Ring Road
+7016<br>Adamstown (South Dublin), Outer Ring Road
+7017<br>Castaheaney, Ongar DiSaint Road (Hazelbury Green)
+7018<br>Castaheaney, Latchford
+7020<br>Blanchardstown, Ongar DiSaint Road
+7021<br>Blanchardstown, Ongar DiSaint Road
+7022<br>St. Margaret's, School
+7023<br>St. Margaret's, Church
+7025<br>Blanchardstown, Shopping Centre
+7026<br>Blanchardstown SC
+7027<br>Ashtown, Ratoath Road
+7028<br>Ashtown, Ratoath Road
+7029<br>Ongar Park, Ongar Road, Ravenwood Road
+7030<br>Ongar Park, Ongar Road, Ravenwood Road
+7031<br>Carpenterstown, Fernleigh Estate
+7038<br>Castaheaney, Latchford
+7039<br>Portraine, Portrane R126
+7043<br>Drimnagh, Drimnagh Road (Saint Marys Road)
+7044<br>Kilmore (Dublin City), Coolock Lane
+7047<br>Castaheaney, Ongar Green
+7048<br>Castaheaney, Ongar Green
+7049<br>Lucan, Lucan Bypass N4
+7050<br>Lucan, Lucan Bypass N4
+7053<br>Merrion, Nutley Lane
+7056<br>Sallynoggin, Somerton Estate
+7057<br>Kilmacud, Stillorgan Heath
+7062<br>Tallaght, Cheeverstown Rd (Cookstown Rd)
+7063<br>Rathfarnham, Marian Road
+7064<br>Rathfarnham, Anne Devlin Park
+7065<br>Rathfarnham, Ballyroan Road
+7066<br>Rathfarnham, Ballyroan Road
+7067<br>Edmondstown, Whitechurch Green
+7068<br>Rathfarnham, The Priory
+7069<br>Knocklyon, Ballyboden Park
+7070<br>Knocklyon, Ballyboden Park
+7072<br>Tyrrelstown, Carlton Hotel
+7073<br>Tyrrelstown, Carlton Hotel
+7074<br>Maynooth, Griffin Rath
+7075<br>Maynooth, Griffin Rath
+7078<br>Phoenix Park, Sean Heuston Bridge
+7079<br>Celbridge, Thornhill Meadows
+7080<br>Celbridge, Willowbrook Park
+7081<br>Celbridge, Aghards Road
+7082<br>Celbridge, Priory Square
+7083<br>Celbridge, Clane Road (Courtyard Estate)
+7084<br>Celbridge, English Road
+7085<br>Celbridge, English Row
+7086<br>Celbridge, Clane Road (Courtyard Estate)
+7087<br>Celbridge, Priory Square
+7088<br>Celbridge, Clane Road
+7089<br>Celbridge, Aghards Road
+7091<br>Celbridge, Aghards Road (Castle Village Estate)
+7092<br>Ballymun, Dolmen Court
+7097<br>Tyrrelstown, French Park
+7098<br>Tyrrelstown, Belgree Boulevard
+7099<br>Tyrrelstown, The Boulevard
+7100<br>Tyrrelstown, Rathmore Crescent
+7101<br>Ballentree Village, Bealing Village
+7102<br>Ballentree Village, Bealing Village
+7103<br>Tyrrelstown, Cruise Park Boulevard
+7104<br>Tyrrelstown, The Boulevard
+7105<br>Tyrrelstown, Belgree Boulevard
+7106<br>Tyrrelstown, French Park
+7107<br>Tyrrelstown, Bealing Boulevard
+7108<br>Celbridge, Celbridge
+7110<br>Celbridge, Dublin Road (Ballyoulster Road)
+7111<br>Charlestown (Dublin City), Lanesborough Grove
+7112<br>Kilmore (Clare), Amatuer League Complex
+7113<br>Ballymun, Ballymun Road
+7114<br>Swords, Seatown Villas
+7115<br>Swords, Airside Retail Park
+7116<br>Swords, Footbridge
+7117<br>Adamstown, Castlegate Estate
+7118<br>Adamstown, Adamstown Avenue
+7119<br>Adamstown, Castlegate Estate
+7120<br>Adamstown, Adamstown Avenue
+7121<br>Tallaght, Whitestown Way
+7122<br>Tallaght, Football Stadium
+7123<br>Tallaght, Football Stadium
+7124<br>Cloghran, Business Park
+7125<br>Cloghran, Business Park
+7126<br>Cloghran, Business Park (Ballycoolin Road)
+7127<br>Adamstown, Castlegate Way
+7128<br>Adamstown, Castlegate Way
+7129<br>Victoria Road
+7130<br>Kilmore, Kilbarron Road (Cromcastle Green)
+7131<br>Charlestown, Charlestown Shopping Centre
+7132<br>Charlestown, Charlestown Shopping Centre
+7133<br>Knocksedan, Oatlands
+7134<br>Knocksedan, Rathbeale Road (Rathbeale Cottages)
+7135<br>Rowlestown, Lispopple Crossroads
+7136<br>Rowlestown, Rolestown Cottages
+7137<br>Lucan, Johnsbridge Avenue
+7138<br>Adamstown, Grange Manor Close
+7139<br>Lucan, Griffeen Avenue
+7140<br>Adamstown, Rosberry Avenue
+7141<br>Lucan, Griffeen Valley Park
+7142<br>Adamstown (South Dublin), Outer Ring Road
+7143<br>Adamstown, Lock Road
+7144<br>Rowlestown, Rolestown Cottages
+7145<br>Knocksedan, Rathbeale Road (Rathbeale Cottages)
+7149<br>Ballymun, Saint Margaret's Road
+7153<br>Walkinstown, Walkinstown Drive
+7154<br>Walkinstown, Kilnamanagh Court
+7155<br>Clonsilla Road
+7156<br>Clonsilla, Grange Road
+7158<br>Castaheaney, Delhurst Estate
+7159<br>Castaheaney, Ongar Village
+7160<br>Castaheaney, Ongar
+7161<br>Castaheaney, Delhurst Estate
+7162<br>Castaheaney, Ongar Road (Hansfield Road)
+7163<br>Clonsilla, Windermere Estate
+7165<br>Robin Villas
+7166<br>Castleknock, Outside Train Station
+7167<br>Phoenix Park Racecourse, Navan Road Parkway (Outbound)
+7168<br>Lucan, Sports Grounds
+7169<br>Donabate, Donabate Community Centre
+7170<br>Portrane, Harneys Lane
+7172<br>Rush, Doctor's Lane
+7173<br>Balbriggan, Old Market Green
+7174<br>Balbriggan, Church
+7175<br>Balbriggan, Ardgillan Demesne
+7176<br>Sandyford Road (Greenlands)
+7177<br>Tallaght, Tynan Hall Park
+7178<br>Tallaght, Tynan Hall Avenue
+7180<br>Oldbawn, Firhouse Road West (Kiltiper Way)
+7181<br>Tallaght, The Square Shopping Centre
+7183<br>Oldbawn, Firhouse Road West (Kiltiper Way)
+7184<br>Ballyowen, Lucan Bypass
+7185<br>Lucan, Footbridge for Dodsboro
+7186<br>Lucan, Hotel
+7187<br>Lucan, Leixlip Road N4
+7188<br>Blackrock (Dun), Temple Road
+7189<br>Swords, Swords Business Park
+7191<br>Ballymun, Balbutcher Lane Nth
+7192<br>Ballymun, Balbutcher Lane Nth
+7193<br>Lucan, Lucan Bypass N4 (Tandy's Lane)
+7194<br>Drinan, Holywell Square
+7195<br>Drinan, Holywell Square
+7196<br>Drinan, Holywell Ward
+7197<br>Drinan, Holywell Ward
+7199<br>Edenmore, Blunden Drive
+7201<br>Nangor, Bawnogue Road, Lockview Road
+7204<br>Portrane, Seaview Estate
+7207<br>Russborough House
+7208<br>Russborough House
+7214<br>Belgard Square West between Marks
+7216<br>Docklands, North Wall Quay (Guild Street)
+7217<br>Clonsilla, The Courtyard
+7218<br>Clonsilla, The Courtyard
+7219<br>Clonsilla, Blanchardstown Road (Clonsilla Road)
+7222<br>Enterprise Centre
+7224<br>Cloghran, Stadium Business Park
+7226<br>Monkstown, Monkstown Avenue (Richmond Grove)
+7227<br>Clonsilla, Blanchardstown Road (Clonsilla Road)
+7229<br>Nangor, Business Park Bus Terminus
+7230<br>Nangor, Cuisine de France
+7231<br>Adamstown (Wexford), Hotel
+7233<br>Carpenterstown, Carpenterstown Road
+7234<br>Leixlip, Old Hill Leixlip
+7236<br>Clongriffin, Main Street
+7237<br>Cloghran, Ballycoolin Road
+7238<br>Cloghran, Ballycoolin Road
+7239<br>Palmerstown, Lucan Road N4
+7240<br>Clonsilla, Outside Train Station
+7241<br>Cloghran, Ballycoolin Road (Rosemount Business Park)
+7242<br>Cloghran, Ballycoolin Road (Rosemount Business Park)
+7243<br>Blanchardstown, Ballycoolin Road (Snugborough Road)
+7245<br>Clongriffin, Main Street
+7246<br>Clongriffin, Clongriffin (near Grange Lodge Ave)
+7247<br>Cloghran, Rosemount Business Park
+7248<br>County Wicklow, Valleymount Road R758
+7249<br>County Wicklow, Valleymount Road R758
+7250<br>Blessington, Baltinglass Road (Blessington)
+7251<br>Blessington, Baltinglass Road (Blessington)
+7252<br>County Wicklow, Baltinglass Road N81
+7253<br>County Wicklow, Baltinglass Road N81
+7254<br>County Wicklow, Bridge
+7255<br>County Wicklow, Bridge
+7256<br>Valleymount, Valleymount Road R758
+7257<br>Valleymount, Valleymount Road R758
+7258<br>Valleymount, Pollaphuca
+7259<br>Valleymount, Pollaphuca
+7260<br>Valleymount, Bridge car park
+7261<br>Valleymount, Bridge car park
+7262<br>Valleymount, O'Connors Pub
+7263<br>Valleymount, School
+7264<br>Valleymount, Valleymount Road R758 #1
+7265<br>Valleymount, Valleymount Road R758 #1
+7266<br>Valleymount, Valleymount Road #1
+7268<br>County Wicklow, Village
+7270<br>County Wicklow, Valleymount Road
+7271<br>Newcastle, Newcastle Road (Newcastle Road)
+7272<br>Newcastle, Newcastle Road (Newcastle Road)
+7276<br>Ballymun, IKEA Retail Outlet
+7277<br>Ballymun, IKEA Retail Outlet
+7278<br>Ballymore Eustace, Ballymore Eustace
+7279<br>Newtown Business Ctr
+7280<br>Ballymore Eustace, Barrack Street
+7281<br>Ballymore Eustace, Waterworks Road
+7282<br>Ballymore Eustace, Waterworks Road
+7283<br>Ballymore Eustace, Ballymore Road
+7284<br>Ballymore Eustace, GAA club
+7286<br>Ballymore Eustace, Ballymore Road (N81)
+7287<br>Ballymore Eustace, Bishops Lane
+7288<br>Ballymore Eustace, Picnic area
+7289<br>Ballymore Eustace, Main Street
+7290<br>Stepaside, Belarmine Avenue
+7291<br>Stepaside, The Rectory Estate
+7292<br>Skerries, Dublin Road (Community Centre)
+7293<br>Terenure, Rathfarnham Road
+7294<br>Main Street (Quinnsborough Road)
+7295<br>Sutton Road
+7296<br>Kilcoole, Kilcoole Golf Club
+7297<br>Connolly Hospital
+7298<br>Connolly Hospital
+7313<br>Leixlip, Beechpark
+7314<br>Easton Road (Outbound at Beechpark)
+7317<br>Ballybrack, Wyattville Road
+7318<br>Cloghran, Cruiserath Road
+7319<br>Cloghran, Cruiserath Road
+7320<br>Fairview, Philipsburgh Avenue (Griffith Court)
+7323<br>Wyattville Road
+7324<br>The View
+7325<br>Foxrock, Bewleys Hotel
+7326<br>Foxrock, Bewleys Hotel
+7327<br>Portmarnock, Blackwoods Estate
+7328<br>Drinan, Feltrim Lane
+7329<br>Feltrim, Kettles Lane
+7330<br>Kill of The Grange, Monkstown Fitness Centre
+7331<br>Enterprise Centre
+7333<br>Burlington Road (Mespil Road)
+7334<br>Blanchardstown, Abbottstown Laboratories
+7339<br>Burlington Road (Mespil Road)
+7340<br>Dublin City South, Wilton Terrace
+7342<br>Cloghran, Ballycoolin Business Park
+7343<br>Cloghran, Ballycoolin Business Park
+7344<br>Cloghran, Business Park (Ballycoolin Road)
+7347<br>Dublin Airport, Terminals 1 and 2
+7348<br>Dublin Airport, Terminals 1 and 2
+7349<br>Dublin Airport, Great Southern Hotel
+7350<br>Charlestown, Charlestown Centre
+7351<br>Chapel Road
+7352<br>Greystones, Three Trouts Bridge
+7353<br>Stillorgan, Priory Grove
+7354<br>Clondalkin, Naas Road
+7358<br>Beaumont Woods, Castletimon Park
+7360<br>The Park
+7361<br>Deansgrange, Old Bray Road
+7362<br>Cabinteely, Cabinteely Bypass (Opp Cornelscourt)
+7363<br>Bray, Southern Cross Road (Killarney Road)
+7364<br>Bray, Belmont Estate
+7365<br>Southern Cross Road (Earlsfort)
+7366<br>Bray, Bray Business Park
+7367<br>Bray, Deepdales Estate
+7368<br>Bray, Giltspur Retail Park Roundabout
+7369<br>Dargle Villas
+7370<br>Dublin City South, Burlington Place
+7372<br>Carrickmines Luas
+7373<br>Carrickmines Luas
+7374<br>Blanchardstown, Total Fitness
+7375<br>Sandyford Road (M50 Bridge)
+7379<br>Clonsilla, Blanchardstown Road S
+7380<br>Castleknock, Laurel Lodge Road
+7381<br>Mulhuddart, Damastown Green
+7382<br>Mulhuddart, Damastown Way
+7385<br>Merrion Square South
+7386<br>Ballyowen, Foxborough Road (Ballyowen Road)
+7387<br>Merrion Square South
+7388<br>Castaheaney, Blackwood Estate
+7389<br>Blanchardstown, Navan Road N3
+7390<br>Merrion Square South
+7391<br>Merrion Square South
+7392<br>Temple Bar, Aston Quay
+7393<br>Marsham Court
+7394<br>Lakelands Lawn
+7395<br>Saggart, Slade Hill Saggart
+7396<br>Ashtown, Compass Court
+7397<br>Docklands, Guild Street Jurys Hotel
+7398<br>Docklands, Convention Centre
+7399<br>The 3Arena (Point Depot)
+7400<br>Dublin Airport, Terminal 2
+7401<br>Dublin Airport, Terminal 2
+7402<br>Dublin, Gardiner Street
+7412<br>Warrenmount, The Coombe
+7413<br>Liberties, Dean Street
+7414<br>Crumlin, Kildare Road (Windmill Road)
+7415<br>Stepaside, Murphystown Way
+7416<br>Stepaside, Mount Eagle Park
+7417<br>Stepaside, Murphystown Way
+7418<br>Stepaside, Mount Eagle Lawn
+7419<br>Deansgrange, Monkstown Link Road
+7420<br>Galloping Green, Monkstown Link Road
+7421<br>Galloping Green, Annaville Avenue
+7422<br>Deansgrange, Monkstown Link Road
+7423<br>Glasnevin North, PLP31
+7424<br>Glasnevin, Glasanaon Road (Ballygall Place)
+7425<br>Glasnevin, Boundary wall
+7426<br>Glasnevin North, Ballygall Parade
+7427<br>Glasnevin, Glasanaon Road (Ballygall Place)
+7428<br>Glasnevin, Close to PLp35
+7430<br>Griffith Avenue Extension
+7431<br>Griffith Avenue Extension
+7432<br>Mill Road Opposite Mill Race
+7433<br>Nangor, Dunawley Avenue
+7435<br>Islandbridge, Memorial Gardens gate
+7438<br>Dolphins Barn, Herberton Road
+7439<br>Drimnagh, Herberton Drive
+7440<br>Edmondstown, Edmonstown An Post
+7441<br>Rockbrook, Edmonstown Road (Merry Ploughboy)
+7442<br>Ballyboden, The Glen
+7443<br>Ballyboden, Templeroan Lodge
+7444<br>Ballyboden, Ballyboden Way
+7445<br>Ballyboden, Scholarstown Road
+7446<br>Knocklyon, Ballyboden Way
+7447<br>Grange Golf Club
+7448<br>Grange Golf Club
+7449<br>Ballyboden, Taylor's Lane
+7453<br>Smithfield, Ocean House
+7454<br>Rialto, Herberton Road
+7455<br>Rialto, New Ireland Road
+7458<br>Ballygall Road/Avenue
+7459<br>Citywest, Bianconi Avenue
+7460<br>Citywest Road Citywest Shopping Centre
+7461<br>Charlesland Road Charlesland Shopping Ctr
+7462<br>Charlesland Road (Seaborne View Apts)
+7469<br>Mount Prospect Ave Junction Clontarf Rd
+7471<br>Tolka Valley Road at Cloonlara
+7472<br>Rochestown Avenue Opposite Killiney Shop
+7473<br>Fonthill Road at Foxdene Estate
+7475<br>Blanchardstown Retail Park
+7505<br>Tyrrelstown, Bealing Boulevard
+7507<br>Parkwest, Cherry Orchard School
+7510<br>Cloverhill Road
+7513<br>Arbour Hill, Phoenix Park Gate
+7514<br>East Wall, Bargy Road
+7516<br>Baldoyle Roundabout
+7522<br>Oldcourt
+7550<br>Donomore Crescent
+7551<br>Abbey Park
+7552<br>Grange Park
+7553<br>Park Pointe SC
+7554<br>Park Pointe SC
+7555<br>Mountjoy Square Nth
+7556<br>Abberley
+7559<br>The Oaks
+7560<br>The Oaks
+7563<br>Lucan, Sports Grounds
+7564<br>Dublin City, Poolbeg Street
+7565<br>Celbridge, Clane Road
+7567<br>Blackthorn Avenue
+7568<br>Dublin City, Eden Quay
+7569<br>Dublin, Talbot Street
+7570<br>Texaco Garage
+7571<br>The Helix
+7574<br>Balywaltrim
+7575<br>Texaco Garage
+7577<br>Camden Street
+7578<br>Dublin City South, South Great George's Street
+7579<br>Dublin City South, Redmond's Hill
+7581<br>South George's Street
+7582<br>Temple Bar, Central Bank
+7584<br>Stillorgan, Stillorgan Park
+7585<br>Clare Street
+7586<br>Clare Street
+7587<br>Shaw Street
+7588<br>Pearse Street
+7591<br>Dublin, National Lottery Head Quarters
+7599<br>Gilford Road
+7601<br>Dublin Port
+7602<br>St Patricks College of Education Drumcondra
+7603<br>St Patricks College of Education Drumcondra
+7607<br>Vernon Avenue
+7611<br>Irish Rail Building North Wall Quay
+7612<br>Davenport Hotel Merrion Street
+7616<br>The Warren
+7622<br>Dublin, Bachelors Walk, Liffey Street
+7623<br>East Wall, East Wall Road
+7634<br>Cabinteely Court
+7635<br>Cabinteely Court
+7636<br>Mackintosh Park
+7637<br>Clonkeen Crescent
+7639<br>Rathmichael, Bride's Glen Bus Stop
+7640<br>Tullyvale, Cherrywood Business Park
+7641<br>Sallynoggin, Sallyglen Rd
+7642<br>Glenageary Heights, Sallyglen
+7643<br>Glenageary Heights, Sallyglen
+7644<br>Glenageary Heights, Sallyglen
+7645<br>Glenageary Heights, Sallyglen
+7646<br>Glenageary Heights, Sallyglen
+7651<br>Amgen
+7654<br>Knocksedan, Knocksedan
+7660<br>Blackrock (DunLaoghaire-Rathdown), Frascati Road
+7661<br>Finglas, Barry Avenue
+7665<br>Dublin City, Poolbeg Street
+7666<br>Barnhill Road
+7667<br>Glenageary, Barnhill Rd
+7668<br>Charleston Road
+7671<br>Summerhill (Dublin City), Sean Macdermott Street Lower
+7672<br>Dublin, Broombridge Luas
+7673<br>Cappoge (Dublin), Ballycoolin Road
+7674<br>Northwest Business Park (Dublin), Business Park
+7676<br>Northwest Business Park (Dublin), Mitchelstown Road
+7677<br>Cloghran, Mitchelstown Road
+7678<br>French Park, Tyrrelstown
+7679<br>Mooretown (Dublin), Mitchelstown Road
+7680<br>Northwest Business Park (Dublin), Mitchelstown Road
+7681<br>Northwest Business Park (Dublin), Cappagh Road
+7682<br>The Grange (Dublin), Cappagh Road
+7683<br>Cappoge (Dublin), Ballycoolin Road
+7686<br>Cabra West, Broombridge Luas
+7690<br>Rush, The Strand Bar
+7691<br>Donabate, Turvey Avenue
+7692<br>Waterside (Dublin), Malahide Road
+7697<br>Ballymun, St.Margaret's Road
+7698<br>Ballymun, St.Margaret's Road
+7699<br>Ongar Green, Blackwood Park
+7700<br>Ongar Green, Willian's Drive
+7701<br>Finglas, Rathvilly Road
+7702<br>Cabra West, Ratoath Road
+7703<br>Cabra West, Ratoath Road
+7704<br>Maynooth Road, Carton Wood
+10091<br>Taney Grove
+10092<br>Mount Anville School
+10093<br>Deerpark Road
+10096<br>Deerpark Road
+10097<br>Mount Anville School
+10098<br>Taney Road
+10103<br>Wyckham Way
+10104<br>Ballintyre Grove
+10105<br>Scholarstown Park
+10106<br>St Colmcilles School
+10107<br>Tallaght Leisure Ctr
+10108<br>Glenshane Drive
+10109<br>Brookview Avenue
+10110<br>Ard Mor Drive
+10150<br>Ard Mor Drive
+10151<br>Brookview Avenue
+10152<br>Glenshane Drive
+10153<br>Tallaght Leisure Ctr
+10154<br>Scholarstown Park
+10155<br>Ballintyre Grove
+10156<br>Wyckham Way
+10157<br>Taney Park
+10158<br>Taney Crescent
+10159<br>Stoney Road
+10160<br>Taney Park
+10161<br>Sydenham Road
+10162<br>Sydenham Road

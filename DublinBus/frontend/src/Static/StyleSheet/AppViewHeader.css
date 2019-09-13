@@ -1,0 +1,76 @@
+.AppViewHeader{
+    position: relative;
+
+
+}
+
+
+
+.AppViewHeader .row{
+       height: 70px;
+
+   }
+#returnButton {
+    position: absolute;
+     margin-top:5px ;
+    font-size: 24px;
+    padding-top: 10px;
+    color:white;
+}
+#AppViewDropDown{
+   margin: auto;
+  width: 50%;
+    border-color: black;
+
+
+}
+.AppViewDropDown p {
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+}
+
+.AppViewHeader{
+    margin: auto;
+    background-color: #3577CE;
+}
+#Home{
+
+    color: white;
+    font-size: 16px;
+    top:30px;
+    right: 3px;
+
+    /*margin-bottom: -20px !important;*/
+    position: absolute;
+
+}
+.AppViewHeader h5{
+
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+.AppViewHeader h5{
+
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 380px) {
+.AppViewHeader h5{
+
+    margin-top:15px !important;
+
+    color: white;
+    text-align: center;
+}
+
+}
+
+

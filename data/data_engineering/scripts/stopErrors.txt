@@ -1,0 +1,45 @@
+512
+invalid literal for int() with base 10: '220VIR7663'--BUSARUS VIRTUAL STOP?? FROM TRansport of London document From a passenger perspective Virtual bus stops do
+not exist and should be filtered out. They are only used to model items within the TfL bus network.Should not be dispalyed to customers. 
+1383
+invalid literal for int() with base 10: '220VIR07491'
+
+1944
+invalid literal for int() with base 10: 'en:57102:7730:0:1'-7682
+
+2586-changed
+invalid literal for int() with base 10: '007347_merged_7777'-All merged are Dublin Airport
+
+3214
+invalid literal for int() with base 10: 'en:57102:7732:0:1'-changed to 7676
+
+3326
+invalid literal for int() with base 10: 'en:57102:7743:0:1'-changed to 7690
+3356
+invalid literal for int() with base 10: 'en:57102:3543:0:1'-virtual stop
+3378
+invalid literal for int() with base 10: 'en:57102:7943:0:1'-7703, google coordinates
+3404
+invalid literal for int() with base 10: '007401_merged_7773'-dub airport-not in use anymore I think. merged with 7401.
+3696
+invalid literal for int() with base 10: 'en:57102:7731:0:1'-googled coordinates 7674
+3818
+invalid literal for int() with base 10: 'en:57102:7733:0:1'-7677
+3907
+invalid literal for int() with base 10: 'en:57102:7948:0:1'-7701
+3974
+invalid literal for int() with base 10: '007400_merged_7775'-airport-not in use anymore. merged with 7400.
+4178
+invalid literal for int() with base 10: '220B007612'-7612
+4184
+invalid literal for int() with base 10: '007347_merged_7774'-airport-merged with 7347
+
+
+
+invalid literal for int() with base 10: 'en:57102:8021:0:1'-7705
+invalid literal for int() with base 10: 'en:57102:8022:0:1'-7706
+invalid literal for int() with base 10: 'en:57102:8023:0:1'-7707
+invalid literal for int() with base 10: 'en:57102:8024:0:1'-7708
+invalid literal for int() with base 10: 'en:57102:8025:0:1'-7709
+invalid literal for int() with base 10: 'en:57102:8026:0:1'-7710
+invalid literal for int() with base 10: 'en:57102:8027:0:1'-7711

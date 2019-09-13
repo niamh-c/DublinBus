@@ -1,0 +1,62 @@
+.SearchByStop button {
+    color: white;
+    fontSize: 20px;
+}
+
+#SearchByStopForm {
+    margin-bottom: 30px;
+    height: 120px;
+    padding-top: 2.5vh;
+}
+
+
+#EntireBox_SearchStop {
+    top: 30px;
+    left: 20px;
+    border: black;
+    height: 400px;
+}
+
+
+#SubmitButton {
+    display: block;
+    margin: auto;
+}
+
+
+.SearchByStop input {
+    display: block;
+    margin: auto;
+    width: 122%;
+     font-size: 18px;
+}
+
+.SearchByStop label {
+    /*display: block;*/
+    color: white;
+    font-size: 20px;
+    /*left: 400px;*/
+}
+
+.SearchByStop form {
+    margin-left: 20%;
+    margin-right: 25%;
+    width: 50%;
+
+}
+
+#formColor {
+    background-color: #32CD32;
+}
+
+@media only screen and (max-width: 420px) {
+#EntireBox_SearchStop {
+
+    left: 0;
+    border: black;
+    height: 400px;
+}
+
+
+
+}

@@ -1,0 +1,164 @@
+/*Responsive layout -
+when the screen is less than 390px wide,
+then change font size and form
+*/
+
+
+#EntireBox_ResultDestination {
+    top: 30px;
+    left: 20px;
+    border: black;
+    height: auto;
+    max-height:90vh;
+    overflow: scroll;
+}
+
+.DestinationResult {
+    margin-top: 20px;
+}
+
+.colors {
+    background-color: #32CD32;
+}
+
+.instruction_inner {
+    border-radius: 5px
+}
+
+.ResultPageDestination {
+    margin-top: 5px;
+}
+
+.ResultPageDestination li {
+    margin: auto;
+}
+
+.time_show {
+    height: auto;
+}
+
+.arrow_down_icon {
+    font-size: 20px;
+    border: none;
+    margin-left: 10px;
+}
+
+.instruction {
+    font-size: 16px;
+    color: black;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #32CD32;
+    border-radius: 12px;
+    min-height: 52px;
+}
+
+.instruction p {
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+
+.Icon {
+    /*margin: auto;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2px;
+    color: white;
+}
+
+.Icons_ResultPage {
+    display: inline-block;
+    width: 10%;
+
+    text-align: center;
+    height: auto;
+    font-size: 25px;
+
+}
+
+.instruction_text {
+
+    display: inline-block;
+    width: 70%;
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+
+.time_show {
+    width: 20%;
+
+
+}
+
+.result_destination {
+    font-size: 16px;
+    width: 200px;
+    color: black;
+
+    background-color: #32CD32;
+    height: 32px;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+.destination_text {
+    color: white;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.resultLabel{
+    margin: auto;
+      text-align: center;
+
+}
+.Icons_destination {
+    font-size: 22px;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+.DestinationLabels{
+  background-color: #FFCC00;
+    height: 40px;
+    width: 100%;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.DestinationLabels h5{
+        color: white;
+    margin: auto;
+
+}
+
+
+@media only screen and (max-width: 420px) {
+    .ResultPageDestination a {
+        font-size: 15px;
+    }
+
+    #EntireBox_ResultDestination {
+        top: 30px;
+        left: 0px;
+        border: black;
+        height: auto;
+    }
+
+
+}

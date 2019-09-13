@@ -1,0 +1,28 @@
+.ResultPageButton {
+    margin: auto;
+    margin-top: 20px;
+    height: 35px;
+     margin-bottom: 40px;
+}
+
+.ResultPageButton button {
+    height: 40px;
+    padding: auto;
+
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+
+
+}
+@media only screen and (max-width: 420px) {
+  .ResultPageButton button {
+      font-size: 15px;
+  }
+}
+
+

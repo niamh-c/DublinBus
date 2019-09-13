@@ -1,0 +1,123 @@
+.resultPageStop_Route {
+    max-width: 100%;
+
+}
+#EntireBox_ResultPageStopRoute{
+      top: 30px;
+    left: 20px;
+    border: black;
+    height: auto ;
+}
+
+.resultLabel {
+    margin: auto;
+    background-color: #3577CE;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.resultLabel h4 {
+
+    color: white;
+    margin-left: 8%;
+}
+
+.busLabels {
+
+    background-color: #FFCC00;
+    height: 40px;
+    max-width: 100%;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px;
+    margin: 7px;
+    margin-bottom: 10px;
+}
+
+.busLabels p {
+    color: white;
+     font-weight: bold;
+    font-size: 20px;
+  padding-left:20%;
+}
+
+#ArrivalLabel {
+    float: right;
+
+}
+
+.resultPageStop_Route form {
+    padding-bottom: 10px;
+    max-width: 100%;
+
+}
+
+.resultRows {
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.resultRows p {
+    background-color: #32CD32;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    height: 35px;
+    margin: auto;
+    border-radius: 6px
+}
+
+/*result scroll display ,more more more*/
+.ResultTableStopRoute{
+    overflow-y: scroll;
+    height: 200px;
+}
+
+.busArrivalTime {
+    margin: auto;
+    margin-left: 16%;
+}
+
+.busArrivalTime p {
+    margin-left: 5%;
+
+}
+
+#resultRowsLastRaw{
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 420px) {
+#EntireBox_ResultPageStopRoute{
+      top: 30px;
+    left: 0px;
+    border: black;
+    height: auto ;
+}
+
+}
+@media only screen and (max-width: 380px) {
+
+.resultLabel {
+    margin: auto;
+    background-color: #3577CE;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+    .resultLabel h4 {
+    color: white;
+    margin-left: 8%;
+        position: relative!important;
+}
+    .busLabels{
+        padding-top:5px;
+    }
+    .busLabels p{
+        font-size:  18px;
+
+    }
+#ArrivalLabel {
+    font-size: 18px;
+
+}
+}

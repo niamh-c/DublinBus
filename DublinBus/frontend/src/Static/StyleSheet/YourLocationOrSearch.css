@@ -1,0 +1,30 @@
+.icon {
+    color: white;
+    font-size: 27px;
+
+    margin: auto;
+
+}
+
+
+.YourLocationOrSearch {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+
+}
+
+#InputBoxYourLocationOrSearch {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    height: 30px;
+    text-align: center;
+    color: black;
+    background-color: white;
+     height: 35px;
+
+}
+

@@ -9,7 +9,7 @@ django-cors-headers==3.0.2
 django-downloadview==1.9
 django-filter==2.1.0
 django-nose==1.4.6
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 entrypoints==0.3
 enum-compat==0.0.2
 flake8==3.7.7

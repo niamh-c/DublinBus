@@ -4,7 +4,7 @@ certifi==2019.6.16
 chardet==3.0.4
 colorama==0.4.1
 coverage==4.5.3
-Django==2.2.4
+Django==2.2.20
 django-cors-headers==3.0.2
 django-downloadview==1.9
 django-filter==2.1.0
